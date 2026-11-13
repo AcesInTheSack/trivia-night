@@ -58,7 +58,7 @@ struct SplashView: View {
 
 /// Scales type with the screen so it reads well on a phone and on a TV via mirroring.
 func scale(_ size: CGSize) -> CGFloat {
-    let base = min(size.width / 1600, size.height / 900)
+    let base = min(size.width / 1200, size.height / 800)
     return min(max(base, 0.42), 1.4)
 }
 
@@ -95,20 +95,20 @@ struct GameView: View {
     private func topBar(s: CGFloat, compact: Bool) -> some View {
         if let q = model.current {
             HStack(alignment: .center, spacing: 14) {
-                VStack(alignment: .leading, spacing: 8) {
-                    (Text("Question \(model.index + 1) ").foregroundStyle(Theme.text)
-                     + Text("of \(model.game.count)").foregroundStyle(Theme.muted))
-                        .font(Theme.display(max(18, 28 * s), .bold))
-                    if compact {
-                        HStack(spacing: 8) { chips(q, s: s) }
-                    }
-                }
+                (Text("Question \(model.index + 1) ").foregroundStyle(Theme.text)
+                 + Text("of \(model.game.count)").foregroundStyle(Theme.muted))
+                    .font(Theme.display(max(18, 28 * s), .bold))
+                    .fixedSize()
                 if !compact { chips(q, s: s) }
                 Spacer(minLength: 8)
                 Button("End game") { confirmEnd = true }
                     .buttonStyle(GhostButtonStyle(size: max(13, 15 * s)))
                 TimerRing(start: model.slideStartedAt, seconds: model.settings.timerSeconds)
                     .frame(width: max(64, 116 * s), height: max(64, 116 * s))
+            }
+            if compact {
+                HStack(spacing: 8) { chips(q, s: s); Spacer() }
+                    .padding(.top, 10)
             }
         }
     }
@@ -123,12 +123,14 @@ struct GameView: View {
             .background(Capsule().fill(Theme.amber.opacity(0.12)))
             .overlay(Capsule().stroke(Theme.amber.opacity(0.35)))
             .lineLimit(1)
+            .fixedSize()
         Text("Difficulty \(q.difficulty)")
             .font(Theme.body(max(12, 17 * s), .semibold))
             .foregroundStyle(Theme.muted)
             .padding(.horizontal, 14 * max(s, 0.7)).padding(.vertical, 6 * max(s, 0.7))
             .overlay(Capsule().stroke(Theme.line))
             .lineLimit(1)
+            .fixedSize()
     }
 
     private func stage(s: CGFloat, compact: Bool) -> some View {

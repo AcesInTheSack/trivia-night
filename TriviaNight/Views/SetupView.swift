@@ -70,7 +70,7 @@ struct SetupView: View {
 
     private var categories: some View {
         VStack(alignment: .leading, spacing: 12) {
-            LazyVGrid(columns: [GridItem(.adaptive(minimum: 170), spacing: 10)], spacing: 10) {
+            LazyVGrid(columns: [GridItem(.adaptive(minimum: 200), spacing: 10)], spacing: 10) {
                 ForEach(model.bank.categories) { cat in
                     let on = model.settings.selected.contains(cat.name)
                     Button { model.toggle(cat.name) } label: {
