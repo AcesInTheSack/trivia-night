@@ -1,0 +1,84 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-test:
+    runs-on: macos-15
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Tools
+        run: |
+          brew install xcodegen
+          xcodebuild -version
+
+      - name: Generate Xcode project
+        run: xcodegen generate
+
+      - name: Pick simulators
+        id: sims
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json, subprocess
+          d = json.loads(subprocess.check_output(["xcrun","simctl","list","devices","available","-j"]))["devices"]
+          ios = sorted([k for k in d if "iOS" in k], key=lambda k: [int(x) for x in k.split("iOS-")[-1].split("-")])
+          devs = d[ios[-1]]
+          iphone = next(x for x in devs if x["name"].startswith("iPhone") and "Pro" in x["name"]) if any("Pro" in x["name"] for x in devs) else next(x for x in devs if x["name"].startswith("iPhone"))
+          ipad = next(x for x in devs if x["name"].startswith("iPad Pro")) if any(x["name"].startswith("iPad Pro") for x in devs) else next(x for x in devs if x["name"].startswith("iPad"))
+          print(f"iphone={iphone['udid']}")
+          print(f"ipad={ipad['udid']}")
+          EOF
+          cat "$GITHUB_OUTPUT"
+
+      - name: Build and run unit tests
+        run: |
+          set -o pipefail
+          xcodebuild test \
+            -project TriviaNight.xcodeproj \
+            -scheme TriviaNight \
+            -destination "id=${{ steps.sims.outputs.iphone }}" \
+            -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO | tee xcodebuild.log | grep -E "error:|warning: .*Swift|Test Case|Executed|BUILD|\*\*" || true
+          grep -q "TEST SUCCEEDED" xcodebuild.log
+
+      - name: Screenshots (iPad landscape + iPhone)
+        run: |
+          APP=$(find build/Build/Products -name "TriviaNight.app" -path "*iphonesimulator*" | head -1)
+          mkdir -p screenshots
+          for kind in ipad iphone; do
+            if [ "$kind" = ipad ]; then UDID=${{ steps.sims.outputs.ipad }}; else UDID=${{ steps.sims.outputs.iphone }}; fi
+            xcrun simctl boot "$UDID" || true
+            xcrun simctl bootstatus "$UDID" -b
+            xcrun simctl install "$UDID" "$APP"
+            for screen in setup splash game answer end; do
+              xcrun simctl terminate "$UDID" com.acesinthesack.trivianight 2>/dev/null || true
+              xcrun simctl launch "$UDID" com.acesinthesack.trivianight -uiDemo "$screen"
+              sleep 4
+              xcrun simctl io "$UDID" screenshot "screenshots/${kind}-${screen}.png"
+            done
+          done
+          ls -la screenshots
+
+      - name: Upload screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshots
+          path: screenshots
+
+      - name: Upload build log
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: xcodebuild-log
+          path: xcodebuild.log

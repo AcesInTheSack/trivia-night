@@ -1,0 +1,1594 @@
+{
+ "categories": [
+  {
+   "name": "History",
+   "icon": "🏛️",
+   "questions": [
+    {
+     "d": 1,
+     "q": "Who was the first President of the United States?",
+     "a": "George Washington"
+    },
+    {
+     "d": 1,
+     "q": "In what year did World War II end?",
+     "a": "1945"
+    },
+    {
+     "d": 2,
+     "q": "Which ship sank on its maiden voyage in April 1912?",
+     "a": "The Titanic"
+    },
+    {
+     "d": 2,
+     "q": "Which ancient civilization built the pyramids at Giza?",
+     "a": "The ancient Egyptians"
+    },
+    {
+     "d": 3,
+     "q": "Who was the British Prime Minister for most of World War II?",
+     "a": "Winston Churchill"
+    },
+    {
+     "d": 3,
+     "q": "What wall fell in 1989, opening the way to German reunification?",
+     "a": "The Berlin Wall"
+    },
+    {
+     "d": 4,
+     "q": "Which French leader was exiled to the island of Elba in 1814?",
+     "a": "Napoleon Bonaparte"
+    },
+    {
+     "d": 4,
+     "q": "In what year did Christopher Columbus first reach the Americas?",
+     "a": "1492"
+    },
+    {
+     "d": 5,
+     "q": "Which empire was ruled by Montezuma II when the Spanish arrived?",
+     "a": "The Aztec Empire"
+    },
+    {
+     "d": 5,
+     "q": "What 1215 English charter limited the power of King John?",
+     "a": "The Magna Carta"
+    },
+    {
+     "d": 6,
+     "q": "Who was the first emperor of Rome?",
+     "a": "Augustus"
+    },
+    {
+     "d": 6,
+     "q": "Which treaty formally ended World War I between the Allies and Germany?",
+     "a": "The Treaty of Versailles"
+    },
+    {
+     "d": 7,
+     "q": "The Hundred Years’ War was fought between which two kingdoms?",
+     "a": "England and France"
+    },
+    {
+     "d": 7,
+     "q": "Which leader founded the Mongol Empire in 1206?",
+     "a": "Genghis Khan"
+    },
+    {
+     "d": 8,
+     "q": "Which ancient Greek city-state was known for its harsh military training system, the agoge?",
+     "a": "Sparta"
+    },
+    {
+     "d": 8,
+     "q": "In what year was the Battle of Hastings fought?",
+     "a": "1066"
+    },
+    {
+     "d": 9,
+     "q": "Which Byzantine emperor ordered the building of the Hagia Sophia, completed in 537?",
+     "a": "Justinian I"
+    },
+    {
+     "d": 9,
+     "q": "What 1648 peace settlement ended the Thirty Years’ War?",
+     "a": "The Peace of Westphalia"
+    },
+    {
+     "d": 10,
+     "q": "Which Ethiopian emperor defeated an Italian army at the Battle of Adwa in 1896?",
+     "a": "Menelik II"
+    },
+    {
+     "d": 10,
+     "q": "What 1494 treaty divided newly found lands outside Europe between Spain and Portugal?",
+     "a": "The Treaty of Tordesillas"
+    }
+   ]
+  },
+  {
+   "name": "Science",
+   "icon": "🔬",
+   "questions": [
+    {
+     "d": 1,
+     "q": "Which planet is known as the Red Planet?",
+     "a": "Mars"
+    },
+    {
+     "d": 1,
+     "q": "What gas do plants take in from the air for photosynthesis?",
+     "a": "Carbon dioxide"
+    },
+    {
+     "d": 2,
+     "q": "What is the chemical formula for water?",
+     "a": "H₂O"
+    },
+    {
+     "d": 2,
+     "q": "How many planets are in our solar system?",
+     "a": "Eight"
+    },
+    {
+     "d": 3,
+     "q": "What is the hardest natural substance?",
+     "a": "Diamond"
+    },
+    {
+     "d": 3,
+     "q": "What force keeps us on the ground?",
+     "a": "Gravity"
+    },
+    {
+     "d": 4,
+     "q": "What is the chemical symbol for gold?",
+     "a": "Au"
+    },
+    {
+     "d": 4,
+     "q": "Which part of the cell is called its powerhouse?",
+     "a": "The mitochondria"
+    },
+    {
+     "d": 5,
+     "q": "What is the most abundant gas in Earth’s atmosphere?",
+     "a": "Nitrogen"
+    },
+    {
+     "d": 5,
+     "q": "Roughly how fast does light travel, in kilometers per second?",
+     "a": "About 300,000 km/s"
+    },
+    {
+     "d": 6,
+     "q": "What is the atomic number of carbon?",
+     "a": "6"
+    },
+    {
+     "d": 6,
+     "q": "What kind of chemical bond forms when atoms share pairs of electrons?",
+     "a": "A covalent bond"
+    },
+    {
+     "d": 7,
+     "q": "What is the boundary around a black hole beyond which nothing can escape?",
+     "a": "The event horizon"
+    },
+    {
+     "d": 7,
+     "q": "Which metal has the highest melting point?",
+     "a": "Tungsten"
+    },
+    {
+     "d": 8,
+     "q": "Which physicist formulated the uncertainty principle?",
+     "a": "Werner Heisenberg"
+    },
+    {
+     "d": 8,
+     "q": "What is Avogadro’s number, to three significant figures?",
+     "a": "6.02 × 10²³"
+    },
+    {
+     "d": 9,
+     "q": "Which enzyme unwinds the DNA double helix during replication?",
+     "a": "Helicase"
+    },
+    {
+     "d": 9,
+     "q": "To the nearest thousand years, what is the half-life of carbon-14?",
+     "a": "About 6,000 years (5,730)"
+    },
+    {
+     "d": 10,
+     "q": "What was the first element to be produced artificially, in 1937?",
+     "a": "Technetium"
+    },
+    {
+     "d": 10,
+     "q": "What is the Chandrasekhar limit, in solar masses (approximately)?",
+     "a": "About 1.4 solar masses"
+    }
+   ]
+  },
+  {
+   "name": "Television",
+   "icon": "📺",
+   "questions": [
+    {
+     "d": 1,
+     "q": "Which animated family lives in the town of Springfield?",
+     "a": "The Simpsons"
+    },
+    {
+     "d": 1,
+     "q": "In “Friends,” what is the name of the coffee shop?",
+     "a": "Central Perk"
+    },
+    {
+     "d": 2,
+     "q": "Which sitcom is set at the Dunder Mifflin paper company?",
+     "a": "The Office"
+    },
+    {
+     "d": 2,
+     "q": "Which HBO fantasy series is based on George R.R. Martin’s novels?",
+     "a": "Game of Thrones"
+    },
+    {
+     "d": 3,
+     "q": "What is the last name of Jerry’s neighbor across the hall in “Seinfeld”?",
+     "a": "Kramer"
+    },
+    {
+     "d": 3,
+     "q": "In “Breaking Bad,” what subject does Walter White teach?",
+     "a": "Chemistry"
+    },
+    {
+     "d": 4,
+     "q": "In which city is the sitcom “Cheers” set?",
+     "a": "Boston"
+    },
+    {
+     "d": 4,
+     "q": "Which series takes place in the fictional town of Hawkins, Indiana?",
+     "a": "Stranger Things"
+    },
+    {
+     "d": 5,
+     "q": "Who hosted “The Tonight Show” from 1962 to 1992?",
+     "a": "Johnny Carson"
+    },
+    {
+     "d": 5,
+     "q": "In “The Sopranos,” in which state does Tony Soprano live?",
+     "a": "New Jersey"
+    },
+    {
+     "d": 6,
+     "q": "What is the name of the advertising agency in “Mad Men”?",
+     "a": "Sterling Cooper"
+    },
+    {
+     "d": 6,
+     "q": "Which long-running game show ends with the Showcase Showdown?",
+     "a": "The Price Is Right"
+    },
+    {
+     "d": 7,
+     "q": "In “M*A*S*H,” what is Captain Benjamin Franklin Pierce’s nickname?",
+     "a": "Hawkeye"
+    },
+    {
+     "d": 7,
+     "q": "Which HBO drama followed Baltimore’s drug trade through police wiretaps?",
+     "a": "The Wire"
+    },
+    {
+     "d": 8,
+     "q": "In “Twin Peaks,” who killed Laura Palmer?",
+     "a": "Her father, Leland Palmer"
+    },
+    {
+     "d": 8,
+     "q": "What was the first music video played on MTV in 1981?",
+     "a": "“Video Killed the Radio Star” by The Buggles"
+    },
+    {
+     "d": 9,
+     "q": "In “Arrested Development,” what does the Bluth family sell from its stand on the boardwalk?",
+     "a": "Frozen bananas"
+    },
+    {
+     "d": 9,
+     "q": "Which 1960s British series starred Patrick McGoohan as a man known only as Number Six?",
+     "a": "The Prisoner"
+    },
+    {
+     "d": 10,
+     "q": "In “Northern Exposure,” what is the name of the Alaskan town?",
+     "a": "Cicely"
+    },
+    {
+     "d": 10,
+     "q": "In the “Twilight Zone” episode “To Serve Man,” what does the alien book turn out to be?",
+     "a": "A cookbook"
+    }
+   ]
+  },
+  {
+   "name": "Pop Culture",
+   "icon": "✨",
+   "questions": [
+    {
+     "d": 1,
+     "q": "Which app is known for short vertical videos and dance trends?",
+     "a": "TikTok"
+    },
+    {
+     "d": 1,
+     "q": "Which singer is known as the “Queen of Pop”?",
+     "a": "Madonna"
+    },
+    {
+     "d": 2,
+     "q": "What is the name of Barbie’s longtime boyfriend?",
+     "a": "Ken"
+    },
+    {
+     "d": 2,
+     "q": "In texting, what does “LOL” stand for?",
+     "a": "Laugh out loud"
+    },
+    {
+     "d": 3,
+     "q": "Kim, Khloé, and Kourtney belong to which reality TV family?",
+     "a": "The Kardashians"
+    },
+    {
+     "d": 3,
+     "q": "What egg-shaped digital pet was a huge craze in the late 1990s?",
+     "a": "Tamagotchi"
+    },
+    {
+     "d": 4,
+     "q": "Which 2016 mobile game had people catching creatures in real-world locations?",
+     "a": "Pokémon Go"
+    },
+    {
+     "d": 4,
+     "q": "Which 1990s Los del Río song started a worldwide line-dance craze?",
+     "a": "Macarena"
+    },
+    {
+     "d": 5,
+     "q": "What furry talking robot toy was the must-have gift of 1998?",
+     "a": "Furby"
+    },
+    {
+     "d": 5,
+     "q": "What 1975 fad sold ordinary stones in a box as pets?",
+     "a": "The Pet Rock"
+    },
+    {
+     "d": 6,
+     "q": "Which meme features a Shiba Inu with captions in broken English?",
+     "a": "Doge"
+    },
+    {
+     "d": 6,
+     "q": "In what year did the first iPhone go on sale?",
+     "a": "2007"
+    },
+    {
+     "d": 7,
+     "q": "Which dolls caused shoppers to scuffle in stores during the 1983 holiday season?",
+     "a": "Cabbage Patch Kids"
+    },
+    {
+     "d": 7,
+     "q": "Which streetwear brand is known for its red box logo?",
+     "a": "Supreme"
+    },
+    {
+     "d": 8,
+     "q": "What was the title of the first video ever uploaded to YouTube?",
+     "a": "“Me at the zoo”"
+    },
+    {
+     "d": 8,
+     "q": "The phrase “jump the shark” comes from a stunt on which TV show?",
+     "a": "Happy Days"
+    },
+    {
+     "d": 9,
+     "q": "In what year did Facebook open to anyone 13 or older with an email address?",
+     "a": "2006"
+    },
+    {
+     "d": 9,
+     "q": "What was Google’s original name?",
+     "a": "BackRub"
+    },
+    {
+     "d": 10,
+     "q": "In what year did Ernő Rubik invent his cube?",
+     "a": "1974"
+    },
+    {
+     "d": 10,
+     "q": "What was Twitter’s name during early development?",
+     "a": "twttr"
+    }
+   ]
+  },
+  {
+   "name": "Movies & Entertainment",
+   "icon": "🎬",
+   "questions": [
+    {
+     "d": 1,
+     "q": "Which animated film features a lion cub named Simba?",
+     "a": "The Lion King"
+    },
+    {
+     "d": 1,
+     "q": "Who played Jack in the 1997 film “Titanic”?",
+     "a": "Leonardo DiCaprio"
+    },
+    {
+     "d": 2,
+     "q": "Which film saga features Luke Skywalker?",
+     "a": "Star Wars"
+    },
+    {
+     "d": 2,
+     "q": "In which film are cloned dinosaurs the attraction at a theme park?",
+     "a": "Jurassic Park"
+    },
+    {
+     "d": 3,
+     "q": "Who directed both “Jaws” and “E.T. the Extra-Terrestrial”?",
+     "a": "Steven Spielberg"
+    },
+    {
+     "d": 3,
+     "q": "What is the popular name for the Academy Award statuette?",
+     "a": "Oscar"
+    },
+    {
+     "d": 4,
+     "q": "In the 1939 film “The Wizard of Oz,” what color are Dorothy’s slippers?",
+     "a": "Ruby red"
+    },
+    {
+     "d": 4,
+     "q": "In which 1994 film does Tom Hanks compare life to a box of chocolates?",
+     "a": "Forrest Gump"
+    },
+    {
+     "d": 5,
+     "q": "Who played the Joker in “The Dark Knight” (2008)?",
+     "a": "Heath Ledger"
+    },
+    {
+     "d": 5,
+     "q": "What is the name of the hotel in “The Shining”?",
+     "a": "The Overlook Hotel"
+    },
+    {
+     "d": 6,
+     "q": "Which 1941 Orson Welles film is often called the greatest movie ever made?",
+     "a": "Citizen Kane"
+    },
+    {
+     "d": 6,
+     "q": "Which actor has won the most Academy Awards for acting?",
+     "a": "Katharine Hepburn (four)"
+    },
+    {
+     "d": 7,
+     "q": "What was Disney’s first full-length animated feature film?",
+     "a": "Snow White and the Seven Dwarfs (1937)"
+    },
+    {
+     "d": 7,
+     "q": "Who composed the scores for “Star Wars” and “Jaws”?",
+     "a": "John Williams"
+    },
+    {
+     "d": 8,
+     "q": "Which film won the first Academy Award for Best Picture?",
+     "a": "Wings"
+    },
+    {
+     "d": 8,
+     "q": "What 1927 film is considered the first feature-length “talkie”?",
+     "a": "The Jazz Singer"
+    },
+    {
+     "d": 9,
+     "q": "Which film was the first to win all five major Oscars: Picture, Director, Actor, Actress, and Screenplay?",
+     "a": "It Happened One Night (1934)"
+    },
+    {
+     "d": 9,
+     "q": "Who directed the 1927 silent science-fiction film “Metropolis”?",
+     "a": "Fritz Lang"
+    },
+    {
+     "d": 10,
+     "q": "What is the only X-rated film to win Best Picture?",
+     "a": "Midnight Cowboy (1969)"
+    },
+    {
+     "d": 10,
+     "q": "Which 1903 Edwin S. Porter short is a landmark of early narrative film?",
+     "a": "The Great Train Robbery"
+    }
+   ]
+  },
+  {
+   "name": "Music",
+   "icon": "🎵",
+   "questions": [
+    {
+     "d": 1,
+     "q": "How many strings does a standard guitar have?",
+     "a": "Six"
+    },
+    {
+     "d": 1,
+     "q": "Which band recorded “Hey Jude”?",
+     "a": "The Beatles"
+    },
+    {
+     "d": 2,
+     "q": "Who is known as the “King of Rock and Roll”?",
+     "a": "Elvis Presley"
+    },
+    {
+     "d": 2,
+     "q": "Who is known as the “King of Pop”?",
+     "a": "Michael Jackson"
+    },
+    {
+     "d": 3,
+     "q": "Which instrument usually has 88 keys?",
+     "a": "The piano"
+    },
+    {
+     "d": 3,
+     "q": "Freddie Mercury was the lead singer of which band?",
+     "a": "Queen"
+    },
+    {
+     "d": 4,
+     "q": "Which U.S. city is considered the birthplace of jazz?",
+     "a": "New Orleans"
+    },
+    {
+     "d": 4,
+     "q": "Who composed the “Moonlight Sonata”?",
+     "a": "Ludwig van Beethoven"
+    },
+    {
+     "d": 5,
+     "q": "How many members were in ABBA?",
+     "a": "Four"
+    },
+    {
+     "d": 5,
+     "q": "At which 1969 festival did Jimi Hendrix play his famous “Star-Spangled Banner”?",
+     "a": "Woodstock"
+    },
+    {
+     "d": 6,
+     "q": "What musical term means gradually getting louder?",
+     "a": "Crescendo"
+    },
+    {
+     "d": 6,
+     "q": "Who composed “The Four Seasons”?",
+     "a": "Antonio Vivaldi"
+    },
+    {
+     "d": 7,
+     "q": "What is generally cited as the best-selling album of all time?",
+     "a": "Thriller by Michael Jackson"
+    },
+    {
+     "d": 7,
+     "q": "Which record label did Berry Gordy found in Detroit in 1959?",
+     "a": "Motown"
+    },
+    {
+     "d": 8,
+     "q": "How many symphonies did Beethoven complete?",
+     "a": "Nine"
+    },
+    {
+     "d": 8,
+     "q": "What is the name for a scale with five notes per octave?",
+     "a": "A pentatonic scale"
+    },
+    {
+     "d": 9,
+     "q": "Who composed the “Goldberg Variations”?",
+     "a": "Johann Sebastian Bach"
+    },
+    {
+     "d": 9,
+     "q": "Who was the Beatles’ drummer before Ringo Starr?",
+     "a": "Pete Best"
+    },
+    {
+     "d": 10,
+     "q": "What is the title of John Cage’s 1952 piece in which the performer plays nothing?",
+     "a": "4′33″"
+    },
+    {
+     "d": 10,
+     "q": "Which composer’s “The Rite of Spring” caused an uproar at its 1913 Paris premiere?",
+     "a": "Igor Stravinsky"
+    }
+   ]
+  },
+  {
+   "name": "Geography",
+   "icon": "🌍",
+   "questions": [
+    {
+     "d": 1,
+     "q": "What is the largest ocean on Earth?",
+     "a": "The Pacific Ocean"
+    },
+    {
+     "d": 1,
+     "q": "What is the capital of France?",
+     "a": "Paris"
+    },
+    {
+     "d": 2,
+     "q": "On which continent is Egypt?",
+     "a": "Africa"
+    },
+    {
+     "d": 2,
+     "q": "What is the longest river in South America?",
+     "a": "The Amazon"
+    },
+    {
+     "d": 3,
+     "q": "Mount Everest sits on the border between Nepal and which country?",
+     "a": "China"
+    },
+    {
+     "d": 3,
+     "q": "What is the smallest U.S. state by area?",
+     "a": "Rhode Island"
+    },
+    {
+     "d": 4,
+     "q": "What is the capital of Canada?",
+     "a": "Ottawa"
+    },
+    {
+     "d": 4,
+     "q": "What is the largest hot desert in the world?",
+     "a": "The Sahara"
+    },
+    {
+     "d": 5,
+     "q": "What is the capital of Australia?",
+     "a": "Canberra"
+    },
+    {
+     "d": 5,
+     "q": "Which country has the most natural lakes?",
+     "a": "Canada"
+    },
+    {
+     "d": 6,
+     "q": "What is the deepest known point in Earth’s oceans?",
+     "a": "Challenger Deep, in the Mariana Trench"
+    },
+    {
+     "d": 6,
+     "q": "Which African country was formerly known as Abyssinia?",
+     "a": "Ethiopia"
+    },
+    {
+     "d": 7,
+     "q": "What is the capital of New Zealand?",
+     "a": "Wellington"
+    },
+    {
+     "d": 7,
+     "q": "What is the capital of Kazakhstan?",
+     "a": "Astana"
+    },
+    {
+     "d": 8,
+     "q": "Which river flows through Baghdad?",
+     "a": "The Tigris"
+    },
+    {
+     "d": 8,
+     "q": "Which country has three capital cities?",
+     "a": "South Africa (Pretoria, Cape Town, Bloemfontein)"
+    },
+    {
+     "d": 9,
+     "q": "Which Bolivian city, the seat of government, is the world’s highest capital?",
+     "a": "La Paz"
+    },
+    {
+     "d": 9,
+     "q": "What is the longest continental mountain range in the world?",
+     "a": "The Andes"
+    },
+    {
+     "d": 10,
+     "q": "Which country is completely surrounded by South Africa?",
+     "a": "Lesotho"
+    },
+    {
+     "d": 10,
+     "q": "Besides Uzbekistan, what is the world’s only other doubly landlocked country?",
+     "a": "Liechtenstein"
+    }
+   ]
+  },
+  {
+   "name": "Sports",
+   "icon": "🏆",
+   "questions": [
+    {
+     "d": 1,
+     "q": "How many players does a soccer team have on the field?",
+     "a": "11"
+    },
+    {
+     "d": 1,
+     "q": "Which sport is played at Wimbledon?",
+     "a": "Tennis"
+    },
+    {
+     "d": 2,
+     "q": "How many points is a touchdown worth in American football?",
+     "a": "Six"
+    },
+    {
+     "d": 2,
+     "q": "In basketball, how many points is a shot from beyond the arc worth?",
+     "a": "Three"
+    },
+    {
+     "d": 3,
+     "q": "How many holes are in a standard round of golf?",
+     "a": "18"
+    },
+    {
+     "d": 3,
+     "q": "Which hockey player is nicknamed “The Great One”?",
+     "a": "Wayne Gretzky"
+    },
+    {
+     "d": 4,
+     "q": "In bowling, what do you call three strikes in a row?",
+     "a": "A turkey"
+    },
+    {
+     "d": 4,
+     "q": "Which country has won the most FIFA men’s World Cups?",
+     "a": "Brazil"
+    },
+    {
+     "d": 5,
+     "q": "What is a perfect score in ten-pin bowling?",
+     "a": "300"
+    },
+    {
+     "d": 5,
+     "q": "How long is a marathon?",
+     "a": "26.2 miles (42.195 km)"
+    },
+    {
+     "d": 6,
+     "q": "Who holds the record for most Olympic gold medals?",
+     "a": "Michael Phelps (23)"
+    },
+    {
+     "d": 6,
+     "q": "Which Grand Slam tennis tournament is played on clay?",
+     "a": "The French Open"
+    },
+    {
+     "d": 7,
+     "q": "Who broke Babe Ruth’s career home run record in 1974?",
+     "a": "Hank Aaron"
+    },
+    {
+     "d": 7,
+     "q": "In cricket, what is it called when a bowler takes wickets with three straight deliveries?",
+     "a": "A hat-trick"
+    },
+    {
+     "d": 8,
+     "q": "Who was the first gymnast to score a perfect 10 at the Olympics?",
+     "a": "Nadia Comăneci (1976)"
+    },
+    {
+     "d": 8,
+     "q": "Which sport has been played on the Moon?",
+     "a": "Golf (Alan Shepard, 1971)"
+    },
+    {
+     "d": 9,
+     "q": "Which horse won the 1973 Triple Crown with a 31-length win at the Belmont?",
+     "a": "Secretariat"
+    },
+    {
+     "d": 9,
+     "q": "In what year did Jackie Robinson break Major League Baseball’s color barrier?",
+     "a": "1947"
+    },
+    {
+     "d": 10,
+     "q": "In what year did women first compete in the modern Olympic Games?",
+     "a": "1900 (Paris)"
+    },
+    {
+     "d": 10,
+     "q": "Which country won the first Rugby World Cup, in 1987?",
+     "a": "New Zealand"
+    }
+   ]
+  },
+  {
+   "name": "Literature",
+   "icon": "📚",
+   "questions": [
+    {
+     "d": 1,
+     "q": "Who wrote “Romeo and Juliet”?",
+     "a": "William Shakespeare"
+    },
+    {
+     "d": 1,
+     "q": "What is the name of the boy wizard in J.K. Rowling’s books?",
+     "a": "Harry Potter"
+    },
+    {
+     "d": 2,
+     "q": "Who wrote “Pride and Prejudice”?",
+     "a": "Jane Austen"
+    },
+    {
+     "d": 2,
+     "q": "What kind of animal is Moby-Dick?",
+     "a": "A white sperm whale"
+    },
+    {
+     "d": 3,
+     "q": "Who wrote “1984”?",
+     "a": "George Orwell"
+    },
+    {
+     "d": 3,
+     "q": "What is the name of the hobbit in “The Hobbit”?",
+     "a": "Bilbo Baggins"
+    },
+    {
+     "d": 4,
+     "q": "Who wrote “The Great Gatsby”?",
+     "a": "F. Scott Fitzgerald"
+    },
+    {
+     "d": 4,
+     "q": "Which author created the land of Narnia?",
+     "a": "C.S. Lewis"
+    },
+    {
+     "d": 5,
+     "q": "Who wrote “One Hundred Years of Solitude”?",
+     "a": "Gabriel García Márquez"
+    },
+    {
+     "d": 5,
+     "q": "Who wrote “Frankenstein”?",
+     "a": "Mary Shelley"
+    },
+    {
+     "d": 6,
+     "q": "What is the name of Captain Ahab’s ship in “Moby-Dick”?",
+     "a": "The Pequod"
+    },
+    {
+     "d": 6,
+     "q": "Who wrote “Crime and Punishment”?",
+     "a": "Fyodor Dostoevsky"
+    },
+    {
+     "d": 7,
+     "q": "What is the name of Don Quixote’s horse?",
+     "a": "Rocinante"
+    },
+    {
+     "d": 7,
+     "q": "Who wrote “Things Fall Apart”?",
+     "a": "Chinua Achebe"
+    },
+    {
+     "d": 8,
+     "q": "Who narrates “The Great Gatsby”?",
+     "a": "Nick Carraway"
+    },
+    {
+     "d": 8,
+     "q": "What pen name did Mary Ann Evans, author of “Middlemarch,” use?",
+     "a": "George Eliot"
+    },
+    {
+     "d": 9,
+     "q": "In Dante’s “Inferno,” who guides Dante through Hell?",
+     "a": "Virgil"
+    },
+    {
+     "d": 9,
+     "q": "Who wrote “The Tale of Genji,” often called the world’s first novel?",
+     "a": "Murasaki Shikibu"
+    },
+    {
+     "d": 10,
+     "q": "What is the name of the fictional Mississippi county where William Faulkner set many of his novels?",
+     "a": "Yoknapatawpha County"
+    },
+    {
+     "d": 10,
+     "q": "Which Russian author wrote “Dead Souls”?",
+     "a": "Nikolai Gogol"
+    }
+   ]
+  },
+  {
+   "name": "Art & Architecture",
+   "icon": "🎨",
+   "questions": [
+    {
+     "d": 1,
+     "q": "Who painted the “Mona Lisa”?",
+     "a": "Leonardo da Vinci"
+    },
+    {
+     "d": 1,
+     "q": "What are the three primary colors in traditional color theory?",
+     "a": "Red, yellow, and blue"
+    },
+    {
+     "d": 2,
+     "q": "Which Dutch painter famously cut off part of his own ear?",
+     "a": "Vincent van Gogh"
+    },
+    {
+     "d": 2,
+     "q": "Who painted the ceiling of the Sistine Chapel?",
+     "a": "Michelangelo"
+    },
+    {
+     "d": 3,
+     "q": "In which country is the Taj Mahal?",
+     "a": "India"
+    },
+    {
+     "d": 3,
+     "q": "Salvador Dalí is the best-known figure of which art movement?",
+     "a": "Surrealism"
+    },
+    {
+     "d": 4,
+     "q": "Which artist is famous for paintings of Campbell’s Soup cans?",
+     "a": "Andy Warhol"
+    },
+    {
+     "d": 4,
+     "q": "Which museum houses the “Mona Lisa”?",
+     "a": "The Louvre"
+    },
+    {
+     "d": 5,
+     "q": "Which Spanish artist co-founded Cubism?",
+     "a": "Pablo Picasso"
+    },
+    {
+     "d": 5,
+     "q": "Which Norwegian artist painted “The Scream”?",
+     "a": "Edvard Munch"
+    },
+    {
+     "d": 6,
+     "q": "Who designed the Guggenheim Museum in New York City?",
+     "a": "Frank Lloyd Wright"
+    },
+    {
+     "d": 6,
+     "q": "What is the painting technique built from small dots of color called?",
+     "a": "Pointillism"
+    },
+    {
+     "d": 7,
+     "q": "Which Danish architect designed the Sydney Opera House?",
+     "a": "Jørn Utzon"
+    },
+    {
+     "d": 7,
+     "q": "Who painted “Girl with a Pearl Earring”?",
+     "a": "Johannes Vermeer"
+    },
+    {
+     "d": 8,
+     "q": "Who designed the Guggenheim Museum Bilbao?",
+     "a": "Frank Gehry"
+    },
+    {
+     "d": 8,
+     "q": "Which Italian painted “The Birth of Venus”?",
+     "a": "Sandro Botticelli"
+    },
+    {
+     "d": 9,
+     "q": "What is Leonardo’s technique of soft, smoky transitions between tones called?",
+     "a": "Sfumato"
+    },
+    {
+     "d": 9,
+     "q": "Who painted “The Garden of Earthly Delights”?",
+     "a": "Hieronymus Bosch"
+    },
+    {
+     "d": 10,
+     "q": "Who were the two architects of the Hagia Sophia?",
+     "a": "Anthemius of Tralles and Isidore of Miletus"
+    },
+    {
+     "d": 10,
+     "q": "Who painted “Las Meninas” (1656)?",
+     "a": "Diego Velázquez"
+    }
+   ]
+  },
+  {
+   "name": "Food & Drink",
+   "icon": "🍷",
+   "questions": [
+    {
+     "d": 1,
+     "q": "Which fruit is the base of guacamole?",
+     "a": "Avocado"
+    },
+    {
+     "d": 1,
+     "q": "Which country is pizza originally from?",
+     "a": "Italy"
+    },
+    {
+     "d": 2,
+     "q": "What is the main ingredient in hummus?",
+     "a": "Chickpeas"
+    },
+    {
+     "d": 2,
+     "q": "What seaweed is used to wrap sushi rolls?",
+     "a": "Nori"
+    },
+    {
+     "d": 3,
+     "q": "Which nut is used to make marzipan?",
+     "a": "Almonds"
+    },
+    {
+     "d": 3,
+     "q": "What is the main starch in a traditional Spanish paella?",
+     "a": "Rice"
+    },
+    {
+     "d": 4,
+     "q": "Which spice gives curry its yellow color?",
+     "a": "Turmeric"
+    },
+    {
+     "d": 4,
+     "q": "What alcoholic drink is made from fermented honey?",
+     "a": "Mead"
+    },
+    {
+     "d": 5,
+     "q": "After water, what is the most consumed drink in the world?",
+     "a": "Tea"
+    },
+    {
+     "d": 5,
+     "q": "Which country produces the most coffee?",
+     "a": "Brazil"
+    },
+    {
+     "d": 6,
+     "q": "What type of pastry is used to make éclairs?",
+     "a": "Choux pastry"
+    },
+    {
+     "d": 6,
+     "q": "What is the main flavor of the liqueur Kahlúa?",
+     "a": "Coffee"
+    },
+    {
+     "d": 7,
+     "q": "What is the world’s most expensive spice by weight?",
+     "a": "Saffron"
+    },
+    {
+     "d": 7,
+     "q": "What Japanese stock is made from kelp and bonito flakes?",
+     "a": "Dashi"
+    },
+    {
+     "d": 8,
+     "q": "Which French mother sauce is made from butter, egg yolks, and lemon juice?",
+     "a": "Hollandaise"
+    },
+    {
+     "d": 8,
+     "q": "Which Italian dessert’s name means “pick me up”?",
+     "a": "Tiramisu"
+    },
+    {
+     "d": 9,
+     "q": "What fungus causes the “noble rot” used to make Sauternes wine?",
+     "a": "Botrytis cinerea"
+    },
+    {
+     "d": 9,
+     "q": "What is the name of the famous sweet wine from Hungary’s Tokaj region?",
+     "a": "Tokaji"
+    },
+    {
+     "d": 10,
+     "q": "Which French chef published “Le Guide Culinaire” in 1903?",
+     "a": "Auguste Escoffier"
+    },
+    {
+     "d": 10,
+     "q": "Who wrote “The Physiology of Taste” (1825)?",
+     "a": "Jean Anthelme Brillat-Savarin"
+    }
+   ]
+  },
+  {
+   "name": "Animals & Nature",
+   "icon": "🦉",
+   "questions": [
+    {
+     "d": 1,
+     "q": "What is the largest animal on Earth?",
+     "a": "The blue whale"
+    },
+    {
+     "d": 1,
+     "q": "What sweet food do bees make?",
+     "a": "Honey"
+    },
+    {
+     "d": 2,
+     "q": "What is a baby kangaroo called?",
+     "a": "A joey"
+    },
+    {
+     "d": 2,
+     "q": "How many legs does a spider have?",
+     "a": "Eight"
+    },
+    {
+     "d": 3,
+     "q": "What is the fastest land animal?",
+     "a": "The cheetah"
+    },
+    {
+     "d": 3,
+     "q": "What is a group of lions called?",
+     "a": "A pride"
+    },
+    {
+     "d": 4,
+     "q": "What is the tallest tree species in the world?",
+     "a": "The coast redwood"
+    },
+    {
+     "d": 4,
+     "q": "What is the only mammal capable of true flight?",
+     "a": "The bat"
+    },
+    {
+     "d": 5,
+     "q": "How many hearts does an octopus have?",
+     "a": "Three"
+    },
+    {
+     "d": 5,
+     "q": "What is a group of crows called?",
+     "a": "A murder"
+    },
+    {
+     "d": 6,
+     "q": "What is the largest species of shark?",
+     "a": "The whale shark"
+    },
+    {
+     "d": 6,
+     "q": "Which mammal has the longest pregnancy, at about 22 months?",
+     "a": "The African elephant"
+    },
+    {
+     "d": 7,
+     "q": "What word describes animals most active at dawn and dusk?",
+     "a": "Crepuscular"
+    },
+    {
+     "d": 7,
+     "q": "What color is a polar bear’s skin?",
+     "a": "Black"
+    },
+    {
+     "d": 8,
+     "q": "Which continent has no native ants?",
+     "a": "Antarctica"
+    },
+    {
+     "d": 8,
+     "q": "Which plant produces the world’s largest single flower?",
+     "a": "Rafflesia arnoldii"
+    },
+    {
+     "d": 9,
+     "q": "Which animal has the strongest bite force ever measured?",
+     "a": "The saltwater crocodile"
+    },
+    {
+     "d": 9,
+     "q": "The axolotl is native to lakes near which city?",
+     "a": "Mexico City"
+    },
+    {
+     "d": 10,
+     "q": "What is the name of the ancient bristlecone pine in California long known as the oldest living non-clonal tree?",
+     "a": "Methuselah"
+    },
+    {
+     "d": 10,
+     "q": "Which living bird has the largest wingspan?",
+     "a": "The wandering albatross"
+    }
+   ]
+  },
+  {
+   "name": "Technology",
+   "icon": "💻",
+   "questions": [
+    {
+     "d": 1,
+     "q": "In a web address, what does “www” stand for?",
+     "a": "World Wide Web"
+    },
+    {
+     "d": 1,
+     "q": "Which company makes the iPhone?",
+     "a": "Apple"
+    },
+    {
+     "d": 2,
+     "q": "Who co-founded Microsoft with Paul Allen?",
+     "a": "Bill Gates"
+    },
+    {
+     "d": 2,
+     "q": "What is the name of Amazon’s voice assistant?",
+     "a": "Alexa"
+    },
+    {
+     "d": 3,
+     "q": "What does “CPU” stand for?",
+     "a": "Central processing unit"
+    },
+    {
+     "d": 3,
+     "q": "What does “USB” stand for?",
+     "a": "Universal Serial Bus"
+    },
+    {
+     "d": 4,
+     "q": "In what year was Google founded?",
+     "a": "1998"
+    },
+    {
+     "d": 4,
+     "q": "What does “HTML” stand for?",
+     "a": "HyperText Markup Language"
+    },
+    {
+     "d": 5,
+     "q": "Who invented the World Wide Web?",
+     "a": "Tim Berners-Lee"
+    },
+    {
+     "d": 5,
+     "q": "How many bits are in a byte?",
+     "a": "Eight"
+    },
+    {
+     "d": 6,
+     "q": "Which programming language is named after an Indonesian island famous for coffee?",
+     "a": "Java"
+    },
+    {
+     "d": 6,
+     "q": "What 1972 arcade game is considered the first commercially successful video game?",
+     "a": "Pong"
+    },
+    {
+     "d": 7,
+     "q": "What 1993 web browser first made the web popular with the general public?",
+     "a": "Mosaic"
+    },
+    {
+     "d": 7,
+     "q": "Who is often called the first computer programmer?",
+     "a": "Ada Lovelace"
+    },
+    {
+     "d": 8,
+     "q": "The first ARPANET message in 1969 was meant to be “LOGIN.” What actually got through before the crash?",
+     "a": "“LO”"
+    },
+    {
+     "d": 8,
+     "q": "In what year did Ray Tomlinson send the first network email?",
+     "a": "1971"
+    },
+    {
+     "d": 9,
+     "q": "What was the name of Britain’s World War II codebreaking center?",
+     "a": "Bletchley Park"
+    },
+    {
+     "d": 9,
+     "q": "What 1982 program for the Apple II is considered the first personal-computer virus to spread in the wild?",
+     "a": "Elk Cloner"
+    },
+    {
+     "d": 10,
+     "q": "What does the programming language name COBOL stand for?",
+     "a": "Common Business-Oriented Language"
+    },
+    {
+     "d": 10,
+     "q": "Who built the Stepped Reckoner, an early calculator that could do all four arithmetic operations?",
+     "a": "Gottfried Wilhelm Leibniz"
+    }
+   ]
+  },
+  {
+   "name": "Mythology",
+   "icon": "⚡",
+   "questions": [
+    {
+     "d": 1,
+     "q": "Who is the king of the Greek gods?",
+     "a": "Zeus"
+    },
+    {
+     "d": 1,
+     "q": "Which Greek monster had snakes for hair?",
+     "a": "Medusa"
+    },
+    {
+     "d": 2,
+     "q": "Who is the Norse god of thunder?",
+     "a": "Thor"
+    },
+    {
+     "d": 2,
+     "q": "Which Greek hero was vulnerable only at his heel?",
+     "a": "Achilles"
+    },
+    {
+     "d": 3,
+     "q": "Who is the Roman god of war?",
+     "a": "Mars"
+    },
+    {
+     "d": 3,
+     "q": "What did Pandora open, releasing evils into the world?",
+     "a": "A jar (often called a box)"
+    },
+    {
+     "d": 4,
+     "q": "What winged horse sprang from the blood of Medusa?",
+     "a": "Pegasus"
+    },
+    {
+     "d": 4,
+     "q": "In Egyptian mythology, Anubis has the head of which animal?",
+     "a": "A jackal"
+    },
+    {
+     "d": 5,
+     "q": "What is the name of the great tree that connects the nine worlds in Norse mythology?",
+     "a": "Yggdrasil"
+    },
+    {
+     "d": 5,
+     "q": "Who solved the riddle of the Sphinx?",
+     "a": "Oedipus"
+    },
+    {
+     "d": 6,
+     "q": "Who is the Egyptian sun god?",
+     "a": "Ra"
+    },
+    {
+     "d": 6,
+     "q": "How many labors did Heracles perform?",
+     "a": "Twelve"
+    },
+    {
+     "d": 7,
+     "q": "What is the name of Odin’s eight-legged horse?",
+     "a": "Sleipnir"
+    },
+    {
+     "d": 7,
+     "q": "Who ferried the souls of the dead across the river into the Greek underworld?",
+     "a": "Charon"
+    },
+    {
+     "d": 8,
+     "q": "What is the name of the Aztec feathered serpent god?",
+     "a": "Quetzalcoatl"
+    },
+    {
+     "d": 8,
+     "q": "Which Mesopotamian king is the hero of the oldest surviving epic poem?",
+     "a": "Gilgamesh"
+    },
+    {
+     "d": 9,
+     "q": "Who is the sun goddess in Japanese Shinto mythology?",
+     "a": "Amaterasu"
+    },
+    {
+     "d": 9,
+     "q": "Which Irish hero gained great wisdom by tasting the Salmon of Knowledge?",
+     "a": "Fionn mac Cumhaill"
+    },
+    {
+     "d": 10,
+     "q": "What is the name of the Babylonian creation epic?",
+     "a": "Enuma Elish"
+    },
+    {
+     "d": 10,
+     "q": "Who is the wise old hero of the Finnish epic “Kalevala”?",
+     "a": "Väinämöinen"
+    }
+   ]
+  },
+  {
+   "name": "Words & Language",
+   "icon": "🔤",
+   "questions": [
+    {
+     "d": 1,
+     "q": "How many letters are in the English alphabet?",
+     "a": "26"
+    },
+    {
+     "d": 1,
+     "q": "What is the plural of “mouse”?",
+     "a": "Mice"
+    },
+    {
+     "d": 2,
+     "q": "What do you call a word that means the same as another word?",
+     "a": "A synonym"
+    },
+    {
+     "d": 2,
+     "q": "What part of speech names an action, like “run” or “jump”?",
+     "a": "A verb"
+    },
+    {
+     "d": 3,
+     "q": "What do you call a word that reads the same forward and backward?",
+     "a": "A palindrome"
+    },
+    {
+     "d": 3,
+     "q": "What is the most commonly used letter in English?",
+     "a": "E"
+    },
+    {
+     "d": 4,
+     "q": "Which language has the most native speakers?",
+     "a": "Mandarin Chinese"
+    },
+    {
+     "d": 4,
+     "q": "What is a word formed from the first letters of other words, like NASA?",
+     "a": "An acronym"
+    },
+    {
+     "d": 5,
+     "q": "What does the Latin phrase “carpe diem” mean?",
+     "a": "Seize the day"
+    },
+    {
+     "d": 5,
+     "q": "What is a word that blends two others, like “brunch,” called?",
+     "a": "A portmanteau"
+    },
+    {
+     "d": 6,
+     "q": "What is the joke name for the fear of long words?",
+     "a": "Hippopotomonstrosesquippedaliophobia"
+    },
+    {
+     "d": 6,
+     "q": "From which language does the word “kindergarten” come?",
+     "a": "German"
+    },
+    {
+     "d": 7,
+     "q": "What does “sesquipedalian” describe?",
+     "a": "Using long words"
+    },
+    {
+     "d": 7,
+     "q": "What is the dot over a lowercase “i” or “j” called?",
+     "a": "A tittle"
+    },
+    {
+     "d": 8,
+     "q": "What is another name for the “#” symbol?",
+     "a": "Octothorpe"
+    },
+    {
+     "d": 8,
+     "q": "What is a sentence that uses every letter of the alphabet called?",
+     "a": "A pangram"
+    },
+    {
+     "d": 9,
+     "q": "What is the anatomical word for the smooth spot between your eyebrows?",
+     "a": "The glabella"
+    },
+    {
+     "d": 9,
+     "q": "What is the Japanese art of repairing broken pottery with gold?",
+     "a": "Kintsugi"
+    },
+    {
+     "d": 10,
+     "q": "Which language isolate, unrelated to any other living language, is spoken in the western Pyrenees?",
+     "a": "Basque"
+    },
+    {
+     "d": 10,
+     "q": "What is a word that can mean its own opposite, like “cleave,” called?",
+     "a": "A contronym"
+    }
+   ]
+  }
+ ]
+}
