@@ -27,7 +27,8 @@ platform :ios do
       export_method: "app-store",
       output_directory: ".",
       output_name: "TriviaNight.ipa",
-      xcargs: "#{auth} DEVELOPMENT_TEAM=#{team_id} CODE_SIGN_STYLE=Automatic CURRENT_PROJECT_VERSION=#{ENV.fetch('BUILD_NUMBER', '1')}",
+      # Sign the archive for distribution directly; a development profile would need a registered device.
+      xcargs: "#{auth} DEVELOPMENT_TEAM=#{team_id} CODE_SIGN_STYLE=Automatic CODE_SIGN_IDENTITY='Apple Distribution' CURRENT_PROJECT_VERSION=#{ENV.fetch('BUILD_NUMBER', '1')}",
       export_xcargs: auth,
       export_options: {
         signingStyle: "automatic",
