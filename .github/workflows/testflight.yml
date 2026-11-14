@@ -31,16 +31,36 @@ jobs:
           xcodegen generate
 
       - name: Write API key
+        id: key
         env:
           ASC_KEY_P8_BASE64: ${{ secrets.ASC_KEY_P8_BASE64 }}
-        run: echo "$ASC_KEY_P8_BASE64" | base64 --decode > "$RUNNER_TEMP/AuthKey.p8"
+          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+        run: |
+          # Xcode expects the file to be named AuthKey_<KEY_ID>.p8
+          KEY_PATH="$RUNNER_TEMP/AuthKey_${ASC_KEY_ID}.p8"
+          # Accept either a base64-encoded .p8 or the raw file contents
+          if printf '%s' "$ASC_KEY_P8_BASE64" | grep -q "BEGIN PRIVATE KEY"; then
+            printf '%s\n' "$ASC_KEY_P8_BASE64" > "$KEY_PATH"
+            echo "Secret contained the raw .p8 text"
+          else
+            printf '%s' "$ASC_KEY_P8_BASE64" | tr -d ' \r\n' | base64 --decode > "$KEY_PATH"
+            echo "Secret was base64; decoded"
+          fi
+          echo "First line: $(head -1 "$KEY_PATH")"
+          if openssl pkey -in "$KEY_PATH" -noout 2>/dev/null; then
+            echo "Key parses OK"
+          else
+            echo "::error::ASC_KEY_P8_BASE64 does not contain a valid .p8 private key. Re-create the secret from the AuthKey .p8 file."
+            exit 1
+          fi
+          echo "path=$KEY_PATH" >> "$GITHUB_OUTPUT"
 
       - name: Build and upload to TestFlight
         env:
           ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
           ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
           APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
-          ASC_KEY_PATH: ${{ runner.temp }}/AuthKey.p8
+          ASC_KEY_PATH: ${{ steps.key.outputs.path }}
           BUILD_NUMBER: ${{ github.run_number }}
         run: fastlane beta
 
