@@ -1,24 +1,49 @@
+require "base64"
+
 default_platform(:ios)
+
+APP_ID = "com.acesinthesack.trivianight"
 
 platform :ios do
   desc "Build a signed App Store build and upload it to TestFlight"
   lane :beta do
-    key_path = ENV.fetch("ASC_KEY_PATH")
-    key_id = ENV.fetch("ASC_KEY_ID")
-    issuer_id = ENV.fetch("ASC_ISSUER_ID")
     team_id = ENV.fetch("APPLE_TEAM_ID")
 
     api_key = app_store_connect_api_key(
-      key_id: key_id,
-      issuer_id: issuer_id,
-      key_filepath: key_path
+      key_id: ENV.fetch("ASC_KEY_ID"),
+      issuer_id: ENV.fetch("ASC_ISSUER_ID"),
+      key_filepath: ENV.fetch("ASC_KEY_PATH")
     )
 
-    # Xcode's cloud-managed automatic signing, authenticated with the API key.
-    auth = "-allowProvisioningUpdates " \
-           "-authenticationKeyPath #{key_path} " \
-           "-authenticationKeyID #{key_id} " \
-           "-authenticationKeyIssuerID #{issuer_id}"
+    # Temporary keychain on the CI runner
+    setup_ci
+
+    # App Store distribution certificate + profile, created through the API key on first
+    # run and stored encrypted on this repo's `match-certificates` branch afterwards.
+    # No registered devices are needed for App Store signing.
+    match(
+      type: "appstore",
+      app_identifier: APP_ID,
+      team_id: team_id,
+      api_key: api_key,
+      storage_mode: "git",
+      git_url: "https://github.com/#{ENV.fetch('GITHUB_REPOSITORY')}.git",
+      git_branch: "match-certificates",
+      git_basic_authorization: Base64.strict_encode64("x-access-token:#{ENV.fetch('GITHUB_TOKEN')}"),
+      readonly: false
+    )
+
+    profile_name = ENV.fetch("sigh_#{APP_ID}_appstore_profile-name")
+
+    update_code_signing_settings(
+      path: "TriviaNight.xcodeproj",
+      use_automatic_signing: false,
+      team_id: team_id,
+      targets: ["TriviaNight"],
+      bundle_identifier: APP_ID,
+      code_sign_identity: "Apple Distribution",
+      profile_name: profile_name
+    )
 
     build_app(
       project: "TriviaNight.xcodeproj",
@@ -27,12 +52,9 @@ platform :ios do
       export_method: "app-store",
       output_directory: ".",
       output_name: "TriviaNight.ipa",
-      # Sign the archive for distribution directly; a development profile would need a registered device.
-      xcargs: "#{auth} DEVELOPMENT_TEAM=#{team_id} CODE_SIGN_STYLE=Automatic CODE_SIGN_IDENTITY='Apple Distribution' CURRENT_PROJECT_VERSION=#{ENV.fetch('BUILD_NUMBER', '1')}",
-      export_xcargs: auth,
+      xcargs: "CURRENT_PROJECT_VERSION=#{ENV.fetch('BUILD_NUMBER', '1')}",
       export_options: {
-        signingStyle: "automatic",
-        teamID: team_id
+        provisioningProfiles: { APP_ID => profile_name }
       }
     )
 

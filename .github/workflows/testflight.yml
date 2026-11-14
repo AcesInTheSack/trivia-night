@@ -4,6 +4,9 @@ name: TestFlight
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write   # match stores encrypted signing files on the match-certificates branch
+
 jobs:
   upload:
     runs-on: macos-15
@@ -72,7 +75,12 @@ jobs:
           APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
           ASC_KEY_PATH: ${{ steps.key.outputs.path }}
           BUILD_NUMBER: ${{ github.run_number }}
-        run: fastlane beta
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          # Encrypt the stored signing files with a password derived from the API key secret,
+          # so nothing extra has to be added to the repo's secrets.
+          export MATCH_PASSWORD=$(shasum -a 256 "$ASC_KEY_PATH" | cut -d' ' -f1)
+          fastlane beta
 
       - name: Upload IPA
         if: always()
