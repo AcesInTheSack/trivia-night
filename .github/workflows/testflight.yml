@@ -1,91 +1,120 @@
 name: TestFlight
 
 # Run manually from the Actions tab once the App Store secrets are set (see README).
+# Signing follows the same approach as the Anywhere Game repo: each run creates a fresh
+# Apple Distribution certificate and App Store profile through the API key, and revokes
+# older certificates so the account stays under Apple's limit.
 on:
   workflow_dispatch:
-
-permissions:
-  contents: write   # match stores encrypted signing files on the match-certificates branch
 
 jobs:
   upload:
     runs-on: macos-15
-    timeout-minutes: 60
+    timeout-minutes: 45
+    env:
+      APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+      ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+      ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+      ASC_KEY_P8_BASE64: ${{ secrets.ASC_KEY_P8_BASE64 }}
+      BUNDLE_ID: com.acesinthesack.trivianight
+      CERT_NAME: Trivia Night CI
+      OUT_DIR: ${{ github.workspace }}/../signing
     steps:
-      - uses: actions/checkout@v4
-
       - name: Check secrets
-        env:
-          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
-          ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
-          ASC_KEY_P8_BASE64: ${{ secrets.ASC_KEY_P8_BASE64 }}
-          APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
         run: |
           missing=0
-          for v in ASC_KEY_ID ASC_ISSUER_ID ASC_KEY_P8_BASE64 APPLE_TEAM_ID; do
+          for v in APPLE_TEAM_ID ASC_KEY_ID ASC_ISSUER_ID ASC_KEY_P8_BASE64; do
             if [ -z "${!v}" ]; then echo "::error::Missing repository secret $v (see README)"; missing=1; fi
           done
           exit $missing
 
-      - name: Tools
+      - uses: actions/checkout@v4
+
+      - name: Generate Xcode project
         run: |
           brew install xcodegen
-          gem install fastlane --no-document
           xcodegen generate
+          xcodebuild -version
 
       - name: Write API key
-        id: key
-        env:
-          ASC_KEY_P8_BASE64: ${{ secrets.ASC_KEY_P8_BASE64 }}
-          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
         run: |
-          # Xcode expects the file to be named AuthKey_<KEY_ID>.p8
+          # Xcode expects the file to be named AuthKey_<KEY_ID>.p8.
+          # Accepts the raw .p8 text, a base64-encoded .p8 file, or just the key body.
           KEY_PATH="$RUNNER_TEMP/AuthKey_${ASC_KEY_ID}.p8"
-          # Accept either a base64-encoded .p8 or the raw file contents
-          if printf '%s' "$ASC_KEY_P8_BASE64" | grep -q "BEGIN PRIVATE KEY"; then
-            printf '%s\n' "$ASC_KEY_P8_BASE64" > "$KEY_PATH"
-            echo "Secret contained the raw .p8 text"
-          else
-            printf '%s' "$ASC_KEY_P8_BASE64" | tr -d ' \r\n' | base64 --decode > "$KEY_PATH.raw"
-            if grep -q "BEGIN PRIVATE KEY" "$KEY_PATH.raw"; then
-              mv "$KEY_PATH.raw" "$KEY_PATH"
-              echo "Secret was a base64-encoded .p8 file"
-            else
-              # Base64 of the key body only (DER). Rebuild a proper PEM .p8 around it.
-              { echo "-----BEGIN PRIVATE KEY-----"
-                printf '%s' "$ASC_KEY_P8_BASE64" | tr -d ' \r\n' | fold -w 64
-                echo
-                echo "-----END PRIVATE KEY-----"; } > "$KEY_PATH"
-              rm -f "$KEY_PATH.raw"
-              echo "Secret was the key body only; wrapped it as a .p8"
-            fi
-          fi
-          if openssl pkey -in "$KEY_PATH" -noout 2>/dev/null; then
-            echo "Key parses OK"
-          else
-            echo "::error::ASC_KEY_P8_BASE64 does not contain a valid .p8 private key. Re-create the secret from the AuthKey .p8 file."
-            exit 1
-          fi
-          echo "path=$KEY_PATH" >> "$GITHUB_OUTPUT"
+          KEY_PATH="$KEY_PATH" python3 - <<'PY'
+          import base64, os, re, sys, textwrap
+          raw = os.environ["ASC_KEY_P8_BASE64"]
+          m = re.search(r"-----BEGIN PRIVATE KEY-----(.*?)-----END PRIVATE KEY-----", raw, re.S)
+          if not m:
+              try:
+                  decoded = base64.b64decode(re.sub(r"\s", "", raw)).decode("utf-8", "ignore")
+                  m = re.search(r"-----BEGIN PRIVATE KEY-----(.*?)-----END PRIVATE KEY-----", decoded, re.S)
+              except Exception:
+                  m = None
+          body = re.sub(r"[^A-Za-z0-9+/=]", "", m.group(1) if m else raw)
+          if len(body) < 100:
+              print("::error::ASC_KEY_P8_BASE64 doesn't look like an App Store Connect .p8 key.")
+              sys.exit(1)
+          pem = "-----BEGIN PRIVATE KEY-----\n" + "\n".join(textwrap.wrap(body, 64)) + "\n-----END PRIVATE KEY-----\n"
+          open(os.environ["KEY_PATH"], "w").write(pem)
+          print("Key file written.")
+          PY
+          openssl pkey -in "$KEY_PATH" -noout && echo "Key parses OK"
+          echo "KEY_PATH=$KEY_PATH" >> "$GITHUB_ENV"
 
-      - name: Build and upload to TestFlight
-        env:
-          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
-          ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
-          APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
-          ASC_KEY_PATH: ${{ steps.key.outputs.path }}
-          BUILD_NUMBER: ${{ github.run_number }}
-          GITHUB_TOKEN: ${{ github.token }}
+      - name: Create signing certificate and profile
         run: |
-          # Encrypt the stored signing files with a password derived from the API key secret,
-          # so nothing extra has to be added to the repo's secrets.
-          export MATCH_PASSWORD=$(shasum -a 256 "$ASC_KEY_PATH" | cut -d' ' -f1)
-          fastlane beta
+          python3 -m venv "$RUNNER_TEMP/venv"
+          "$RUNNER_TEMP/venv/bin/pip" install --quiet pyjwt cryptography
+          "$RUNNER_TEMP/venv/bin/python" scripts/ci_signing.py setup
 
-      - name: Upload IPA
+      - name: Archive
+        run: |
+          set -o pipefail
+          xcodebuild archive \
+            -project TriviaNight.xcodeproj \
+            -scheme TriviaNight \
+            -configuration Release \
+            -destination "generic/platform=iOS" \
+            -archivePath "$RUNNER_TEMP/TriviaNight.xcarchive" \
+            DEVELOPMENT_TEAM="$APPLE_TEAM_ID" \
+            CODE_SIGN_STYLE=Manual \
+            CODE_SIGN_IDENTITY="Apple Distribution" \
+            PROVISIONING_PROFILE_SPECIFIER="$PROFILE_NAME" \
+            CURRENT_PROJECT_VERSION="${{ github.run_number }}" | tail -40
+
+      - name: Upload to App Store Connect
+        run: |
+          cat > "$RUNNER_TEMP/ExportOptions.plist" <<EOF
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0">
+          <dict>
+            <key>method</key><string>app-store-connect</string>
+            <key>destination</key><string>upload</string>
+            <key>teamID</key><string>${APPLE_TEAM_ID}</string>
+            <key>signingStyle</key><string>manual</string>
+            <key>signingCertificate</key><string>Apple Distribution</string>
+            <key>provisioningProfiles</key>
+            <dict>
+              <key>${BUNDLE_ID}</key><string>${PROFILE_NAME}</string>
+            </dict>
+            <key>manageAppVersionAndBuildNumber</key><false/>
+          </dict>
+          </plist>
+          EOF
+          xcodebuild -exportArchive \
+            -archivePath "$RUNNER_TEMP/TriviaNight.xcarchive" \
+            -exportOptionsPlist "$RUNNER_TEMP/ExportOptions.plist" \
+            -exportPath "$RUNNER_TEMP/export" \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "$KEY_PATH" \
+            -authenticationKeyID "$ASC_KEY_ID" \
+            -authenticationKeyIssuerID "$ASC_ISSUER_ID"
+          echo "Uploaded build ${{ github.run_number }}. It shows up in TestFlight after Apple finishes processing (usually 5 to 30 minutes)."
+
+      - name: Clean up signing files
         if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: ipa
-          path: "*.ipa"
-          if-no-files-found: ignore
+        run: |
+          [ -d "$RUNNER_TEMP/venv" ] || exit 0
+          "$RUNNER_TEMP/venv/bin/python" scripts/ci_signing.py cleanup || true
