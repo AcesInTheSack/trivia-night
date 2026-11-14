@@ -43,10 +43,20 @@ jobs:
             printf '%s\n' "$ASC_KEY_P8_BASE64" > "$KEY_PATH"
             echo "Secret contained the raw .p8 text"
           else
-            printf '%s' "$ASC_KEY_P8_BASE64" | tr -d ' \r\n' | base64 --decode > "$KEY_PATH"
-            echo "Secret was base64; decoded"
+            printf '%s' "$ASC_KEY_P8_BASE64" | tr -d ' \r\n' | base64 --decode > "$KEY_PATH.raw"
+            if grep -q "BEGIN PRIVATE KEY" "$KEY_PATH.raw"; then
+              mv "$KEY_PATH.raw" "$KEY_PATH"
+              echo "Secret was a base64-encoded .p8 file"
+            else
+              # Base64 of the key body only (DER). Rebuild a proper PEM .p8 around it.
+              { echo "-----BEGIN PRIVATE KEY-----"
+                printf '%s' "$ASC_KEY_P8_BASE64" | tr -d ' \r\n' | fold -w 64
+                echo
+                echo "-----END PRIVATE KEY-----"; } > "$KEY_PATH"
+              rm -f "$KEY_PATH.raw"
+              echo "Secret was the key body only; wrapped it as a .p8"
+            fi
           fi
-          echo "First line: $(head -1 "$KEY_PATH")"
           if openssl pkey -in "$KEY_PATH" -noout 2>/dev/null; then
             echo "Key parses OK"
           else
