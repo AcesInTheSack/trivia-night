@@ -18,6 +18,19 @@ TriviaNightTests            unit tests for question picking and game flow
 fastlane/Fastfile           the TestFlight lane
 ```
 
+## Questions
+
+`TriviaNight/Resources/questions.json` holds the question bank. Every question has a permanent ID, `q` plus 12 hex characters taken from a hash of the question's text. The app saves the ID of every question it shows on screen (on the device, across games and relaunches) and won't pick that question again until the unplayed ones in the chosen categories run out. Setup shows how many unplayed questions are left and has a button to reset the history.
+
+To load a new pool, put it in a CSV with columns `category, difficulty, question, answer` (difficulty 1-10) and run:
+
+```
+python3 scripts/import_questions.py pool.csv            # replace the bank
+python3 scripts/import_questions.py more.csv --merge    # add to the bank
+```
+
+The script assigns the IDs, drops duplicates (ignoring case, punctuation and spacing), and lists rows it skipped and duplicates whose answers disagree. Because an ID depends only on the question text, re-importing never changes the ID of a question that's already been played.
+
 ## Building
 
 There's no Mac in the loop, so GitHub's macOS runners do the building. Every push to `main` runs CI; screenshots of each screen on an iPad and an iPhone are attached to the run as the `screenshots` artifact.

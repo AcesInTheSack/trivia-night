@@ -16,6 +16,51 @@ final class GameTests: XCTestCase {
         }
     }
 
+    func testEveryQuestionHasAUniquePermanentID() {
+        let ids = bank.categories.flatMap { $0.questions.map(\.id) }
+        XCTAssertEqual(Set(ids).count, ids.count, "IDs must be unique")
+        XCTAssertTrue(ids.allSatisfy { $0.hasPrefix("q") && $0.count == 13 }, "IDs come from questions.json, not array position")
+    }
+
+    func testHistoryPersistsAcrossLaunches() throws {
+        let url = FileManager.default.temporaryDirectory.appendingPathComponent(UUID().uuidString + ".json")
+        defer { try? FileManager.default.removeItem(at: url) }
+        let first = PlayHistory(url: url)
+        first.markPlayed("qabc")
+        first.markPlayed("qdef")
+        let reloaded = PlayHistory(url: url)
+        XCTAssertEqual(reloaded.played, ["qabc", "qdef"])
+        reloaded.reset()
+        XCTAssertTrue(PlayHistory(url: url).played.isEmpty)
+    }
+
+    func testShownQuestionsAreNeverRepeatedUntilTheBankRunsOut() {
+        let model = AppModel(bank: bank, history: PlayHistory(url: nil))
+        model.settings.selected = ["History", "Music"]   // 40 questions
+        model.settings.questionCount = 10
+        var seen = Set<String>()
+        for _ in 0..<4 {                                  // 4 games x 10 = all 40
+            model.startGame()
+            model.startMatch()
+            for _ in 0..<10 { seen.insert(model.current!.id); model.next() }
+        }
+        XCTAssertEqual(seen.count, 40, "four games used every question exactly once")
+        XCTAssertEqual(model.unplayedInSelection, 0)
+        model.startGame()                                 // bank exhausted: repeats allowed
+        XCTAssertEqual(model.game.count, 10)
+        model.resetHistory()
+        XCTAssertEqual(model.unplayedInSelection, 40)
+    }
+
+    func testOnlyQuestionsActuallyShownCountAsPlayed() {
+        let model = AppModel(bank: bank, history: PlayHistory(url: nil))
+        model.settings.questionCount = 10
+        model.startGame()
+        XCTAssertEqual(model.playedCount, 0, "building a game doesn't mark anything")
+        model.startMatch(); model.next(); model.next()
+        XCTAssertEqual(model.playedCount, 3)
+    }
+
     func testBuildRespectsCountAndCategories() {
         var s = GameSettings()
         s.selected = ["History", "Music", "Sports"]
@@ -79,7 +124,7 @@ final class GameTests: XCTestCase {
     }
 
     func testAnswerIsHiddenOnEveryNavigation() {
-        let model = AppModel(bank: bank)
+        let model = AppModel(bank: bank, history: PlayHistory(url: nil))
         model.startGame()
         model.startMatch()
         XCTAssertFalse(model.revealed)
@@ -92,7 +137,7 @@ final class GameTests: XCTestCase {
     }
 
     func testFlowReachesEndAndCanReview() {
-        let model = AppModel(bank: bank)
+        let model = AppModel(bank: bank, history: PlayHistory(url: nil))
         model.settings.questionCount = 3
         model.startGame()
         XCTAssertEqual(model.screen, .splash)
@@ -109,7 +154,7 @@ final class GameTests: XCTestCase {
     }
 
     func testCountClampsWhenCategoriesChange() {
-        let model = AppModel(bank: bank)
+        let model = AppModel(bank: bank, history: PlayHistory(url: nil))
         model.selectAll()
         model.setQuestionCount(200)
         XCTAssertEqual(model.settings.questionCount, 200)

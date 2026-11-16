@@ -2,6 +2,7 @@ import SwiftUI
 
 struct SetupView: View {
     @Bindable var model: AppModel
+    @State private var confirmReset = false
 
     var body: some View {
         ScrollView {
@@ -13,7 +14,7 @@ struct SetupView: View {
                     categories
                 }
                 StepCard(number: 2, title: "How many questions?",
-                         hint: "Each category has 20 questions in this version.") {
+                         hint: "Questions you’ve already played are saved for last, so nothing repeats until the unplayed ones run out.") {
                     countControl
                 }
                 StepCard(number: 3, title: "How challenging?",
@@ -133,6 +134,35 @@ struct SetupView: View {
                 Slider(value: count.asDouble, in: 1...Double(model.maxQuestions), step: 1)
                     .tint(Theme.amber)
             }
+            historyRow
+        }
+    }
+
+    private var historyRow: some View {
+        let unplayed = model.unplayedInSelection
+        let low = !model.settings.selected.isEmpty && unplayed < model.settings.questionCount
+        return HStack(spacing: 12) {
+            Image(systemName: low ? "exclamationmark.circle" : "checkmark.circle")
+                .foregroundStyle(low ? Theme.amber : Theme.teal)
+            Text(model.settings.selected.isEmpty
+                 ? "\(model.totalQuestions.formatted()) questions in the bank"
+                 : "\(unplayed.formatted()) not played yet in these categories"
+                   + (low ? " · some repeats this game" : ""))
+                .font(Theme.body(14))
+                .foregroundStyle(Theme.muted)
+            Spacer(minLength: 8)
+            if model.playedCount > 0 {
+                Button("Reset played history") { confirmReset = true }
+                    .font(Theme.body(14, .medium))
+                    .foregroundStyle(Theme.muted)
+                    .buttonStyle(.borderless)
+            }
+        }
+        .alert("Reset played history?", isPresented: $confirmReset) {
+            Button("Cancel", role: .cancel) {}
+            Button("Reset", role: .destructive) { model.resetHistory() }
+        } message: {
+            Text("The app has shown \(model.playedCount.formatted()) questions so far. Resetting lets all of them come up again.")
         }
     }
 

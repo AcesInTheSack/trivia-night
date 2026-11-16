@@ -8,7 +8,7 @@ struct TriviaNightApp: App {
     init() {
         // CI screenshots: launch with `-uiDemo splash|game|answer|end`.
         if let demo = UserDefaults.standard.string(forKey: "uiDemo") {
-            let m = AppModel()
+            let m = AppModel(history: PlayHistory(url: nil))
             m.applyDemo(demo)
             _model = State(initialValue: m)
         }

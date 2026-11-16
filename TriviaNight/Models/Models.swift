@@ -1,7 +1,7 @@
 import Foundation
 
 struct Question: Identifiable, Hashable {
-    let id: String          // "<category>|<index>"
+    let id: String          // permanent ID from questions.json, e.g. "q1a2b3c4d5e6f"
     let category: String
     let difficulty: Int     // 1...10
     let text: String
@@ -24,7 +24,7 @@ struct QuestionBank {
 
     private struct File: Decodable {
         struct Cat: Decodable { let name: String; let icon: String; let questions: [Q] }
-        struct Q: Decodable { let d: Int; let q: String; let a: String }
+        struct Q: Decodable { let id: String?; let d: Int; let q: String; let a: String }
         let categories: [Cat]
     }
 
@@ -35,7 +35,7 @@ struct QuestionBank {
                 name: cat.name,
                 icon: cat.icon,
                 questions: cat.questions.enumerated().map { i, q in
-                    Question(id: "\(cat.name)|\(i)", category: cat.name, difficulty: q.d, text: q.q, answer: q.a)
+                    Question(id: q.id ?? "\(cat.name)|\(i)", category: cat.name, difficulty: q.d, text: q.q, answer: q.a)
                 }
             )
         }
@@ -134,5 +134,45 @@ enum GameBuilder {
             }
         }
         return out
+    }
+}
+
+/// Remembers every question that has been shown on screen, across games and app launches,
+/// so the app doesn't repeat a question until it has used up the unplayed ones.
+final class PlayHistory {
+    private let url: URL?
+    private(set) var played: Set<String>
+
+    init(url: URL? = PlayHistory.defaultURL) {
+        self.url = url
+        if let url, let data = try? Data(contentsOf: url),
+           let ids = try? JSONDecoder().decode([String].self, from: data) {
+            played = Set(ids)
+        } else {
+            played = []
+        }
+    }
+
+    static var defaultURL: URL? {
+        let fm = FileManager.default
+        guard let dir = try? fm.url(for: .applicationSupportDirectory, in: .userDomainMask, appropriateFor: nil, create: true) else { return nil }
+        return dir.appendingPathComponent("played-questions.json")
+    }
+
+    func contains(_ id: String) -> Bool { played.contains(id) }
+
+    func markPlayed(_ id: String) {
+        guard played.insert(id).inserted else { return }
+        save()
+    }
+
+    func reset() {
+        played = []
+        save()
+    }
+
+    private func save() {
+        guard let url, let data = try? JSONEncoder().encode(played.sorted()) else { return }
+        try? data.write(to: url, options: .atomic)
     }
 }

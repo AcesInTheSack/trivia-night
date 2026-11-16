@@ -8,6 +8,7 @@ enum Screen: Equatable {
 @Observable
 final class AppModel {
     let bank: QuestionBank
+    let history: PlayHistory
     var settings = GameSettings()
     var screen: Screen = .setup
 
@@ -16,9 +17,12 @@ final class AppModel {
     private(set) var revealed = false
     private(set) var slideStartedAt = Date()
     private var usedLastGame: Set<String> = []
+    /// Bumped when history changes so views showing counts refresh.
+    private(set) var historyVersion = 0
 
-    init(bank: QuestionBank = .loadBundled()) {
+    init(bank: QuestionBank = .loadBundled(), history: PlayHistory = PlayHistory()) {
         self.bank = bank
+        self.history = history
         let defaults = ["History", "Science", "Pop Culture", "Movies & Entertainment"]
         settings.selected = Set(defaults.filter { bank.category(named: $0) != nil })
     }
@@ -75,7 +79,9 @@ final class AppModel {
 
     func startGame() {
         var rng = SystemRandomNumberGenerator()
-        game = GameBuilder.build(bank: bank, settings: settings, avoiding: usedLastGame, rng: &rng)
+        // Skip anything ever shown before, plus last game's picks (in case some weren't reached).
+        let avoid = history.played.union(usedLastGame)
+        game = GameBuilder.build(bank: bank, settings: settings, avoiding: avoid, rng: &rng)
         usedLastGame = Set(game.map(\.id))
         index = 0
         revealed = false
@@ -97,6 +103,33 @@ final class AppModel {
     private func presentSlide() {
         revealed = false
         slideStartedAt = Date()
+        if let q = current {
+            history.markPlayed(q.id)
+            historyVersion += 1
+        }
+    }
+
+    // MARK: Play history
+
+    var totalQuestions: Int { bank.categories.reduce(0) { $0 + $1.questions.count } }
+
+    /// Unplayed questions in the selected categories.
+    var unplayedInSelection: Int {
+        _ = historyVersion
+        return selectedCategories.reduce(0) { sum, cat in
+            sum + cat.questions.filter { !history.contains($0.id) }.count
+        }
+    }
+
+    var playedCount: Int {
+        _ = historyVersion
+        return history.played.count
+    }
+
+    func resetHistory() {
+        history.reset()
+        usedLastGame = []
+        historyVersion += 1
     }
 
     func reveal() {
@@ -134,6 +167,7 @@ final class AppModel {
     // MARK: Screenshot / demo support (used by CI to capture screens)
 
     func applyDemo(_ name: String) {
+        resetHistory()
         selectAll()
         settings.questionCount = 20
         startGame()
