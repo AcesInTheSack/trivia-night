@@ -1,0 +1,100 @@
+1|What is the main ingredient in French fries?|Potatoes
+1|What fruit is dried to make raisins?|Grapes
+1|What color is the inside of a ripe watermelon?|Red (or pink)
+1|What animal does bacon come from?|A pig
+1|What do you call the bread used for a hot dog?|A bun
+1|What is the main ingredient in an omelet?|Eggs
+1|What drink is made by steeping dried leaves in hot water, often with milk in Britain?|Tea
+1|Which nut is used to make peanut butter?|Peanuts (technically a legume)
+1|What vegetable is used to make pickles?|Cucumbers
+1|What sweet food do you put candles on for a birthday?|A cake
+2|What country does the dish sushi come from?|Japan
+2|What is the main ingredient in a traditional tortilla in Mexico?|Corn (maize)
+2|What kind of pasta is shaped like little bow ties?|Farfalle
+2|Which fruit is known as the “king of fruits” in Southeast Asia and is famous for its strong smell?|Durian
+2|What is the main ingredient in a classic Caesar salad?|Romaine lettuce
+2|What do you call the Italian dish of rice cooked slowly in broth until creamy?|Risotto
+2|What is the main ingredient in tofu?|Soybeans
+2|What type of food is brie?|A cheese
+2|What do the British call French fries?|Chips
+2|Which country is famous for croissants and baguettes?|France
+3|What is the main ingredient in a traditional Greek tzatziki?|Yogurt (with cucumber)
+3|What is the Japanese word for raw sliced fish served without rice?|Sashimi
+3|What is the main alcohol in a mojito?|White rum
+3|What Italian flatbread is often topped with olive oil and rosemary?|Focaccia
+3|Which spice, ground from a tree seed, is often sprinkled on eggnog?|Nutmeg
+3|What is the main ingredient in a traditional falafel?|Chickpeas (or fava beans)
+3|What drink is made from fermented apples?|Cider
+3|What is the main ingredient in a traditional pesto?|Basil
+3|What Italian word describes pasta cooked “to the tooth,” still firm?|Al dente
+3|What is the name for a Mexican dish of a folded tortilla filled with cheese and grilled?|A quesadilla
+4|What do Spaniards call small plates of snacks served with drinks?|Tapas
+4|What Italian dessert is a fried pastry tube filled with sweet ricotta?|Cannoli
+4|What grain is used to make most whiskey in Scotland?|Barley (malted)
+4|What are the three primary ingredients of a classic margarita?|Tequila, lime juice and orange liqueur
+4|What type of wine is Champagne?|Sparkling wine
+4|What is the main ingredient of the Japanese soup miso?|Fermented soybean paste (miso)
+4|Which vegetable is the main ingredient in borscht?|Beets
+4|What is the name of the Italian cured ham that is thinly sliced and served raw?|Prosciutto
+4|What is ghee?|Clarified butter
+4|What cocktail is made with vodka, coffee liqueur and cream?|A White Russian
+5|Which Mexican state gives its name to tequila’s main producing region?|Jalisco
+5|What is the main ingredient in the Middle Eastern dish tabbouleh?|Bulgur wheat (with parsley)
+5|What type of pastry is used to make baklava?|Phyllo (filo) pastry
+5|What is the national dish of Hungary, a stew seasoned with paprika?|Goulash
+5|What kind of milk is used to make traditional mozzarella di bufala?|Water buffalo milk
+5|What is the name of the Korean dish of mixed rice topped with vegetables, meat and egg?|Bibimbap
+5|What is the main spirit in a gin and tonic?|Gin
+5|What is the main ingredient in hollandaise’s cousin, béarnaise, that gives it its herb flavor?|Tarragon
+5|What French term means “everything in its place,” referring to kitchen prep?|Mise en place
+5|What type of food is a Granny Smith?|An apple
+6|What is the main ingredient in the Indian dish dal?|Lentils (or other split pulses)
+6|What is the name of the Spanish cold tomato soup?|Gazpacho
+6|What gives the cocktail Negroni its bitter flavor?|Campari
+6|What Turkish dish of meat roasted on a vertical spit is a cousin of the gyro and shawarma?|Döner kebab
+6|What is the name of the Swiss dish of melted cheese served in a communal pot?|Fondue
+6|What is the name of the Vietnamese noodle soup usually made with beef broth?|Phở
+6|What is the name of the Japanese breaded pork cutlet?|Tonkatsu
+6|What is the name for coffee made by forcing hot water through finely ground beans under pressure?|Espresso
+6|Which grape is the main variety used in Chianti?|Sangiovese
+6|What is the main ingredient in a traditional Scottish haggis, besides oats?|Sheep’s offal (heart, liver and lungs)
+7|What is the name of the Brazilian national cocktail made with cachaça?|Caipirinha
+7|What is the French term for a small appetizer served before a meal, “amuse-bouche,” literally meaning?|“Mouth amuser”
+7|What is the name of the Japanese spicy green paste served with sushi?|Wasabi
+7|Which Italian region is famous for Parmigiano-Reggiano cheese?|Emilia-Romagna
+7|What is the name of the Moroccan slow-cooked stew and the clay pot it’s cooked in?|Tagine
+7|What is the name of the Peruvian dish of raw fish cured in citrus juice?|Ceviche
+7|What type of beer originated in the Czech city of Plzeň?|Pilsner
+7|Which fruit is used to make the liqueur limoncello?|Lemons
+7|What is the name of the Indonesian and Malaysian dish of skewered grilled meat with peanut sauce?|Satay
+7|What is the name of the cheese traditionally used in a Greek salad?|Feta
+8|Which French region produces Chablis wine?|Burgundy
+8|What is the name of the Italian dessert of sweetened cream thickened with gelatin?|Panna cotta
+8|What is the name of the Ethiopian spice blend used in many stews?|Berbere
+8|What is the name of the Japanese dish of battered and deep-fried seafood or vegetables?|Tempura
+8|What is the name of the Spanish dry-cured ham from black Iberian pigs?|Jamón ibérico
+8|What spirit is used in a classic Sazerac cocktail?|Rye whiskey (or cognac)
+8|What is the name of the Indian yogurt drink, often flavored with mango?|Lassi
+8|What is the main ingredient of the French dish ratatouille besides tomatoes?|Eggplant (with zucchini and peppers)
+8|What type of coffee drink is equal parts espresso, steamed milk and milk foam?|A cappuccino
+8|What is the name of the Hawaiian dish of diced raw fish?|Poke
+9|What is the name of the Georgian cheese-filled bread shaped like a boat?|Khachapuri (Adjarian)
+9|What is the name of the fermented fish sauce essential to Vietnamese cooking?|Nước mắm (fish sauce)
+9|Which grape is used to make Barolo wine?|Nebbiolo
+9|What is the name of the Filipino dish of meat stewed in vinegar, soy sauce and garlic?|Adobo
+9|What is the name of the Japanese fermented soybean dish known for its sticky strings?|Nattō
+9|What is the name of the Swedish fermented herring?|Surströmming
+9|What is the name of the Lebanese dip of roasted eggplant and tahini?|Baba ghanoush
+9|What is the name of the Turkish coffee-like drink made from orchid root flour?|Salep
+9|What type of wine is Port, from Portugal?|A fortified wine
+9|What is the name of the Mexican sauce made with chilies, chocolate and many spices?|Mole
+10|What is the name of the Sardinian cheese containing live insect larvae?|Casu marzu
+10|What is the name of the Japanese method of preparing fish by killing it quickly to preserve flavor?|Ikejime
+10|Which French liqueur is made by Carthusian monks from about 130 herbs and plants?|Chartreuse
+10|What is the name of the Icelandic dish of fermented shark?|Hákarl
+10|Which variety of cocoa bean is considered the rarest and finest?|Criollo
+10|What is the name of the Basque cheesecake from San Sebastián known for its burnt top?|Basque burnt cheesecake (La Viña cheesecake)
+10|What is the name of the Indian spice also known as “devil’s dung” for its pungent smell?|Asafoetida
+10|What is the name of the Chinese preserved egg with a dark, jelly-like white?|Century egg (pidan)
+10|Which 19th-century French chef, called the “king of chefs,” first classified the mother sauces?|Marie-Antoine Carême
+10|What is the name of the Scandinavian dish of salmon cured with salt, sugar and dill?|Gravlax

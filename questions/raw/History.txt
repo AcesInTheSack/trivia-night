@@ -1,0 +1,100 @@
+1|Which country gave the Statue of Liberty to the United States?|France
+1|Who was the 16th President of the United States?|Abraham Lincoln
+1|In which country did the ancient Olympic Games begin?|Greece
+1|The American Declaration of Independence declared independence from which country?|Great Britain
+1|Who was the first person to walk on the Moon?|Neil Armstrong
+1|Which civil rights leader gave the “I Have a Dream” speech?|Martin Luther King Jr.
+1|What ancient structure stretches thousands of miles across northern China?|The Great Wall of China
+1|Which queen of ancient Egypt had relationships with Julius Caesar and Mark Antony?|Cleopatra
+1|In what year did the United States declare independence?|1776
+1|Which Roman city was buried by the eruption of Mount Vesuvius in AD 79?|Pompeii
+2|Which British monarch reigned from 1837 to 1901?|Queen Victoria
+2|Which war was fought between the Union and the Confederacy?|The American Civil War
+2|Which explorer led the first expedition to sail around the world, though he died during the voyage?|Ferdinand Magellan
+2|What ship carried the Pilgrims to America in 1620?|The Mayflower
+2|Who led Nazi Germany?|Adolf Hitler
+2|Who refused to give up her bus seat in Montgomery, Alabama, in 1955?|Rosa Parks
+2|What was the first artificial satellite, launched by the Soviet Union in 1957?|Sputnik 1
+2|Which ancient empire built the Colosseum?|The Roman Empire
+2|Which two Japanese cities were hit by atomic bombs in August 1945?|Hiroshima and Nagasaki
+2|What was the name of the Soviet Union’s first leader after the 1917 revolution?|Vladimir Lenin
+3|Who was the first woman to fly solo across the Atlantic Ocean?|Amelia Earhart
+3|Which Indian leader led nonviolent resistance to British rule?|Mahatma Gandhi
+3|What name is given to the economic slump that followed the 1929 stock market crash?|The Great Depression
+3|Which South African leader spent 27 years in prison before becoming president?|Nelson Mandela
+3|Which U.S. state was bought from Russia in 1867?|Alaska
+3|Who was the first female Prime Minister of the United Kingdom?|Margaret Thatcher
+3|Which French queen was executed during the French Revolution in 1793?|Marie Antoinette
+3|What 1803 land deal roughly doubled the size of the United States?|The Louisiana Purchase
+3|Who led the Soviet Union during World War II?|Joseph Stalin
+3|In legend, which city fell to Greeks hidden inside a wooden horse?|Troy
+4|In what year did East Germany begin building the barrier dividing Berlin?|1961
+4|In what year did Constantinople fall to the Ottoman Turks?|1453
+4|Who was the U.S. President during the Cuban Missile Crisis?|John F. Kennedy
+4|Which U.S. President resigned because of the Watergate scandal?|Richard Nixon
+4|What was the Allied invasion of Normandy on June 6, 1944, commonly called?|D-Day
+4|Which leader founded the People’s Republic of China in 1949?|Mao Zedong
+4|Which Frankish king was crowned emperor by the Pope on Christmas Day in the year 800?|Charlemagne
+4|What pandemic killed a huge share of Europe’s population in the mid-1300s?|The Black Death
+4|Which ancient Greek philosopher was sentenced to death by drinking hemlock?|Socrates
+4|What is the name of the Inca citadel high in the Andes of Peru?|Machu Picchu
+5|What was the U.S. program to help rebuild Western Europe after World War II called?|The Marshall Plan
+5|In what year did the Soviet Union dissolve?|1991
+5|Which Russian royal family was executed in 1918?|The Romanovs
+5|Who became the first Chancellor of the unified German Empire in 1871?|Otto von Bismarck
+5|Which Roman general crossed the Rubicon in 49 BC?|Julius Caesar
+5|What Spanish fleet failed in its attempt to invade England in 1588?|The Spanish Armada
+5|The storming of the Bastille was a key early event in which revolution?|The French Revolution
+5|Which British Prime Minister promised “peace for our time” after the 1938 Munich Agreement?|Neville Chamberlain
+5|Which Portuguese explorer was the first European to reach India by sea, in 1498?|Vasco da Gama
+5|What was the name of the NASA program that landed astronauts on the Moon?|Apollo
+6|Which 1815 battle ended Napoleon’s rule for good?|The Battle of Waterloo
+6|Which queen of the Iceni led a revolt against Roman rule in Britain around AD 60?|Boudica
+6|What ancient network of trade routes linked China with the Mediterranean?|The Silk Road
+6|Who was the first Tudor king of England?|Henry VII
+6|What operation flew supplies into West Berlin during the 1948–49 Soviet blockade?|The Berlin Airlift
+6|Who was the U.S. President during the War of 1812?|James Madison
+6|Which Chinese dynasty built most of the Great Wall as it stands today?|The Ming dynasty
+6|In what year did the Bolsheviks seize power in Russia?|1917
+6|What was the name of the Aztec capital, built on an island in a lake?|Tenochtitlan
+6|Which Venetian merchant’s account of his travels to Kublai Khan’s court was widely read in Europe?|Marco Polo
+7|The Indian Rebellion of 1857 is also known by what name?|The Sepoy Mutiny
+7|Who founded the Tokugawa shogunate in Japan in 1603?|Tokugawa Ieyasu
+7|Which 1783 treaty ended the American Revolutionary War?|The Treaty of Paris
+7|Whose nearly intact tomb did Howard Carter discover in 1922?|Tutankhamun’s
+7|What Russian word for “openness” named one of Mikhail Gorbachev’s reform policies?|Glasnost
+7|Which Carthaginian general led an army with war elephants across the Alps?|Hannibal
+7|Which royal house ruled England from 1154 to 1485?|The Plantagenets
+7|Where did Harold Godwinson defeat a Norwegian army just weeks before the Battle of Hastings?|Stamford Bridge
+7|Which Chinese admiral led huge treasure fleets across the Indian Ocean in the early 1400s?|Zheng He
+7|What 1882 alliance joined Germany, Austria-Hungary and Italy?|The Triple Alliance
+8|Which Assyrian king’s library at Nineveh preserved thousands of clay tablets?|Ashurbanipal
+8|In which Indian city did British troops fire on a crowd at Jallianwala Bagh in 1919?|Amritsar
+8|Which Roman emperor set up the Tetrarchy, a system of four co-rulers?|Diocletian
+8|The crew of which Russian battleship mutinied in 1905?|The Potemkin
+8|Which emperor of Mali made a famously lavish pilgrimage to Mecca in 1324?|Mansa Musa
+8|Who was the father of Alexander the Great?|Philip II of Macedon
+8|What name was given to the English Parliament that remained after Pride’s Purge in 1648?|The Rump Parliament
+8|Britain fought the Second Boer War between 1899 and 1902 in which present-day country?|South Africa
+8|Who led the Haitian Revolution that began with a slave uprising in 1791?|Toussaint Louverture
+8|What 1820 U.S. agreement admitted Maine as a free state and Missouri as a slave state?|The Missouri Compromise
+9|Which Byzantine general reconquered North Africa and much of Italy in the 500s?|Belisarius
+9|Who led the English Peasants’ Revolt of 1381?|Wat Tyler
+9|Which Chinese dynasty first unified China in 221 BC?|The Qin dynasty
+9|Which 1857 U.S. Supreme Court case ruled that Black Americans could not be citizens?|Dred Scott v. Sandford
+9|Who is traditionally called the last emperor of the Western Roman Empire, deposed in 476?|Romulus Augustulus
+9|Which Prussian king, known as “the Great,” reigned from 1740 to 1786?|Frederick II
+9|Which Polish king led the army that broke the Ottoman siege of Vienna in 1683?|John III Sobieski
+9|The ancestors of which present-day people built the stone city of Great Zimbabwe?|The Shona
+9|Which 1415 battle did Henry V of England win against a much larger French army?|The Battle of Agincourt
+9|What 1689 English act limited the monarch’s power after the Glorious Revolution?|The Bill of Rights
+10|Which ruler of Akkad is often credited with founding the first empire in Mesopotamia?|Sargon of Akkad
+10|Which 1077 event saw Emperor Henry IV wait in the snow to seek Pope Gregory VII’s forgiveness?|The Walk to Canossa
+10|Which series of French civil wars from 1648 to 1653 was named after a children’s sling?|The Fronde
+10|Which Khmer king began building Angkor Wat?|Suryavarman II
+10|What was the capital city of the Hittite Empire?|Hattusa
+10|Who founded the Maurya Empire in ancient India?|Chandragupta Maurya
+10|Which 1846 treaty set the U.S.–British border in the Pacific Northwest at the 49th parallel?|The Oregon Treaty
+10|Which Persian king began building the ceremonial capital of Persepolis?|Darius I
+10|At which 1356 battle did Edward the Black Prince capture King John II of France?|The Battle of Poitiers
+10|Which crusade ended with the sack of Constantinople in 1204?|The Fourth Crusade

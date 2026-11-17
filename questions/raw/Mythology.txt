@@ -1,0 +1,100 @@
+1|Who is the Greek god of the sea?|Poseidon
+1|What mythical creature is a winged, fire-breathing reptile?|A dragon
+1|In Norse mythology, who is the father of the gods?|Odin
+1|What is the name of Thor’s magical hammer?|Mjölnir
+1|Who is the Roman king of the gods?|Jupiter
+1|What mythical creature is half man, half horse?|A centaur
+1|Which Greek goddess is the goddess of love?|Aphrodite
+1|What mythical creature rises from its own ashes?|The phoenix
+1|What one-eyed giants appear in Greek myths?|Cyclopes
+1|Who is the Greek god of the underworld?|Hades
+2|Which Norse god is the trickster?|Loki
+2|Who is the Greek messenger god with winged sandals?|Hermes
+2|What mythical creature has the body of a lion and the head of a human, and asks riddles?|The Sphinx
+2|Who is the Roman goddess of love?|Venus
+2|Which Greek goddess of wisdom was born from Zeus’s head?|Athena
+2|In Roman myth, which winged boy shoots arrows that make people fall in love?|Cupid
+2|Who flew too close to the sun on wings of wax?|Icarus
+2|What mythical creature is a horse with a single horn?|A unicorn
+2|Who is the Greek god of wine and celebration?|Dionysus
+2|Which Greek hero killed the Minotaur?|Theseus
+3|Who is the Greek god of fire and blacksmiths?|Hephaestus
+3|Who is the Egyptian god of the dead, with green skin?|Osiris
+3|Which Greek goddess is the wife of Zeus and queen of the gods?|Hera
+3|What is the name of the realm where Norse gods live?|Asgard
+3|Who is the Greek god of the sun and music?|Apollo
+3|Which Greek hero sailed with the Argonauts to find the Golden Fleece?|Jason
+3|Who is the Roman god of the sea?|Neptune
+3|What mythical sea creatures lured sailors with their songs?|Sirens
+3|Who is the Greek goddess of the hunt?|Artemis
+3|What is the name of the Norse goddess of love and beauty?|Freyja
+4|Who stole fire from the gods to give to humans?|Prometheus
+4|Which Greek hero slew Medusa?|Perseus
+4|What is the name of the three-headed dog that guards the underworld?|Cerberus
+4|Who is the Egyptian goddess of magic and motherhood, wife of Osiris?|Isis
+4|What is the name of the Norse wolf destined to kill Odin at Ragnarök?|Fenrir
+4|Which Greek king was cursed so that everything he touched turned to gold?|King Midas
+4|Who was the Greek goddess of the harvest and mother of Persephone?|Demeter
+4|Which Titan held up the sky on his shoulders?|Atlas
+4|What is the name of the Norse god of mischief’s daughter who rules the underworld?|Hel
+4|Who is the Hindu god known as the destroyer in the Trimurti?|Shiva
+5|Who was the Greek hero of the “Odyssey”?|Odysseus
+5|What is the name of the bridge linking Midgard and Asgard in Norse myth?|Bifröst
+5|Which Egyptian god has the head of a falcon?|Horus
+5|Who was the Greek goddess of discord who threw the golden apple?|Eris
+5|What is the name of the river of forgetfulness in the Greek underworld?|Lethe
+5|Who is the Hindu god who preserves the universe in the Trimurti?|Vishnu
+5|What is the name of the Greek nymph cursed to repeat others’ words?|Echo
+5|What was the name of the youth who fell in love with his own reflection?|Narcissus
+5|Who is the Roman god of beginnings, with two faces?|Janus
+5|Which Norse god guards the Bifröst bridge?|Heimdall
+6|Who was the queen of the underworld in Greek myth, taken by Hades?|Persephone
+6|What is the name of the Egyptian god with the head of an ibis, god of writing and wisdom?|Thoth
+6|What is the name of Thor’s goats that pull his chariot?|Tanngrisnir and Tanngnjóstr
+6|Which Greek musician traveled to the underworld to rescue his wife Eurydice?|Orpheus
+6|Which Aztec god is the god of war and the sun?|Huitzilopochtli
+6|What is the name of the serpent that encircles the world in Norse myth?|Jörmungandr
+6|Who was the mother of Achilles, a sea nymph?|Thetis
+6|What is the name of the Greek monster with many heads that grew back when cut off?|The Hydra
+6|Which Egyptian goddess has the head of a lioness?|Sekhmet
+6|Who was the Trojan prince whose abduction of Helen started the Trojan War?|Paris
+7|What is the name of the Celtic goddess of horses?|Epona
+7|In Norse myth, what are the female figures who choose who dies in battle called?|Valkyries
+7|Which wise centaur trained heroes such as Achilles and Jason?|Chiron
+7|What is the name of the Japanese storm god, brother of Amaterasu?|Susanoo
+7|Who was the Greek primordial god of the sky, father of the Titans?|Uranus
+7|What is the name of the Hindu monkey god devoted to Rama?|Hanuman
+7|Who was the king of Troy during the Trojan War?|Priam
+7|Which Egyptian god of chaos murdered his brother Osiris?|Set
+7|What is the name of the Norse giant from whose body the world was made?|Ymir
+7|Who was the Greek goddess of victory?|Nike
+8|What is the name of the Mesopotamian goddess of love and war, also called Inanna?|Ishtar
+8|Which Greek hero died from a robe soaked in the centaur Nessus’s poisoned blood?|Heracles
+8|What was the name of the Irish hero who single-handedly defended Ulster in “The Cattle Raid of Cooley”?|Cú Chulainn
+8|Who is the Maya feathered serpent god, equivalent to Quetzalcoatl?|Kukulkan
+8|What are the names of Odin’s two ravens?|Huginn and Muninn
+8|Who was the Greek Titan of time and the father of Zeus?|Cronus
+8|Which Hindu warrior goddess is often shown with many arms, riding a lion or tiger?|Durga
+8|What is the name of the Slavic god of thunder?|Perun
+8|Which Egyptian god was the creator god of Memphis, patron of craftsmen?|Ptah
+8|What is the name of the Greek ferryman’s fee placed in the mouth of the dead?|An obol (Charon’s obol)
+9|What is the name of the Babylonian god who defeated Tiamat?|Marduk
+9|What is the name of the Welsh collection of medieval tales?|The Mabinogion
+9|Who was the Norse god of poetry?|Bragi
+9|What is the name of the Aztec god of rain?|Tlaloc
+9|Who was the Greek king punished by standing in water he could never drink?|Tantalus
+9|What is the name of the Hindu god of fire?|Agni
+9|What is the name of the Egyptian dwarf god who protected households and childbirth?|Bes
+9|Which Greek king was condemned to roll a boulder up a hill forever?|Sisyphus
+9|What is the name of the Celtic sea god whose son is Manannán in Irish myth?|Lir
+9|Who is the Polynesian demigod who fished up islands and slowed the sun?|Māui
+10|What is the name of the Yoruba god of thunder?|Shango (Ṣàngó)
+10|Who is the Norse goddess of youth who keeps the apples of immortality?|Iðunn
+10|What is the name of the Sumerian god of wisdom and water?|Enki
+10|What is the Inca sun god called?|Inti
+10|Who was the Greek giant who could only be defeated if lifted off the earth, beaten by Heracles?|Antaeus
+10|What is the name of the Hindu cosmic serpent on which Vishnu rests?|Shesha (Ananta Shesha)
+10|What is the name of the Japanese fox spirits that can shapeshift?|Kitsune
+10|What is the name of the Egyptian primordial god of chaos, the serpent enemy of Ra?|Apep (Apophis)
+10|Who was the Finnish smith god who forged the Sampo in the “Kalevala”?|Ilmarinen
+10|What is the name of the Mesopotamian demon with a lion’s head who protected against evil, often invoked against Lamashtu?|Pazuzu

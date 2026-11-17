@@ -1,0 +1,100 @@
+1|What does a computer mouse control on the screen?|The pointer (cursor)
+1|Which company makes the Windows operating system?|Microsoft
+1|What do you call the main screen of a smartphone where your apps are?|The home screen
+1|What device do you use to type letters into a computer?|A keyboard
+1|What is the name of Google’s web browser?|Chrome
+1|What does “Wi-Fi” let your devices connect to without cables?|A wireless network (the internet)
+1|Which company makes the Galaxy line of phones?|Samsung
+1|What do you call a small picture you click to open a program?|An icon
+1|What is the name of Apple’s tablet computer?|The iPad
+1|What do you call a message sent electronically, often with an @ address?|An email
+2|What does “PC” stand for?|Personal computer
+2|Which company created the search engine with the most famous “I’m Feeling Lucky” button?|Google
+2|What is the name of Apple’s voice assistant?|Siri
+2|What is the word “app” short for?|Application
+2|What is the name of the online encyclopedia anyone can edit?|Wikipedia
+2|Which company makes the Xbox?|Microsoft
+2|What does “GB” stand for when talking about storage?|Gigabyte
+2|Which company was founded by Steve Jobs and Steve Wozniak?|Apple
+2|What do you call software that protects a computer from viruses?|Antivirus software
+2|What is the name of the video-sharing site owned by Google?|YouTube
+3|What does “URL” stand for?|Uniform Resource Locator
+3|Which company created the Android operating system that runs on many phones today?|Google
+3|What does “AI” stand for?|Artificial intelligence
+3|What is the small file a website stores in your browser to remember you called?|A cookie
+3|What does “PDF” stand for?|Portable Document Format
+3|Which social network did Mark Zuckerberg co-found in 2004?|Facebook
+3|What does the “Q” stand for in “QR code”?|Quick
+3|What is the name of Amazon’s e-reader?|The Kindle
+3|What is the term for a computer program that copies itself and spreads to other computers?|A virus (or worm)
+3|What does “LED” stand for?|Light-emitting diode
+4|Which company introduced the first iPod in 2001?|Apple
+4|What does “SIM” stand for in a SIM card?|Subscriber Identity Module
+4|What does “HTTP” stand for?|HyperText Transfer Protocol
+4|What does “RAM” stand for?|Random-access memory
+4|What does “Bluetooth” technology get its name from?|Harald Bluetooth, a Danish king
+4|What does “SSD” stand for?|Solid-state drive
+4|Who co-founded Google with Larry Page?|Sergey Brin
+4|What does “VPN” stand for?|Virtual private network
+4|What is the binary number system made of?|Zeros and ones
+4|What does “GIF” stand for?|Graphics Interchange Format
+5|What does “ASCII” stand for?|American Standard Code for Information Interchange
+5|Who founded Amazon in 1994?|Jeff Bezos
+5|What does “IP” stand for in “IP address”?|Internet Protocol
+5|What was the name of the first web browser, created by Tim Berners-Lee?|WorldWideWeb (later Nexus)
+5|What does “DSL” stand for in internet service?|Digital subscriber line
+5|What company created the first commercially successful graphical user interface computer for home use, the Macintosh, in 1984?|Apple
+5|What does “GPU” stand for?|Graphics processing unit
+5|What is the term for the practice of tricking people into giving up passwords through fake emails?|Phishing
+5|What does “DNS” stand for?|Domain Name System
+5|Which programming language was created by Guido van Rossum?|Python
+6|What does “JPEG” stand for?|Joint Photographic Experts Group
+6|Who is credited with inventing the telephone in 1876?|Alexander Graham Bell
+6|What does “IoT” stand for?|Internet of Things
+6|What does “CAPTCHA” aim to tell apart?|Computers and humans
+6|Which company created the first commercial microprocessor, the 4004, in 1971?|Intel
+6|What is the name of the open-source operating system kernel created by Linus Torvalds?|Linux
+6|What does “MP3” compress?|Audio
+6|An engineer from which company made the first handheld mobile phone call in 1973?|Motorola
+6|What does “BIOS” stand for?|Basic Input/Output System
+6|What does “NFC” stand for in contactless payments?|Near-field communication
+7|What was the name of IBM’s chess computer that beat Garry Kasparov in 1997?|Deep Blue
+7|Who invented the World Wide Web’s predecessor, the hypertext system ENQUIRE, at CERN in 1980?|Tim Berners-Lee
+7|Which company created the PostScript language and PDF format?|Adobe
+7|What was the name of the first computer mouse inventor, who demonstrated it in 1968?|Douglas Engelbart
+7|What does “RSS” commonly stand for?|Really Simple Syndication
+7|Which language is primarily used to add interactivity to web pages in the browser?|JavaScript
+7|Which Canadian company made the BlackBerry phone?|Research In Motion (RIM)
+7|What does “LAN” stand for?|Local area network
+7|What does “ISP” stand for?|Internet service provider
+7|What does “HDMI” stand for?|High-Definition Multimedia Interface
+8|At which company’s research lab was the Unix operating system created?|AT&T’s Bell Labs
+8|What is the name of the test proposed in 1950 to judge if a machine can exhibit human-like intelligence?|The Turing test
+8|Which research center developed the graphical interface that inspired the Macintosh?|Xerox PARC
+8|What does “SQL” stand for?|Structured Query Language
+8|Which company launched the ThinkPad laptop line in 1992?|IBM
+8|What is the name of the law stating that transistor counts double about every two years?|Moore’s Law
+8|What does “RAID” stand for in data storage?|Redundant Array of Independent Disks
+8|What was the name of the first programmable electronic computer, built in Britain in 1943–44 for codebreaking?|Colossus
+8|What does “CRT” stand for in old TVs?|Cathode-ray tube
+8|What does “OLED” stand for?|Organic light-emitting diode
+9|Who invented the transistor at Bell Labs in 1947 with Walter Brattain and William Shockley?|John Bardeen
+9|What was the name of the first website’s host computer at CERN?|A NeXT computer
+9|What does “UNIX time” count from?|January 1, 1970 (UTC)
+9|Who created the C programming language?|Dennis Ritchie
+9|What was the name of the first widely spread email worm in 2000 that used a love-letter subject line?|ILOVEYOU
+9|What was the name of IBM’s 1994 touchscreen phone, often called the first smartphone?|The Simon Personal Communicator
+9|What is the name of the computing pioneer who invented the COBOL language's predecessor FLOW-MATIC?|Grace Hopper
+9|What does “TCP” stand for?|Transmission Control Protocol
+9|What was the name of the first computer bug, a moth found in which computer in 1947?|The Harvard Mark II
+9|Who is known as the “father of the computer” for designing the Analytical Engine?|Charles Babbage
+10|What was the name of the first commercially sold computer in the United States, delivered in 1951?|UNIVAC I
+10|Who invented the first practical programmable loom using punched cards in 1804?|Joseph Marie Jacquard
+10|What is the name of the first computer virus to infect IBM PCs, created in 1986 in Pakistan?|Brain
+10|What was the name of the first domain name ever registered, in 1985?|Symbolics.com
+10|Who created the first spreadsheet program, VisiCalc, with Bob Frankston?|Dan Bricklin
+10|Who demonstrated the first fully electronic television system in San Francisco in 1927?|Philo Farnsworth
+10|What was the name of the operating system Apple bought from NeXT to build Mac OS X?|NeXTSTEP
+10|What was the name of the first high-level programming language, developed by IBM in 1957?|Fortran
+10|Who coined the term “artificial intelligence” for the 1956 Dartmouth workshop?|John McCarthy
+10|What 1988 worm slowed or crashed thousands of computers on the early internet?|The Morris worm

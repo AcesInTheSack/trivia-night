@@ -1,0 +1,100 @@
+1|In which sport do riders compete in the Tour de France?|Cycling
+1|How many bases are there on a baseball diamond, including home plate?|Four
+1|What sport is played in the Super Bowl?|American football
+1|In which sport do you score a “basket”?|Basketball
+1|What color card does a soccer referee show to send a player off?|Red
+1|In golf, what is the term for one stroke under par on a hole?|A birdie
+1|How many rings are on the Olympic flag?|Five
+1|What sport uses a puck?|Ice hockey
+1|In which sport would you hit a home run?|Baseball
+1|What is the term for scoring three goals in one game in soccer or hockey?|A hat trick
+2|How many players are on the court for one basketball team?|Five
+2|Which country hosts the Tour de France?|France
+2|In bowling, what is it called when you knock down all ten pins with your first ball?|A strike
+2|How many periods are in a regulation NHL hockey game?|Three
+2|Which sport is known as “the beautiful game”?|Soccer (football)
+2|In which sport do players use a “shuttlecock”?|Badminton
+2|What is the name of the trophy awarded to the NHL champion?|The Stanley Cup
+2|How many innings are in a regulation Major League Baseball game?|Nine
+2|In which city were the 2012 Summer Olympics held?|London
+2|What do you call the area where a golf hole is located, with very short grass?|The green
+3|How many players are on a baseball team’s defensive side of the field?|Nine
+3|In tennis, what is a score of zero called?|Love
+3|Which boxer was born Cassius Clay?|Muhammad Ali
+3|What is the name of the trophy awarded to the winner of the Super Bowl?|The Vince Lombardi Trophy
+3|In which sport is the Ryder Cup contested?|Golf
+3|How long is an Olympic swimming pool?|50 meters
+3|Which country invented the sport of judo?|Japan
+3|In American football, how many points is a field goal worth?|Three
+3|What is the national sport of Canada played in summer?|Lacrosse
+3|Which famous race is held each year at Churchill Downs?|The Kentucky Derby
+4|In which sport would you use the terms “love,” “deuce” and “advantage”?|Tennis
+4|Who is the only NBA player to score 100 points in a single game?|Wilt Chamberlain
+4|In which country did the sport of cricket originate?|England
+4|How many players are on the field for one team in rugby union?|15
+4|Which golfer is nicknamed “Tiger”?|Eldrick “Tiger” Woods
+4|Which country has hosted the Summer Olympics in Rio de Janeiro?|Brazil
+4|What is the maximum break in snooker, without free balls?|147
+4|In horse racing, which three races make up the U.S. Triple Crown?|The Kentucky Derby, the Preakness Stakes and the Belmont Stakes
+4|Which sport is played at Augusta National during the Masters?|Golf
+4|How many minutes long is a standard professional soccer match, not counting stoppage time?|90
+5|Which Swiss tennis player won eight Wimbledon men’s singles titles?|Roger Federer
+5|In which year did the U.S. men’s hockey team win the “Miracle on Ice” game?|1980
+5|In golf, what is a score of two under par on a single hole called?|An eagle
+5|Which NBA team did Michael Jordan win six championships with?|The Chicago Bulls
+5|What traditional sport is often called Japan’s national sport?|Sumo wrestling
+5|Which country won the 2010 FIFA World Cup?|Spain
+5|How many players are on a volleyball team on the court at once?|Six
+5|What is the diameter of a basketball hoop’s rim in inches?|18 inches
+5|Which sprinter holds the 100-meter world record of 9.58 seconds, set in 2009?|Usain Bolt
+5|In which sport are the terms “bogey” and “mulligan” used?|Golf
+6|Which NFL team won the first Super Bowl?|The Green Bay Packers
+6|Who was the first player to hit 70 home runs in a single MLB season?|Mark McGwire (1998)
+6|Which country won the first FIFA Women’s World Cup in 1991?|The United States
+6|In bowling, what is it called when you knock down all remaining pins with your second ball?|A spare
+6|Who was known as “The Great Bambino”?|Babe Ruth
+6|Which city hosted the 1996 Summer Olympics?|Atlanta
+6|What is the name of the trophy given to the best player in college football each year?|The Heisman Trophy
+6|In which sport is the Davis Cup contested?|Tennis
+6|What sport did Jackie Joyner-Kersee compete in?|Track and field (heptathlon and long jump)
+6|Which NFL quarterback was nicknamed “Broadway Joe”?|Joe Namath
+7|Which golfer won the original “Grand Slam” of the U.S. and British Open and Amateur titles in 1930?|Bobby Jones
+7|Which country won the first Cricket World Cup in 1975?|The West Indies
+7|In which city is Wrigley Field located?|Chicago
+7|Who was the first African American to win a Grand Slam tennis singles title?|Althea Gibson
+7|What is the name of the trophy awarded to the winner of the NBA Finals?|The Larry O’Brien Championship Trophy
+7|Which boxer was known as “Iron Mike”?|Mike Tyson
+7|What famous 1932 baseball moment is Babe Ruth said to have made at Wrigley Field?|The “called shot”
+7|Which city hosted the first Winter Olympics in 1924?|Chamonix, France
+7|How many points is a safety worth in American football?|Two
+7|What is the name of the stadium where the New York Yankees play?|Yankee Stadium
+8|Who was the first player in NHL history to score 50 goals in 50 games?|Maurice “Rocket” Richard
+8|Which country won the first ever Olympic gold medal in men’s ice hockey, in 1920?|Canada
+8|What is the name of the oldest of tennis’s four Grand Slam tournaments?|Wimbledon
+8|Who won the first modern Olympic marathon in 1896?|Spyridon Louis
+8|Which NFL team completed the only perfect season, including the Super Bowl, in 1972?|The Miami Dolphins
+8|Which jockey won a record five Kentucky Derbys, tied later by Bill Hartack?|Eddie Arcaro
+8|In which city did the first FIFA World Cup final take place in 1930?|Montevideo
+8|Who was the first woman to run the Boston Marathon as an officially registered entrant, in 1967?|Kathrine Switzer
+8|Which baseball player was nicknamed “The Iron Horse”?|Lou Gehrig
+8|Which country hosted the first Commonwealth Games, then called the British Empire Games, in 1930?|Canada
+9|Which American athlete won four gold medals at the 1936 Berlin Olympics?|Jesse Owens
+9|Which nation won the first America’s Cup sailing race, in 1851?|The United States (the schooner America)
+9|Which coach trained both Nadia Comăneci and Mary Lou Retton?|Béla Károlyi
+9|Which baseball pitcher threw seven no-hitters, the career record?|Nolan Ryan
+9|What is the term for a cricket score of 100 runs by one batter?|A century
+9|Which Australian won the men’s tennis calendar Grand Slam in both 1962 and 1969?|Rod Laver
+9|Which city hosted the 1980 Summer Olympics boycotted by the United States?|Moscow
+9|Who was the first NFL player to rush for 2,000 yards in a season?|O.J. Simpson (1973)
+9|In which sport is the Thomas Cup contested?|Badminton
+9|Who was the first person to run a mile in under four minutes?|Roger Bannister
+10|Which country won the first Olympic gold medal in women’s soccer, in 1996?|The United States
+10|Who was the first Black player in the NHL, debuting in 1958?|Willie O’Ree
+10|Which horse won the first Kentucky Derby in 1875?|Aristides
+10|Who was the first player to win the Heisman Trophy, in 1935?|Jay Berwanger
+10|In what year was basketball invented by James Naismith?|1891
+10|Which golfer has won the most major championships in men’s golf?|Jack Nicklaus (18)
+10|Who was the first man to win the Tour de France five times?|Jacques Anquetil
+10|Which city hosted the 1904 Summer Olympics, the first held in the United States?|St. Louis
+10|What is the name of the trophy awarded to the winner of the Stanley Cup playoffs’ most valuable player?|The Conn Smythe Trophy
+10|Which baseball player had a 56-game hitting streak in 1941?|Joe DiMaggio

@@ -1,0 +1,100 @@
+1|What do you mix to make the color green in paint?|Blue and yellow
+1|What do you call a painting of a person?|A portrait
+1|What is the thin board artists use to hold and mix paint?|A palette
+1|What famous tower in Paris was built for the 1889 World’s Fair?|The Eiffel Tower
+1|What do you mix to make orange paint?|Red and yellow
+1|What ancient wonder in Egypt is the oldest of the Seven Wonders?|The Great Pyramid of Giza
+1|What is a painting of fruit, flowers or objects arranged on a table called?|A still life
+1|What three-legged stand holds a painting while the artist works?|An easel
+1|What is the nickname of the great bell in the clock tower at London’s Palace of Westminster?|Big Ben
+1|What do you call art made by gluing paper and other materials onto a surface?|A collage
+2|Which artist painted “The Starry Night”?|Vincent van Gogh
+2|What is the famous statue of a man by Michelangelo in Florence called?|David
+2|What is the name of the curved steel monument in St. Louis?|The Gateway Arch
+2|Which Australian opera house is famous for its sail-shaped roofs?|The Sydney Opera House
+2|What material is the Statue of Liberty’s outer skin made of?|Copper
+2|In which city is the Colosseum?|Rome
+2|What is the name of the leaning bell tower in Italy?|The Leaning Tower of Pisa
+2|Which artist is known for melting clocks in “The Persistence of Memory”?|Salvador Dalí
+2|Which famous bridge in San Francisco is painted “International Orange”?|The Golden Gate Bridge
+2|In which country would you find the Sagrada Família?|Spain
+3|Who painted “The Last Supper”?|Leonardo da Vinci
+3|Which Dutch artist painted “The Night Watch”?|Rembrandt
+3|What is the name of the Spanish architect behind the Sagrada Família?|Antoni Gaudí
+3|Which American artist painted “Nighthawks”?|Edward Hopper
+3|What is the name of the large white temple on the Acropolis in Athens?|The Parthenon
+3|What art movement was Claude Monet a founder of?|Impressionism
+3|Which American painter is famous for drip paintings?|Jackson Pollock
+3|What is the name of the famous painting of a farmer and his daughter holding a pitchfork?|American Gothic
+3|Which ancient monument in England is a ring of standing stones?|Stonehenge
+3|What is the name of the world’s tallest building, in Dubai, completed in 2010?|The Burj Khalifa
+4|Who painted “Water Lilies”?|Claude Monet
+4|Who sculpted “The Thinker”?|Auguste Rodin
+4|Which artist painted “Guernica”?|Pablo Picasso
+4|Which Mexican artist is known for her self-portraits and unibrow?|Frida Kahlo
+4|Which American artist painted cartoon-style works like “Whaam!”?|Roy Lichtenstein
+4|In which city is the Empire State Building?|New York City
+4|What style of architecture features pointed arches and flying buttresses?|Gothic
+4|Which artist painted “The Kiss” (1907–08), with lots of gold leaf?|Gustav Klimt
+4|What is the name of the famous ancient Greek statue of a goddess, missing her arms, in the Louvre?|Venus de Milo
+4|Which American painter is known for her flower paintings and New Mexico landscapes?|Georgia O’Keeffe
+5|Which Renaissance artist painted “The School of Athens”?|Raphael
+5|Which French painter is famous for paintings of ballet dancers?|Edgar Degas
+5|What do you call a painting done on wet plaster?|A fresco
+5|Who designed the glass pyramid at the Louvre?|I.M. Pei
+5|Which artist painted “A Sunday Afternoon on the Island of La Grande Jatte”?|Georges Seurat
+5|Which British street artist keeps his identity secret?|Banksy
+5|What ancient Roman building in Rome has a huge concrete dome with an open oculus?|The Pantheon
+5|Which artist painted “The Son of Man,” a man with an apple in front of his face?|René Magritte
+5|Which Japanese woodblock print shows a giant wave with Mount Fuji in the background?|The Great Wave off Kanagawa
+5|What is the name of the Paris cathedral damaged by fire in 2019?|Notre-Dame de Paris
+6|Which artist cut paper shapes in his late works, such as “The Snail”?|Henri Matisse
+6|Which Spanish painter created “The Third of May 1808”?|Francisco Goya
+6|What is the name of the architectural style of the Chrysler Building?|Art Deco
+6|Who designed the Fallingwater house in Pennsylvania?|Frank Lloyd Wright
+6|Which artist is known for his giant balloon dog sculptures?|Jeff Koons
+6|What is the term for a painting technique that creates the illusion of depth using light and shadow contrast?|Chiaroscuro
+6|Which American photographer is famous for black-and-white images of Yosemite?|Ansel Adams
+6|What monument stands at the center of Place Charles de Gaulle in Paris?|The Arc de Triomphe
+6|Which Dutch painter created the abstract grid paintings with primary colors?|Piet Mondrian
+6|Which French artist painted “Luncheon of the Boating Party”?|Pierre-Auguste Renoir
+7|Which architect designed the Seagram Building and said “less is more”?|Ludwig Mies van der Rohe
+7|Which sculptor designed and began carving Mount Rushmore?|Gutzon Borglum
+7|Who painted “The Arnolfini Portrait”?|Jan van Eyck
+7|Which Russian artist painted “Black Square”?|Kazimir Malevich
+7|Who designed the Louvre Abu Dhabi and the Arab World Institute in Paris?|Jean Nouvel
+7|Which Italian Baroque artist was known for dramatic lighting and violent life?|Caravaggio
+7|Which British artist preserved a shark in formaldehyde?|Damien Hirst
+7|What is the name of the art movement that included Marcel Duchamp’s “Fountain”?|Dada
+7|Which architect designed the Villa Savoye?|Le Corbusier
+7|Who painted “Liberty Leading the People”?|Eugène Delacroix
+8|Which architect designed St. Paul’s Cathedral in London after the Great Fire of 1666?|Sir Christopher Wren
+8|Who painted “The Hay Wain”?|John Constable
+8|Which Italian sculptor created “The Ecstasy of Saint Teresa”?|Gian Lorenzo Bernini
+8|Which painter is known for “Whistler’s Mother”?|James McNeill Whistler
+8|Which German artist made the famous woodcut “Rhinoceros” in 1515?|Albrecht Dürer
+8|Which Iraqi-British architect designed the Heydar Aliyev Center in Baku?|Zaha Hadid
+8|Which French painter is known for Tahitian scenes?|Paul Gauguin
+8|Which Russian painter is considered a pioneer of abstract art and wrote “Concerning the Spiritual in Art”?|Wassily Kandinsky
+8|What is the name of the Renaissance architect who engineered the dome of Florence Cathedral?|Filippo Brunelleschi
+8|Who painted “The Raft of the Medusa”?|Théodore Géricault
+9|Which architect designed the Hagia Sophia’s Ottoman rival, the Süleymaniye Mosque?|Mimar Sinan
+9|Who painted “Wanderer above the Sea of Fog”?|Caspar David Friedrich
+9|Which painter created “Christina’s World”?|Andrew Wyeth
+9|Which Swiss sculptor is known for tall, thin bronze figures like “Walking Man I”?|Alberto Giacometti
+9|Who painted “The Ambassadors” (1533), with a distorted skull?|Hans Holbein the Younger
+9|Which Venetian painter was known as “Il Divino” and painted “Assumption of the Virgin”?|Titian
+9|What is the name of the Byzantine-style church in Venice with golden mosaics?|St Mark’s Basilica
+9|Who painted “The Death of Marat”?|Jacques-Louis David
+9|Which Japanese artist is known for polka-dot “Infinity Rooms”?|Yayoi Kusama
+9|Who designed the Pompidou Centre in Paris with Richard Rogers?|Renzo Piano
+10|Who painted “The Tower of Babel” (1563)?|Pieter Bruegel the Elder
+10|Which Renaissance architect wrote “De re aedificatoria”?|Leon Battista Alberti
+10|Which Dutch architect designed the CCTV Headquarters in Beijing?|Rem Koolhaas
+10|Which Mughal emperor commissioned the Taj Mahal?|Shah Jahan
+10|Which German architect founded the Bauhaus in 1919?|Walter Gropius
+10|Who painted “Olympia” (1863), which shocked the Paris Salon?|Édouard Manet
+10|Which Spanish architect designed the City of Arts and Sciences in Valencia?|Santiago Calatrava
+10|Who painted “The Isle of the Dead”?|Arnold Böcklin
+10|What is the rock-cut building at Petra known as “the Treasury” called in Arabic?|Al-Khazneh
+10|Which Finnish architect designed the Paimio Sanatorium?|Alvar Aalto

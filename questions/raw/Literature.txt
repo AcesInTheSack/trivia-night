@@ -1,0 +1,100 @@
+1|Who wrote “The Cat in the Hat”?|Dr. Seuss
+1|In the fairy tale, what does Cinderella lose at the ball?|A glass slipper
+1|Which boy never grows up in J.M. Barrie’s story?|Peter Pan
+1|What is the name of the girl who falls down a rabbit hole into Wonderland?|Alice
+1|Which bear loves honey and lives in the Hundred Acre Wood?|Winnie-the-Pooh
+1|Who wrote “Charlie and the Chocolate Factory”?|Roald Dahl
+1|In “The Three Little Pigs,” what is the strongest house made of?|Bricks
+1|What kind of animal is Charlotte in “Charlotte’s Web”?|A spider
+1|Who wrote the play “Hamlet”?|William Shakespeare
+1|Which wooden puppet’s nose grows when he lies?|Pinocchio
+2|Who wrote “The Adventures of Tom Sawyer”?|Mark Twain
+2|In “Little Red Riding Hood,” who is disguised as Grandma?|The Big Bad Wolf
+2|Who wrote “Little Women”?|Louisa May Alcott
+2|What is the name of Sherlock Holmes’s friend and assistant?|Dr. John Watson
+2|Who wrote “The Very Hungry Caterpillar”?|Eric Carle
+2|In “The Lion, the Witch and the Wardrobe,” what is the name of the lion?|Aslan
+2|Who wrote the “Goosebumps” books?|R.L. Stine
+2|In the fairy tale, what does Rapunzel let down from her tower?|Her hair
+2|Who wrote “The Hunger Games” trilogy?|Suzanne Collins
+2|Who wrote “Where the Wild Things Are”?|Maurice Sendak
+3|Who wrote “Of Mice and Men”?|John Steinbeck
+3|Who wrote “The Catcher in the Rye”?|J.D. Salinger
+3|What is the name of the narrator of “Moby-Dick”?|Ishmael
+3|Who wrote “Jane Eyre”?|Charlotte Brontë
+3|Who wrote “Wuthering Heights”?|Emily Brontë
+3|Which author created Hercule Poirot?|Agatha Christie
+3|Who wrote “The Odyssey”?|Homer
+3|What is the nickname of the girl who narrates “To Kill a Mockingbird”?|Scout
+3|Who wrote “A Christmas Carol”?|Charles Dickens
+3|What is the name of the miser visited by three ghosts in “A Christmas Carol”?|Ebenezer Scrooge
+4|Who wrote “Brave New World”?|Aldous Huxley
+4|Who wrote “The Old Man and the Sea”?|Ernest Hemingway
+4|Who wrote “Fahrenheit 451”?|Ray Bradbury
+4|Which Shakespeare play features the line “To be, or not to be”?|Hamlet
+4|Who wrote “Dracula”?|Bram Stoker
+4|Who wrote “The Handmaid’s Tale”?|Margaret Atwood
+4|Who wrote “Gone with the Wind”?|Margaret Mitchell
+4|In Tolkien’s books, which creature calls the Ring “my precious”?|Gollum
+4|Who wrote “Animal Farm”?|George Orwell
+4|Who wrote “The Lord of the Rings”?|J.R.R. Tolkien
+5|Who wrote “Les Misérables”?|Victor Hugo
+5|Who wrote “War and Peace”?|Leo Tolstoy
+5|Who wrote “The Scarlet Letter”?|Nathaniel Hawthorne
+5|What letter is Hester Prynne forced to wear in “The Scarlet Letter”?|A
+5|Who wrote “Great Expectations”?|Charles Dickens
+5|Who wrote the poem “The Road Not Taken”?|Robert Frost
+5|Who wrote “Beloved”?|Toni Morrison
+5|Who wrote “The Count of Monte Cristo”?|Alexandre Dumas
+5|Who wrote “Slaughterhouse-Five”?|Kurt Vonnegut
+5|Which Shakespeare play is about a Scottish general who murders the king?|Macbeth
+6|Who wrote “Anna Karenina”?|Leo Tolstoy
+6|Who wrote “The Canterbury Tales”?|Geoffrey Chaucer
+6|Who wrote “Madame Bovary”?|Gustave Flaubert
+6|Who wrote “Catch-22”?|Joseph Heller
+6|Who wrote “Lolita”?|Vladimir Nabokov
+6|Who wrote the epic poem “Paradise Lost”?|John Milton
+6|Who wrote “On the Road”?|Jack Kerouac
+6|Who wrote “The Sun Also Rises”?|Ernest Hemingway
+6|Who wrote “Invisible Man” (1952)?|Ralph Ellison
+6|Who wrote the poem “Leaves of Grass”?|Walt Whitman
+7|Who wrote “Ulysses” (1922)?|James Joyce
+7|Who wrote “Mrs Dalloway”?|Virginia Woolf
+7|Who wrote “The Metamorphosis,” in which Gregor Samsa turns into an insect?|Franz Kafka
+7|Who wrote “The Brothers Karamazov”?|Fyodor Dostoevsky
+7|Who wrote “Heart of Darkness”?|Joseph Conrad
+7|Who wrote “The Divine Comedy”?|Dante Alighieri
+7|Who wrote “Their Eyes Were Watching God”?|Zora Neale Hurston
+7|Who wrote “Don Quixote”?|Miguel de Cervantes
+7|Who wrote the play “Death of a Salesman”?|Arthur Miller
+7|Who wrote “The Stranger” (“L’Étranger”)?|Albert Camus
+8|Who wrote “The Sound and the Fury”?|William Faulkner
+8|Who wrote “The Remains of the Day”?|Kazuo Ishiguro
+8|Who wrote “In Search of Lost Time”?|Marcel Proust
+8|Who wrote the poem “Howl” (1956)?|Allen Ginsberg
+8|Who wrote the play “Waiting for Godot”?|Samuel Beckett
+8|Who wrote “The Master and Margarita”?|Mikhail Bulgakov
+8|Who wrote the poem “The Waste Land”?|T.S. Eliot
+8|Who wrote “Love in the Time of Cholera”?|Gabriel García Márquez
+8|Who wrote “The Age of Innocence,” winning the Pulitzer Prize in 1921?|Edith Wharton
+8|Who wrote the play “A Streetcar Named Desire”?|Tennessee Williams
+9|Who wrote “The Book of Disquiet,” published after his death?|Fernando Pessoa
+9|Who wrote “Gargantua and Pantagruel”?|François Rabelais
+9|Who wrote the epic poem “The Faerie Queene”?|Edmund Spenser
+9|Who wrote “The Magic Mountain”?|Thomas Mann
+9|Who wrote “Pedro Páramo”?|Juan Rulfo
+9|Who wrote “Tristram Shandy”?|Laurence Sterne
+9|Who wrote “The Leopard” (“Il Gattopardo”)?|Giuseppe Tomasi di Lampedusa
+9|Who wrote the play “Peer Gynt”?|Henrik Ibsen
+9|Who wrote “The Tin Drum”?|Günter Grass
+9|Who wrote “Doctor Zhivago”?|Boris Pasternak
+10|Who wrote “The Pillow Book” in Heian-era Japan?|Sei Shōnagon
+10|Who wrote “Ficciones”?|Jorge Luis Borges
+10|Which Old English epic poem features the monster Grendel?|Beowulf
+10|Who wrote “The Man Without Qualities”?|Robert Musil
+10|Who wrote “Journey to the West,” traditionally attributed to a Ming-dynasty author?|Wu Cheng’en
+10|Who wrote “The Book of the City of Ladies” (1405)?|Christine de Pizan
+10|Who wrote the epic “Os Lusíadas” about Portuguese voyages?|Luís de Camões
+10|Who wrote “Hunger” (1890), a novel about a starving writer in Kristiania?|Knut Hamsun
+10|Who wrote “The Decameron”?|Giovanni Boccaccio
+10|Who wrote the play “The Cherry Orchard”?|Anton Chekhov

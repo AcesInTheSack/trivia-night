@@ -1,0 +1,100 @@
+1|What song is traditionally sung to someone on their birthday?|“Happy Birthday to You”
+1|What instrument does a drummer play?|Drums
+1|Which singer is known for the song “Shake It Off”?|Taylor Swift
+1|What do you call a group of four singers or musicians?|A quartet
+1|Which instrument has a bow and four strings and is tucked under the chin?|The violin
+1|What do you call the person who leads an orchestra?|The conductor
+1|What genre of music is Johnny Cash best known for?|Country
+1|Which brass instrument has a slide?|The trombone
+1|Which band sang “Yellow Submarine”?|The Beatles
+1|What do you call a soft song sung to help a baby fall asleep?|A lullaby
+2|Who sang “Purple Rain”?|Prince
+2|Which boy band sang “I Want It That Way”?|Backstreet Boys
+2|Which band released “Bohemian Rhapsody”?|Queen
+2|Who sang “Rolling in the Deep”?|Adele
+2|What is the highest female singing voice?|Soprano
+2|Which instrument did Louis Armstrong famously play?|The trumpet
+2|Which group sang “Dancing Queen”?|ABBA
+2|Who sang “Like a Rolling Stone”?|Bob Dylan
+2|Which rock band was fronted by Mick Jagger?|The Rolling Stones
+2|Which country singer had a hit with “Jolene”?|Dolly Parton
+3|Which band recorded the album “The Dark Side of the Moon”?|Pink Floyd
+3|Who is known as the “Queen of Soul”?|Aretha Franklin
+3|Which grunge band was fronted by Kurt Cobain?|Nirvana
+3|What is the lowest-pitched member of the standard string section of an orchestra?|The double bass
+3|Which band sang “Sweet Child O’ Mine”?|Guns N’ Roses
+3|Which band sang “Hotel California”?|Eagles
+3|Who sang “Billie Jean”?|Michael Jackson
+3|Which Irish band is fronted by Bono?|U2
+3|What do you call the speed of a piece of music?|Tempo
+3|Which rapper released the album “The Marshall Mathers LP”?|Eminem
+4|Who composed “The Nutcracker” ballet?|Pyotr Ilyich Tchaikovsky
+4|Which band released the album “Rumours” in 1977?|Fleetwood Mac
+4|What is the name of the five horizontal lines on which music is written?|The staff (stave)
+4|Who sang “What’s Going On” in 1971?|Marvin Gaye
+4|Which singer was known as “The Boss”?|Bruce Springsteen
+4|Which instrument is Yo-Yo Ma famous for playing?|The cello
+4|Which composer wrote “The Magic Flute” and “Don Giovanni”?|Wolfgang Amadeus Mozart
+4|Which band’s members included Jimmy Page and Robert Plant?|Led Zeppelin
+4|What is the term for a song sung by one person in an opera?|An aria
+4|Which reggae artist sang “No Woman, No Cry”?|Bob Marley
+5|What was the name of Elvis Presley’s first No. 1 hit on the Billboard pop chart, in 1956?|“Heartbreak Hotel”
+5|Who composed the “Brandenburg Concertos”?|Johann Sebastian Bach
+5|Which band sang “Don’t Stop Believin’”?|Journey
+5|What does “forte” mean in music?|Loud
+5|Which singer was known as the “Godfather of Soul”?|James Brown
+5|Which Seattle guitarist played “Purple Haze”?|Jimi Hendrix
+5|Which British band released “Wonderwall”?|Oasis
+5|Who composed “Rhapsody in Blue”?|George Gershwin
+5|How many lines does a standard musical staff have?|Five
+5|Which Motown group was led by Diana Ross?|The Supremes
+6|Which opera by Bizet features the “Habanera”?|Carmen
+6|What was the real name of Elton John?|Reginald Dwight
+6|Which composer became completely deaf but kept composing?|Ludwig van Beethoven
+6|Which Swedish DJ produced the hit “Levels”?|Avicii
+6|What is the musical term for playing short, detached notes?|Staccato
+6|Which jazz pianist composed “Round Midnight”?|Thelonious Monk
+6|What musical instrument family includes the oboe and bassoon?|Woodwinds
+6|Which singer released the album “Back to Black”?|Amy Winehouse
+6|Which composer wrote the “Hungarian Rhapsodies” for piano?|Franz Liszt
+6|Which hip-hop group released “Straight Outta Compton”?|N.W.A
+7|Which Italian composer wrote the operas “La Traviata” and “Aida”?|Giuseppe Verdi
+7|Which jazz musician recorded the album “Kind of Blue”?|Miles Davis
+7|What is the name for a piece of music written for a solo instrument, often in several movements?|A sonata
+7|Which country singer was known as “The Man in Black”?|Johnny Cash
+7|Which composer wrote the “New World Symphony”?|Antonín Dvořák
+7|Who wrote the opera “Madama Butterfly”?|Giacomo Puccini
+7|Which singer was born Robyn Fenty?|Rihanna
+7|Which Beatles album features the song “Here Comes the Sun”?|Abbey Road
+7|Which Canadian singer-songwriter released the album “Blue” in 1971?|Joni Mitchell
+7|Which band’s debut album was titled “Pablo Honey”?|Radiohead
+8|Who composed “The Planets” suite?|Gustav Holst
+8|Which jazz saxophonist was nicknamed “Bird”?|Charlie Parker
+8|What is the Italian term for gradually slowing down the tempo?|Ritardando (or rallentando)
+8|Which singer was known as “The First Lady of Song”?|Ella Fitzgerald
+8|Which composer wrote the “Ring” cycle of operas?|Richard Wagner
+8|What was the name of Buddy Holly’s backing band?|The Crickets
+8|Which Austrian composer wrote “The Blue Danube” waltz?|Johann Strauss II
+8|Which blues musician was known as the “King of the Blues”?|B.B. King
+8|Which Beatle wrote and sang “Something”?|George Harrison
+8|Which French composer wrote “Clair de Lune”?|Claude Debussy
+9|Which composer wrote “Pictures at an Exhibition”?|Modest Mussorgsky
+9|What was the name of Bob Marley’s backing band?|The Wailers
+9|Which composer wrote the opera “Peter Grimes”?|Benjamin Britten
+9|What is the term for a composition for nine instruments?|A nonet
+9|Which jazz singer was nicknamed “Lady Day”?|Billie Holiday
+9|Which Russian composer wrote “Scheherazade”?|Nikolai Rimsky-Korsakov
+9|Who wrote the opera “The Barber of Seville”?|Gioachino Rossini
+9|What was the name of the 1970s German electronic band that recorded “Autobahn”?|Kraftwerk
+9|Which composer wrote “Boléro”?|Maurice Ravel
+9|Which Baroque composer wrote the oratorio “Messiah”?|George Frideric Handel
+10|What was the name of the Delta blues musician said to have sold his soul at a crossroads?|Robert Johnson
+10|Which composer wrote “Gymnopédies”?|Erik Satie
+10|What is the name of the medieval system of musical scales that includes Dorian and Phrygian?|The church modes
+10|Who composed the “Symphonie fantastique”?|Hector Berlioz
+10|Which composer wrote the opera “Wozzeck”?|Alban Berg
+10|What was the original name of the Beatles before they settled on that name?|The Quarrymen
+10|Which composer wrote the “Trout” Quintet?|Franz Schubert
+10|What is the name of the Indonesian percussion ensemble that influenced Debussy?|Gamelan
+10|Who composed “Carmina Burana”?|Carl Orff
+10|Which twelve-tone composer wrote “Pierrot lunaire”?|Arnold Schoenberg

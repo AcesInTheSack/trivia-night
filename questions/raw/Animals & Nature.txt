@@ -1,0 +1,100 @@
+1|What animal is known as the “king of the jungle”?|The lion
+1|What do caterpillars turn into?|Butterflies or moths
+1|What is a baby dog called?|A puppy
+1|Which animal has a long trunk?|The elephant
+1|What do pandas mainly eat?|Bamboo
+1|What is the tallest animal in the world?|The giraffe
+1|What is a baby cat called?|A kitten
+1|Which bird is a symbol of peace?|The dove
+1|What animal is known for changing its skin color to blend in?|The chameleon
+1|How many legs does an insect have?|Six
+2|What is the largest bird in the world?|The ostrich
+2|What is a baby horse called?|A foal
+2|Which mammal lays eggs and has a duck-like bill?|The platypus
+2|What is a group of fish called?|A school
+2|Which animal is the largest member of the cat family?|The tiger
+2|What do you call a scientist who studies animals?|A zoologist
+2|What is the only bird that can fly backward?|The hummingbird
+2|What is a female deer called?|A doe
+2|Which animal is famous for building dams?|The beaver
+2|What are baby frogs called?|Tadpoles
+3|What is the fastest bird in a dive?|The peregrine falcon
+3|What is the largest ocean animal with teeth?|The sperm whale
+3|What is a group of wolves called?|A pack
+3|Which tree produces acorns?|The oak
+3|What is the largest land animal?|The African elephant
+3|What do you call an animal that is active at night?|Nocturnal
+3|Which bird is known for its colorful tail that it fans out?|The peacock
+3|What is the slowest-moving mammal, which spends most of its life hanging in trees?|The sloth
+3|What is the name of the gas plants release during photosynthesis?|Oxygen
+3|Which animal is known for its black and white stripes and lives in Africa?|The zebra
+4|What is a group of geese on the ground called?|A gaggle
+4|Which animal sleeps standing up and is related to the donkey?|The horse
+4|What do you call animals that eat both plants and meat?|Omnivores
+4|What is the largest species of bear?|The polar bear
+4|Which flower is famously associated with the Netherlands?|The tulip
+4|Which sea creature has eight arms?|The octopus
+4|What is a baby swan called?|A cygnet
+4|What is the largest rainforest in the world?|The Amazon rainforest
+4|Which marsupial carries its baby in a pouch and lives in Australia, eating eucalyptus?|The koala
+4|What is the only continent where giraffes live in the wild?|Africa
+5|What is a male bee called?|A drone
+5|What type of animal is a Komodo dragon?|A lizard
+5|What is the fastest fish in the ocean?|The sailfish
+5|What is a group of owls called?|A parliament
+5|What is a baby goat called?|A kid
+5|Which tree is often called a “living fossil” because it has barely changed in 200 million years?|The ginkgo
+5|What is a female fox called?|A vixen
+5|Which animal is nicknamed the “ship of the desert”?|The camel
+5|What is a group of jellyfish called?|A smack (or bloom)
+5|What do you call the study of birds?|Ornithology
+6|What venomous lizard is native to the American Southwest?|The Gila monster
+6|What is the name of the process by which caterpillars change into butterflies?|Metamorphosis
+6|Which animal has the largest eyes of any animal?|The colossal squid
+6|What is the most venomous snake in the world by venom strength?|The inland taipan
+6|What is the name of the long-necked dinosaur group that included Brachiosaurus?|Sauropods
+6|What is the term for animals that live both on land and in water, such as frogs?|Amphibians
+6|What is the name of the tree that produces maple syrup?|The sugar maple
+6|What is the largest primate?|The gorilla
+6|Which bird is famous for mimicking human speech?|The parrot
+6|What is a group of ravens called?|An unkindness
+7|What is the national animal of Scotland?|The unicorn
+7|Which animal’s fingerprints are so similar to humans’ that they can confuse crime scene investigators?|The koala
+7|What is the name for a scientist who studies insects?|An entomologist
+7|What is the world’s smallest bird?|The bee hummingbird
+7|What is a group of flamingos called?|A flamboyance
+7|What giant organism in Oregon’s Blue Mountains is one of the largest living things on Earth by area?|A honey fungus (Armillaria ostoyae)
+7|What color is a giraffe’s tongue?|Dark blue to purple-black
+7|Which butterfly migrates thousands of miles between Canada and Mexico each year?|The monarch butterfly
+7|What is the largest living species of penguin?|The emperor penguin
+7|Which bird has the largest wingspan among land birds?|The Andean condor
+8|What is the name for an animal that eats only fruit?|A frugivore
+8|What is a group of rhinoceroses called?|A crash
+8|Which animal produces the loudest sound of any animal?|The sperm whale
+8|What is the name of the largest species of lizard?|The Komodo dragon
+8|What is the name for the hard outer covering of an insect?|The exoskeleton
+8|What is the world’s heaviest snake?|The green anaconda
+8|What is the only venomous primate?|The slow loris
+8|What tree species has the largest trunk volume in the world?|The giant sequoia
+8|Which big cat has claws that only partly retract, helping it grip while sprinting?|The cheetah
+8|What do you call a plant that completes its whole life cycle in one year?|An annual
+9|What is a baby echidna called?|A puggle
+9|What is the name of the fungus network that connects trees underground?|Mycorrhizal network (“wood wide web”)
+9|What is the largest living species of turtle?|The leatherback sea turtle
+9|What is the name of the tiny shrimp-like animals that blue whales eat?|Krill
+9|What is the name of the bird that builds decorated “bowers” to attract mates?|The bowerbird
+9|What is the largest species of deer?|The moose
+9|Which mammal has the densest fur of any animal?|The sea otter
+9|What is a group of ferrets called?|A business
+9|Which carnivorous plant that snaps shut on insects is native only to the Carolinas?|The Venus flytrap
+9|What is the name for a scientist who studies fungi?|A mycologist
+10|Which New Guinea bird was the first known to carry poison in its skin and feathers?|The hooded pitohui
+10|What is the name of the jellyfish species considered biologically immortal?|Turritopsis dohrnii
+10|What is a group of porcupines called?|A prickle
+10|Which animal has the longest known lifespan among vertebrates?|The Greenland shark
+10|What is the name of the world’s oldest known clonal tree colony, an aspen grove in Utah?|Pando
+10|What is the term for animals that hibernate in summer to escape heat?|Estivation (aestivation)
+10|What is the name of the large flightless parrot of New Zealand?|The kākāpō
+10|What is the name of the plant with the largest seed in the world?|The coco de mer
+10|What is the name of the deep-sea fish whose male fuses permanently to the female?|The anglerfish
+10|What is the world’s largest species of frog?|The goliath frog

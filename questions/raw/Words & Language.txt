@@ -1,0 +1,100 @@
+1|What is the opposite of “up”?|Down
+1|What is the plural of “child”?|Children
+1|How many vowels are in the English alphabet, not counting Y?|Five
+1|What letter comes after “Q” in the alphabet?|R
+1|What do you call a word that names a person, place or thing?|A noun
+1|What is the plural of “tooth”?|Teeth
+1|What punctuation mark is used at the end of an exclamation?|An exclamation point
+1|What is the past tense of “run”?|Ran
+1|What word means the opposite of “happy”?|Sad
+1|What is the first letter of the Greek alphabet?|Alpha
+2|What do you call a word with the opposite meaning of another word?|An antonym
+2|What is the plural of “goose”?|Geese
+2|What language is spoken in Brazil?|Portuguese
+2|What punctuation mark is used to show possession, as in “Sam’s”?|An apostrophe
+2|What do you call a word that describes a noun, like “blue” or “tall”?|An adjective
+2|Which language is the official language of Argentina?|Spanish
+2|What is the last letter of the Greek alphabet?|Omega
+2|What does “bonjour” mean in English?|Hello (good day)
+2|What is the past tense of “eat”?|Ate
+2|What do you call words that sound the same but have different meanings, like “pair” and “pear”?|Homophones
+3|What does the Latin abbreviation “e.g.” stand for?|Exempli gratia (“for example”)
+3|In which country is Flemish, a form of Dutch, mainly spoken?|Belgium
+3|What does “adiós” mean in English?|Goodbye
+3|What do you call a word that describes a verb, like “quickly”?|An adverb
+3|What is the plural of “cactus,” according to Latin?|Cacti
+3|What is the official language of Austria?|German
+3|What does “RSVP” stand for?|Répondez s’il vous plaît (“please reply”)
+3|What do you call a comparison using “like” or “as”?|A simile
+3|What is the term for a group of letters added to the beginning of a word, like “un-”?|A prefix
+3|What does “gracias” mean in English?|Thank you
+4|What does “i.e.” stand for?|Id est (“that is”)
+4|What is the term for a comparison that says one thing is another, like “time is a thief”?|A metaphor
+4|What does “déjà vu” literally mean in French?|“Already seen”
+4|What language has the word “Gesundheit,” said after a sneeze?|German
+4|What is the term for repeating the same consonant sound at the start of nearby words, like “Peter Piper picked”?|Alliteration
+4|What does “faux pas” literally mean?|“False step”
+4|What is the official language of Egypt?|Arabic
+4|What do you call a word formed by shortening a longer word, like “phone” from “telephone”?|A clipping
+4|What does “ad nauseam” mean?|To a sickening degree (endlessly)
+4|What is the term for a word that imitates the sound it describes, like “buzz”?|Onomatopoeia
+5|What does the Latin phrase “et cetera” mean?|“And the rest”
+5|What does “bon appétit” mean?|“Enjoy your meal”
+5|What language is Esperanto?|A constructed international language
+5|What is the term for a deliberately exaggerated statement, like “I’ve told you a million times”?|Hyperbole
+5|What does “quid pro quo” mean?|Something for something
+5|What does the word “schadenfreude” mean?|Pleasure at someone else’s misfortune
+5|What is the name for the alphabet used to write Russian?|Cyrillic
+5|What is the term for a phrase that contradicts itself, like “jumbo shrimp”?|An oxymoron
+5|What do you call a person who studies language scientifically?|A linguist
+5|What is the official language of Iran?|Persian (Farsi)
+6|What does the Latin phrase “caveat emptor” mean?|“Let the buyer beware”
+6|What is the term for a word or phrase that has fallen out of use?|An archaism
+6|What does “bona fide” mean?|Genuine (“in good faith”)
+6|What language does the word “safari” come from?|Swahili
+6|What is the name of the writing system used for Korean?|Hangul
+6|What does “per se” mean?|In itself
+6|What is the term for a new word or expression that has recently entered a language?|A neologism
+6|From which language does English get the word “shampoo”?|Hindi
+6|What is the term for the study of word origins?|Etymology
+6|What does “mea culpa” mean?|“My fault”
+7|What does the word “petrichor” describe?|The smell of earth after rain
+7|What is the name for a word spelled the same as another but pronounced differently, like “lead” (metal) and “lead” (guide)?|A heteronym
+7|What language has the most native speakers in India?|Hindi
+7|What is the name of the punctuation mark ‽ that combines a question mark and an exclamation point?|The interrobang
+7|What does “sotto voce” mean?|In a quiet voice
+7|What is the term for a mild word used in place of a harsh one, like “passed away”?|A euphemism
+7|What does “zeitgeist” mean?|The spirit of the times
+7|Which language does the word “tycoon” come from?|Japanese
+7|What is the name of the Japanese syllabary used mainly for foreign words?|Katakana
+7|What does “non sequitur” mean in Latin?|“It does not follow”
+8|What is the term for the dot-like accent over letters such as ü in German?|An umlaut
+8|What word describes a person who loves books?|A bibliophile
+8|What is the term for a word made from the initials of other words, pronounced letter by letter, like “FBI”?|An initialism
+8|Which language does the word “robot” come from?|Czech
+8|What is the term for the ¶ symbol marking a paragraph?|A pilcrow
+8|What is the name for the fear of the number 13?|Triskaidekaphobia
+8|What does “ennui” mean?|Boredom or listlessness
+8|What is the term for the wavy symbol ~ placed over letters like ñ?|A tilde
+8|What does “agitprop” combine?|Agitation and propaganda
+8|What is the term for a word that reads as another word backward, like “stressed” and “desserts”?|A semordnilap
+9|What is the name of the mark ´ placed over a vowel, as in “café”?|An acute accent
+9|What is the name for the ancient Germanic alphabet used before Latin letters in Scandinavia?|Runes (the runic alphabet)
+9|What is the term for a figure of speech in which a part stands for the whole, like “all hands on deck”?|Synecdoche
+9|What does “sui generis” mean?|In a class of its own
+9|What is a word borrowed from another language, like “ballet,” called?|A loanword
+9|What language family does Finnish belong to?|Uralic
+9|What word describes a person who loves words?|A logophile
+9|What is the name for a word that once had a negative meaning and became positive, like “nice”?|Amelioration
+9|What is the term for omitting a conjunction for effect, as in “I came, I saw, I conquered”?|Asyndeton
+9|What is the term for a phrase whose letters can be rearranged into another phrase?|An anagram
+10|What is the term for the hatred of reasoning or argument?|Misology
+10|What does “defenestration” mean?|Throwing someone out of a window
+10|What is the term for the practice of using the same word in two senses in one sentence, as in “She lost her keys and her temper”?|Zeugma
+10|What is the term for the habit of using more words than needed?|Pleonasm (or verbosity)
+10|Which ancient language was deciphered using the Rosetta Stone, alongside Greek?|Egyptian hieroglyphs
+10|What is the term for repeating a word at the start of successive clauses, as in “we shall fight on the beaches, we shall fight on the landing grounds”?|Anaphora
+10|What is the smallest unit of meaning in a language, such as “un-” or “cat,” called?|A morpheme
+10|What is the name of the African language famous for click consonants, spoken by Nelson Mandela?|Xhosa
+10|Linear B, deciphered by Michael Ventris in 1952, is an early form of which language?|Greek (Mycenaean Greek)
+10|What is the language isolate spoken in northern Pakistan’s Hunza valley?|Burushaski

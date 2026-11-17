@@ -1,0 +1,100 @@
+1|What is the closest star to Earth?|The Sun
+1|What do bees collect from flowers to make honey?|Nectar
+1|At what temperature in Celsius does water freeze?|0°C
+1|What organ pumps blood through the human body?|The heart
+1|What is the name of Earth’s natural satellite?|The Moon
+1|What gas do humans need to breathe in to survive?|Oxygen
+1|What is the boiling point of water at sea level in Fahrenheit?|212°F
+1|How many bones are in the adult human body?|206
+1|What do we call frozen water?|Ice
+1|Which planet is the largest in our solar system?|Jupiter
+2|What is the center of an atom called?|The nucleus
+2|Which planet is famous for its prominent rings?|Saturn
+2|What are the three states of matter most people learn in school?|Solid, liquid and gas
+2|Which organ in the human body filters blood to make urine?|The kidneys
+2|What is the chemical symbol for oxygen?|O
+2|What does a thermometer measure?|Temperature
+2|What part of the plant carries out most photosynthesis?|The leaves
+2|Which planet is closest to the Sun?|Mercury
+2|What kind of animal is a frog?|An amphibian
+2|What is the largest bone in the human body?|The femur (thigh bone)
+3|What is the chemical symbol for sodium?|Na
+3|What scientist proposed the three laws of motion?|Isaac Newton
+3|What is the name for an animal that eats only plants?|A herbivore
+3|What blood cells help fight infection?|White blood cells
+3|What galaxy contains our solar system?|The Milky Way
+3|Which gas makes up about 21 percent of Earth’s atmosphere?|Oxygen
+3|What is the pH of pure water?|7
+3|What tool do scientists use to see very small things like cells?|A microscope
+3|Which planet is known for its Great Red Spot?|Jupiter
+3|Which scale was long used to report earthquake strength, named after an American seismologist?|The Richter scale
+4|What is the chemical symbol for iron?|Fe
+4|What is the study of earthquakes called?|Seismology
+4|Which vitamin does the skin make when exposed to sunlight?|Vitamin D
+4|What is the name of the process by which a liquid turns into a gas?|Evaporation
+4|What type of rock forms from cooled lava or magma?|Igneous rock
+4|Who developed the theory of evolution by natural selection?|Charles Darwin
+4|Which part of the human eye controls how much light enters?|The iris
+4|What do you call a scientist who studies rocks?|A geologist
+4|What is the smallest planet in our solar system?|Mercury
+4|How many chambers does the human heart have?|Four
+5|What is the chemical symbol for potassium?|K
+5|What is the SI unit of force?|The newton
+5|Which blood type is known as the universal donor?|O negative
+5|What is the nearest large spiral galaxy to the Milky Way?|The Andromeda Galaxy
+5|Which element has the atomic number 1?|Hydrogen
+5|What is the powerhouse molecule that stores energy in cells, abbreviated ATP?|Adenosine triphosphate
+5|What scientist discovered penicillin in 1928?|Alexander Fleming
+5|What layer of the atmosphere contains the ozone layer?|The stratosphere
+5|What is the name for a substance that speeds up a chemical reaction without being used up?|A catalyst
+5|Which planet rotates on its side, with an axis tilted about 98 degrees?|Uranus
+6|What is the chemical symbol for lead?|Pb
+6|What is the SI unit of electric current?|The ampere
+6|What is the name of the protein that carries oxygen in red blood cells?|Hemoglobin
+6|What is the term for the bending of light as it passes from one medium into another?|Refraction
+6|Who discovered radium and polonium with her husband Pierre?|Marie Curie
+6|What is the most abundant element in the universe?|Hydrogen
+6|Which gland in the neck produces hormones that regulate metabolism?|The thyroid
+6|What is the name of the supercontinent that existed about 300 million years ago?|Pangaea
+6|What is the name for the path a planet follows around the Sun?|Its orbit
+6|Which noble gas is commonly used in bright advertising signs that glow red-orange?|Neon
+7|What is the chemical symbol for tin?|Sn
+7|What is the SI unit of frequency?|The hertz
+7|What is the name for a molecule made of two identical units joined together, such as O₂?|A diatomic molecule
+7|Which scientist first described the double-helix structure of DNA with Francis Crick?|James Watson
+7|What is the name of the force that opposes motion between two surfaces in contact?|Friction
+7|What type of star is left behind after a Sun-like star sheds its outer layers?|A white dwarf
+7|What is the longest bone in the human arm?|The humerus
+7|What is the name of Saturn’s largest moon, which has a thick atmosphere?|Titan
+7|What does the “c” stand for in E = mc²?|The speed of light
+7|What part of the brain controls balance and coordination?|The cerebellum
+8|Which element has the chemical symbol W?|Tungsten
+8|What is the name of the hypothetical substance thought to make up about 27 percent of the universe that doesn’t emit light?|Dark matter
+8|What is the name of the smallest unit of a chemical element that keeps its properties?|An atom
+8|Which scientist formulated the laws of planetary motion in the early 1600s?|Johannes Kepler
+8|What is the term for an organism that can produce its own food, such as a plant?|An autotroph
+8|What is absolute zero in degrees Celsius?|−273.15°C
+8|What is the name of the boundary between Earth’s crust and mantle?|The Mohorovičić discontinuity (the Moho)
+8|Which particle carries a negative electric charge?|The electron
+8|In which organelle does photosynthesis take place?|The chloroplast
+8|What is the name of the process by which a cell divides to make two identical cells?|Mitosis
+9|What is the chemical symbol for antimony?|Sb
+9|Which physicist proposed the exclusion principle, stating no two electrons can share the same quantum state?|Wolfgang Pauli
+9|What is the name of the closest known star to the Sun?|Proxima Centauri
+9|What is the SI base unit for the amount of a substance?|The mole
+9|What is the name of the structure that connects the two hemispheres of the brain?|The corpus callosum
+9|What is the name of the largest known volcano in the solar system, on Mars?|Olympus Mons
+9|What is the name for a material that conducts electricity with zero resistance at very low temperatures?|A superconductor
+9|What do the initials “RNA” stand for?|Ribonucleic acid
+9|What is the name of the scale used to measure the hardness of minerals?|The Mohs scale
+9|Which element is named after the scientist who created the periodic table?|Mendelevium
+10|What is the name of the effect where light from a receding galaxy shifts toward longer wavelengths?|Redshift
+10|Which element has the highest electronegativity?|Fluorine
+10|What is the name of the region beyond Neptune that contains Pluto and many icy bodies?|The Kuiper Belt
+10|What is the name of the constant that relates a photon’s energy to its frequency?|Planck’s constant
+10|What is the name of the bacterium most commonly used as a model organism in labs, often found in the human gut?|Escherichia coli (E. coli)
+10|What is the name of the theorem in physics stating that every conservation law corresponds to a symmetry?|Noether’s theorem
+10|Which particle is the antimatter counterpart of the electron?|The positron
+10|What is the name of the hormone produced by the pineal gland that regulates sleep?|Melatonin
+10|What is the most abundant protein in the human body?|Collagen
+10|What is the name of the geological era known as the “Age of Reptiles”?|The Mesozoic Era

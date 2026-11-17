@@ -1,0 +1,100 @@
+1|What kind of animal is Dumbo?|An elephant
+1|Which movie features a snowman named Olaf?|Frozen
+1|What is the name of the cowboy toy in “Toy Story”?|Woody
+1|Which superhero is Peter Parker?|Spider-Man
+1|What is the name of the clownfish father searching for his son in “Finding Nemo”?|Marlin
+1|Which movie features the line “E.T. phone home”?|E.T. the Extra-Terrestrial
+1|What color is the Hulk?|Green
+1|Which animated movie features a monster named Sulley and his friend Mike?|Monsters, Inc.
+1|What is the name of the princess in “Aladdin”?|Jasmine
+1|Who is Batman’s butler?|Alfred
+2|Which actor played Jack Sparrow in “Pirates of the Caribbean”?|Johnny Depp
+2|Which movie is about a pig named Wilbur and a spider named Charlotte?|Charlotte’s Web
+2|What kind of creature is Shrek?|An ogre
+2|Which actor played Indiana Jones?|Harrison Ford
+2|What is the name of the lion king who is Simba’s father?|Mufasa
+2|In “The Wizard of Oz,” what does the Scarecrow want?|A brain
+2|Which film franchise features the character James Bond?|James Bond (007)
+2|What city is home to the Hollywood Walk of Fame?|Los Angeles
+2|Which movie features a giant ape that climbs the Empire State Building?|King Kong
+2|Which animated film features a rat who wants to be a chef in Paris?|Ratatouille
+3|Who directed “Titanic” and “Avatar”?|James Cameron
+3|What is the name of the hobbit who carries the One Ring in “The Lord of the Rings” films?|Frodo Baggins
+3|Which actress starred as Hermione Granger in the Harry Potter films?|Emma Watson
+3|In “The Matrix,” what color pill does Neo take?|Red
+3|Which movie features the quote “Here’s looking at you, kid”?|Casablanca
+3|What is the name of the toy space ranger in “Toy Story”?|Buzz Lightyear
+3|Which actor played Rocky Balboa?|Sylvester Stallone
+3|Which Pixar film features a trash-compacting robot left alone on Earth?|WALL-E
+3|What is the name of the villain in “The Lion King”?|Scar
+3|Which movie features the DeLorean time machine?|Back to the Future
+4|Who played Vito Corleone in “The Godfather”?|Marlon Brando
+4|Which film won the Academy Award for Best Picture for 1997, starring Leonardo DiCaprio and Kate Winslet?|Titanic
+4|What is the name of the AI computer in “2001: A Space Odyssey”?|HAL 9000
+4|Which actor played the title role in “Gladiator” (2000)?|Russell Crowe
+4|Which 1975 film had the tagline “You’ll never go in the water again”?|Jaws
+4|Who played Ellen Ripley in “Alien”?|Sigourney Weaver
+4|Which movie features Andy Dufresne escaping from prison?|The Shawshank Redemption
+4|What is the name of the fictional African kingdom in “The Lion King”?|The Pride Lands
+4|Which actor played the Terminator?|Arnold Schwarzenegger
+4|Which director made “Psycho” and “The Birds”?|Alfred Hitchcock
+5|Which film won the first Academy Award for Best Animated Feature in 2002?|Shrek
+5|Who played Hannibal Lecter in “The Silence of the Lambs”?|Anthony Hopkins
+5|Which movie features the line “I’ll be back”?|The Terminator
+5|What is the name of the newspaper Kane runs in “Citizen Kane”?|The New York Daily Inquirer
+5|Which actor won an Oscar for playing Forrest Gump?|Tom Hanks
+5|Which film is set on the planet Pandora?|Avatar
+5|Who directed “Schindler’s List”?|Steven Spielberg
+5|In “Ghostbusters,” what giant marshmallow creature attacks New York?|The Stay Puft Marshmallow Man
+5|What 1977 film featured John Travolta as Tony Manero?|Saturday Night Fever
+5|Which 1984 film features a teenager learning karate from Mr. Miyagi?|The Karate Kid
+6|Which actress starred in “Breakfast at Tiffany’s”?|Audrey Hepburn
+6|Which 1986 film follows the pilots Maverick and Goose at a Navy fighter school?|Top Gun
+6|Who directed “Pulp Fiction” and “Kill Bill”?|Quentin Tarantino
+6|What is the name of the hotel owner in “Psycho”?|Norman Bates
+6|Which film features the character Tyler Durden?|Fight Club
+6|In “Casablanca,” what is the name of Humphrey Bogart’s character?|Rick Blaine
+6|Which 1939 Civil War epic starred Vivien Leigh as Scarlett O’Hara?|Gone with the Wind
+6|Which 1990 film starred Macaulay Culkin as a boy accidentally left home at Christmas?|Home Alone
+6|Which actor played Neo in “The Matrix”?|Keanu Reeves
+6|What is the name of the boy who never grows up in the Disney film?|Peter Pan
+7|Which film won Best Picture at the 2020 Academy Awards, the first non-English-language film to do so?|Parasite
+7|Who played Travis Bickle in “Taxi Driver”?|Robert De Niro
+7|What is the name of the fictional town in “It’s a Wonderful Life”?|Bedford Falls
+7|Which director made “Seven Samurai”?|Akira Kurosawa
+7|What is the name of the ship in “Alien”?|The Nostromo
+7|Which actress won Best Actress for “Roman Holiday” (1953)?|Audrey Hepburn
+7|In “Raiders of the Lost Ark,” what artifact is Indiana Jones searching for?|The Ark of the Covenant
+7|Which 1982 film starring Harrison Ford is set in a futuristic Los Angeles?|Blade Runner
+7|What is the name of Luke Skywalker’s home planet?|Tatooine
+7|Who directed “2001: A Space Odyssey”?|Stanley Kubrick
+8|Which film won the Academy Award for Best Picture in 1995 over “Pulp Fiction” and “The Shawshank Redemption”?|Forrest Gump
+8|What is the name of Dorothy’s aunt in “The Wizard of Oz”?|Aunt Em
+8|Who played Mrs. Robinson in “The Graduate”?|Anne Bancroft
+8|Which Italian director made “La Dolce Vita”?|Federico Fellini
+8|In “Chinatown,” who plays private detective J.J. Gittes?|Jack Nicholson
+8|Which 1950 film features aging star Norma Desmond?|Sunset Boulevard
+8|Who directed “Lawrence of Arabia”?|David Lean
+8|What was the first Pixar film after “Toy Story”?|A Bug’s Life
+8|What was the first sequel to win the Academy Award for Best Picture?|The Godfather Part II
+8|Which 1967 film starred Warren Beatty and Faye Dunaway as Depression-era outlaws?|Bonnie and Clyde
+9|Which actress has received the most Academy Award acting nominations?|Meryl Streep
+9|What was the first James Bond film?|Dr. No (1962)
+9|Who directed “The Seventh Seal”?|Ingmar Bergman
+9|What 1925 Soviet film features the Odessa Steps sequence?|Battleship Potemkin
+9|Which 1959 film won 11 Academy Awards, a record later tied by “Titanic” and “The Return of the King”?|Ben-Hur
+9|What was the name of the studio founded by Charlie Chaplin, Mary Pickford, Douglas Fairbanks and D.W. Griffith in 1919?|United Artists
+9|Which 1941 film starred Humphrey Bogart as detective Sam Spade?|The Maltese Falcon
+9|Which French director made “The 400 Blows”?|François Truffaut
+9|What 1922 German silent film is an unauthorized adaptation of “Dracula”?|Nosferatu
+9|Which actor starred in “The General” (1926) as a train engineer?|Buster Keaton
+10|Who was the first African American to win an Academy Award, for “Gone with the Wind”?|Hattie McDaniel
+10|What was the name of the dog that starred in many 1920s silent films and helped save Warner Bros.?|Rin Tin Tin
+10|What 1902 French film shows a rocket landing in the eye of the Moon?|A Trip to the Moon (Le Voyage dans la Lune)
+10|Who directed “Tokyo Story” (1953)?|Yasujirō Ozu
+10|Which 1915 D.W. Griffith film is notorious for glorifying the Ku Klux Klan?|The Birth of a Nation
+10|Which Soviet director developed montage theory and made “Strike” (1925)?|Sergei Eisenstein
+10|What is the name of the first film to use synchronized Technicolor three-strip process in a feature, released in 1935?|Becky Sharp
+10|Which actress starred in the silent film “It” (1927), giving rise to the term “It girl”?|Clara Bow
+10|Which Indian director made “Pather Panchali” (1955)?|Satyajit Ray
+10|What was the first feature film shown with synchronized sound effects and music, but little dialogue, released by Warner Bros. in 1926?|Don Juan
