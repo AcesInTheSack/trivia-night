@@ -433,7 +433,7 @@ q592d7d2d28b5,Pop Culture,6,What 1970s dance craze is associated with the Bee Ge
 q34dd93560443,Pop Culture,6,What is the real name of the rapper Jay-Z?,Shawn Carter
 qc01f3b9a56c9,Pop Culture,7,Which dolls caused shoppers to scuffle in stores during the 1983 holiday season?,Cabbage Patch Kids
 qee2ecd69460c,Pop Culture,7,Which streetwear brand is known for its red box logo?,Supreme
-qd018cc6786e2,Pop Culture,7,"What was the name of the first commercially successful home video game console by Atari, released in 1977?",The Atari 2600
+q536b002fcbfd,Pop Culture,7,"Which Atari home console, released in 1977, made game cartridges popular?",The Atari 2600
 q043477b06f5b,Pop Culture,7,Which 1990s TV show featured the Peach Pit diner?,"Beverly Hills, 90210"
 q0801469f1053,Pop Culture,7,What brand made the popular 1980s and ’90s Walkman portable cassette player?,Sony
 qece8c8d84856,Pop Culture,7,What was the name of the iconic shark in “Jaws” as nicknamed by the film crew?,Bruce
@@ -469,7 +469,7 @@ qa59b2e1a4fbf,Pop Culture,9,What singer was known as “The Chairman of the Boar
 q53d7ebc53a91,Pop Culture,9,Which 1960s toy let kids draw by turning two knobs?,Etch A Sketch
 q50c76f153780,Pop Culture,10,In what year did Ernő Rubik invent his cube?,1974
 q5dd1722dc0b0,Pop Culture,10,What was Twitter’s name during early development?,twttr
-q6c8b724692fd,Pop Culture,10,"What was the name of the first video game Easter egg, hidden by Warren Robinett in an Atari game?",Adventure
+qf2a44609823a,Pop Culture,10,"Which Atari 2600 game hid Warren Robinett’s secret room, one of the earliest video game Easter eggs?",Adventure
 q7d3e7069c7a3,Pop Culture,10,What was the original name of the soft drink Pepsi?,Brad’s Drink
 qdcd5fcb8be02,Pop Culture,10,In what year did the first episode of “The Simpsons” air as a full half-hour series?,1989
 q1314ebd8885b,Pop Culture,10,What was the name of the first character Nintendo’s Mario was called in “Donkey Kong”?,Jumpman
@@ -1371,7 +1371,7 @@ q68b865d1d022,Animals & Nature,5,How many hearts does an octopus have?,Three
 q449100a1320e,Animals & Nature,5,What is a group of crows called?,A murder
 q6fde5881fe29,Animals & Nature,5,What is a male bee called?,A drone
 q8f34f64a42b6,Animals & Nature,5,What type of animal is a Komodo dragon?,A lizard
-qb2aa61930eb4,Animals & Nature,5,What is the fastest fish in the ocean?,The sailfish
+qdca1eea8b7f7,Animals & Nature,5,Which fish is often cited as the fastest swimmer in the ocean?,The sailfish
 q244543cbc812,Animals & Nature,5,What is a group of owls called?,A parliament
 qc659a2cbb749,Animals & Nature,5,What is a baby goat called?,A kid
 q59b77d1a4e53,Animals & Nature,5,Which tree is often called a “living fossil” because it has barely changed in 200 million years?,The ginkgo
@@ -1494,7 +1494,7 @@ q66aa84631e7a,Technology,5,Who founded Amazon in 1994?,Jeff Bezos
 q51ad9fe4497e,Technology,5,What does “IP” stand for in “IP address”?,Internet Protocol
 q0dd0ba6a9122,Technology,5,"What was the name of the first web browser, created by Tim Berners-Lee?",WorldWideWeb (later Nexus)
 qd30c4eb56a36,Technology,5,What does “DSL” stand for in internet service?,Digital subscriber line
-q46e059c573ef,Technology,5,"What company created the first commercially successful graphical user interface computer for home use, the Macintosh, in 1984?",Apple
+q0db88302ab67,Technology,5,Which company launched the Macintosh computer in 1984?,Apple
 q92c2cd5d6952,Technology,5,What does “GPU” stand for?,Graphics processing unit
 q2d7afd595d52,Technology,5,What is the term for the practice of tricking people into giving up passwords through fake emails?,Phishing
 qcb87e60f59a8,Technology,5,What does “DNS” stand for?,Domain Name System
@@ -1516,7 +1516,7 @@ q2dbeb6da67fc,Technology,7,Who is often called the first computer programmer?,Ad
 qbf6928f4d1a4,Technology,7,What was the name of IBM’s chess computer that beat Garry Kasparov in 1997?,Deep Blue
 q119bea97d9ed,Technology,7,"Who invented the World Wide Web’s predecessor, the hypertext system ENQUIRE, at CERN in 1980?",Tim Berners-Lee
 q82640885bd5d,Technology,7,Which company created the PostScript language and PDF format?,Adobe
-qe0c2d0f3ed27,Technology,7,"What was the name of the first computer mouse inventor, who demonstrated it in 1968?",Douglas Engelbart
+qe0e71081eac9,Technology,7,Who invented the computer mouse and demonstrated it in 1968?,Douglas Engelbart
 q476aea816b94,Technology,7,What does “RSS” commonly stand for?,Really Simple Syndication
 q1feab4486ffc,Technology,7,Which language is primarily used to add interactivity to web pages in the browser?,JavaScript
 q689454216272,Technology,7,Which Canadian company made the BlackBerry phone?,Research In Motion (RIM)
@@ -1545,7 +1545,7 @@ qfdf34b999e68,Technology,9,What was the name of the first widely spread email wo
 q42f61e3bd5d0,Technology,9,"What was the name of IBM’s 1994 touchscreen phone, often called the first smartphone?",The Simon Personal Communicator
 q1cc132d9f630,Technology,9,What is the name of the computing pioneer who invented the COBOL language's predecessor FLOW-MATIC?,Grace Hopper
 q941fd4434e6d,Technology,9,What does “TCP” stand for?,Transmission Control Protocol
-qade12afaa0de,Technology,9,"What was the name of the first computer bug, a moth found in which computer in 1947?",The Harvard Mark II
+q49f73d3611a0,Technology,9,"In 1947, operators found a moth jamming which computer, a famous early “bug”?",The Harvard Mark II
 q3d78e45ff240,Technology,9,Who is known as the “father of the computer” for designing the Analytical Engine?,Charles Babbage
 qc793ed5d9223,Technology,10,What does the programming language name COBOL stand for?,Common Business-Oriented Language
 q8704857cc34b,Technology,10,"Who built the Stepped Reckoner, an early calculator that could do all four arithmetic operations?",Gottfried Wilhelm Leibniz
@@ -1553,10 +1553,10 @@ qbcd0dc605b33,Technology,10,"What was the name of the first commercially sold co
 q717087e3bca6,Technology,10,Who invented the first practical programmable loom using punched cards in 1804?,Joseph Marie Jacquard
 qfca90618821e,Technology,10,"What is the name of the first computer virus to infect IBM PCs, created in 1986 in Pakistan?",Brain
 qba12a6e43762,Technology,10,"What was the name of the first domain name ever registered, in 1985?",Symbolics.com
-q3c45a50d8965,Technology,10,"Who created the first spreadsheet program, VisiCalc, with Bob Frankston?",Dan Bricklin
+q75f365671795,Technology,10,"Who created VisiCalc, the first electronic spreadsheet for personal computers, with Bob Frankston?",Dan Bricklin
 q018fa6e1e02b,Technology,10,Who demonstrated the first fully electronic television system in San Francisco in 1927?,Philo Farnsworth
 q0aabfbcaac0f,Technology,10,What was the name of the operating system Apple bought from NeXT to build Mac OS X?,NeXTSTEP
-qdfb1b9c477c1,Technology,10,"What was the name of the first high-level programming language, developed by IBM in 1957?",Fortran
+qfad7d21d00a8,Technology,10,"What was the first widely used high-level programming language, released by IBM in 1957?",Fortran
 q0799f805bf1c,Technology,10,Who coined the term “artificial intelligence” for the 1956 Dartmouth workshop?,John McCarthy
 q1f483cc63ad1,Technology,10,What 1988 worm slowed or crashed thousands of computers on the early internet?,The Morris worm
 qe1674bebe8d9,Mythology,1,Who is the king of the Greek gods?,Zeus

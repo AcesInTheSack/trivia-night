@@ -58,7 +58,7 @@
 6|Which TV chef famously yells at contestants on “Hell’s Kitchen”?|Gordon Ramsay
 6|What 1970s dance craze is associated with the Bee Gees and “Saturday Night Fever”?|Disco
 6|What is the real name of the rapper Jay-Z?|Shawn Carter
-7|What was the name of the first commercially successful home video game console by Atari, released in 1977?|The Atari 2600
+7|Which Atari home console, released in 1977, made game cartridges popular?|The Atari 2600
 7|Which 1990s TV show featured the Peach Pit diner?|Beverly Hills, 90210
 7|What brand made the popular 1980s and ’90s Walkman portable cassette player?|Sony
 7|What was the name of the iconic shark in “Jaws” as nicknamed by the film crew?|Bruce
@@ -88,7 +88,7 @@
 9|Which company made Beanie Babies?|Ty Inc.
 9|What singer was known as “The Chairman of the Board”?|Frank Sinatra
 9|Which 1960s toy let kids draw by turning two knobs?|Etch A Sketch
-10|What was the name of the first video game Easter egg, hidden by Warren Robinett in an Atari game?|Adventure
+10|Which Atari 2600 game hid Warren Robinett’s secret room, one of the earliest video game Easter eggs?|Adventure
 10|What was the original name of the soft drink Pepsi?|Brad’s Drink
 10|In what year did the first episode of “The Simpsons” air as a full half-hour series?|1989
 10|What was the name of the first character Nintendo’s Mario was called in “Donkey Kong”?|Jumpman

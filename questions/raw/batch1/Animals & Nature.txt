@@ -40,7 +40,7 @@
 4|What is the only continent where giraffes live in the wild?|Africa
 5|What is a male bee called?|A drone
 5|What type of animal is a Komodo dragon?|A lizard
-5|What is the fastest fish in the ocean?|The sailfish
+5|Which fish is often cited as the fastest swimmer in the ocean?|The sailfish
 5|What is a group of owls called?|A parliament
 5|What is a baby goat called?|A kid
 5|Which tree is often called a “living fossil” because it has barely changed in 200 million years?|The ginkgo

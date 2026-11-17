@@ -43,7 +43,7 @@
 5|What does “IP” stand for in “IP address”?|Internet Protocol
 5|What was the name of the first web browser, created by Tim Berners-Lee?|WorldWideWeb (later Nexus)
 5|What does “DSL” stand for in internet service?|Digital subscriber line
-5|What company created the first commercially successful graphical user interface computer for home use, the Macintosh, in 1984?|Apple
+5|Which company launched the Macintosh computer in 1984?|Apple
 5|What does “GPU” stand for?|Graphics processing unit
 5|What is the term for the practice of tricking people into giving up passwords through fake emails?|Phishing
 5|What does “DNS” stand for?|Domain Name System
@@ -61,7 +61,7 @@
 7|What was the name of IBM’s chess computer that beat Garry Kasparov in 1997?|Deep Blue
 7|Who invented the World Wide Web’s predecessor, the hypertext system ENQUIRE, at CERN in 1980?|Tim Berners-Lee
 7|Which company created the PostScript language and PDF format?|Adobe
-7|What was the name of the first computer mouse inventor, who demonstrated it in 1968?|Douglas Engelbart
+7|Who invented the computer mouse and demonstrated it in 1968?|Douglas Engelbart
 7|What does “RSS” commonly stand for?|Really Simple Syndication
 7|Which language is primarily used to add interactivity to web pages in the browser?|JavaScript
 7|Which Canadian company made the BlackBerry phone?|Research In Motion (RIM)
@@ -86,15 +86,15 @@
 9|What was the name of IBM’s 1994 touchscreen phone, often called the first smartphone?|The Simon Personal Communicator
 9|What is the name of the computing pioneer who invented the COBOL language's predecessor FLOW-MATIC?|Grace Hopper
 9|What does “TCP” stand for?|Transmission Control Protocol
-9|What was the name of the first computer bug, a moth found in which computer in 1947?|The Harvard Mark II
+9|In 1947, operators found a moth jamming which computer, a famous early “bug”?|The Harvard Mark II
 9|Who is known as the “father of the computer” for designing the Analytical Engine?|Charles Babbage
 10|What was the name of the first commercially sold computer in the United States, delivered in 1951?|UNIVAC I
 10|Who invented the first practical programmable loom using punched cards in 1804?|Joseph Marie Jacquard
 10|What is the name of the first computer virus to infect IBM PCs, created in 1986 in Pakistan?|Brain
 10|What was the name of the first domain name ever registered, in 1985?|Symbolics.com
-10|Who created the first spreadsheet program, VisiCalc, with Bob Frankston?|Dan Bricklin
+10|Who created VisiCalc, the first electronic spreadsheet for personal computers, with Bob Frankston?|Dan Bricklin
 10|Who demonstrated the first fully electronic television system in San Francisco in 1927?|Philo Farnsworth
 10|What was the name of the operating system Apple bought from NeXT to build Mac OS X?|NeXTSTEP
-10|What was the name of the first high-level programming language, developed by IBM in 1957?|Fortran
+10|What was the first widely used high-level programming language, released by IBM in 1957?|Fortran
 10|Who coined the term “artificial intelligence” for the 1956 Dartmouth workshop?|John McCarthy
 10|What 1988 worm slowed or crashed thousands of computers on the early internet?|The Morris worm

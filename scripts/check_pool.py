@@ -5,7 +5,7 @@ rows=[]
 bank=json.load(open(os.path.join(os.path.dirname(__file__), "..", "TriviaNight", "Resources", "questions.json")))
 for c in bank["categories"]:
     for q in c["questions"]: rows.append(("bank",c["name"],q["d"],q["q"],q["a"]))
-for f in sorted(glob.glob("" + os.path.join(os.path.dirname(__file__), "..", "questions", "raw", "*.txt") + "")):
+for f in sorted(glob.glob(os.path.join(os.path.dirname(__file__), "..", "questions", "raw", "**", "*.txt"), recursive=True)):
     cat=os.path.basename(f)[:-4]
     for line in open(f,encoding="utf-8"):
         if line.strip():
