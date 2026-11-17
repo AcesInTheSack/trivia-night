@@ -16,7 +16,7 @@ concurrency:
 jobs:
   build-test:
     runs-on: macos-15
-    timeout-minutes: 45
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
 
@@ -69,7 +69,7 @@ jobs:
 
       - name: Screenshots (iPhone + iPad)
         continue-on-error: true
-        timeout-minutes: 15
+        timeout-minutes: 30
         run: |
           # perl-based timeout, since macOS has no `timeout` command
           t() { local s=$1; shift; perl -e 'alarm shift; exec @ARGV' "$s" "$@"; }
@@ -81,13 +81,19 @@ jobs:
             echo "== $kind $UDID"
             t 30 xcrun simctl shutdown all || true
             t 120 xcrun simctl boot "$UDID" || true
-            t 300 xcrun simctl bootstatus "$UDID" || echo "bootstatus timed out"
+            t 600 xcrun simctl bootstatus "$UDID" -b || echo "bootstatus timed out"
+            sleep 45   # let the big simulators finish settling after first boot
             t 30 xcrun simctl status_bar "$UDID" override --time 9:41 --batteryState charged --batteryLevel 100 --wifiBars 3 || true
             t 120 xcrun simctl install "$UDID" "$APP" || { echo "install failed"; continue; }
             for screen in setup splash game answer end; do
               t 20 xcrun simctl terminate "$UDID" com.acesinthesack.trivianight 2>/dev/null || true
-              t 60 xcrun simctl launch "$UDID" com.acesinthesack.trivianight -uiDemo "$screen" || echo "launch failed: $screen"
-              sleep 5
+              ok=0
+              for attempt in 1 2 3; do
+                if t 150 xcrun simctl launch "$UDID" com.acesinthesack.trivianight -uiDemo "$screen"; then ok=1; break; fi
+                echo "launch attempt $attempt failed: $screen"; sleep 10
+              done
+              [ $ok = 1 ] || continue
+              sleep 8
               t 30 xcrun simctl io "$UDID" screenshot "screenshots/${kind}-${screen}.png" || echo "screenshot failed: $screen"
             done
           done
