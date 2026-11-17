@@ -1,0 +1,100 @@
+1|Which U.S. President appears on the one-dollar bill?|George Washington
+1|Which document begins with the words “We the People”?|The U.S. Constitution
+1|Which famous wall was built by the Roman emperor Hadrian across northern England?|Hadrian’s Wall
+1|Who was the British queen whose reign from 1952 to 2022 was the longest in British history?|Elizabeth II
+1|Who was the first woman to travel into space, in 1963?|Valentina Tereshkova
+1|What ship did Christopher Columbus captain on his first voyage, the largest of his three?|The Santa María
+1|What do we call a long period when giant ice sheets covered much of Earth?|An ice age
+1|Who was the first U.S. President to live in the White House?|John Adams
+1|What was the name of the boat Noah built in the Bible story?|The Ark
+1|Which Wild West outlaw was shot by Sheriff Pat Garrett in 1881?|Billy the Kid
+2|Which U.S. President is famous for the New Deal?|Franklin D. Roosevelt
+2|What ancient civilization built Chichén Itzá in Mexico?|The Maya
+2|Who was the French military hero known as the Maid of Orléans?|Joan of Arc
+2|Napoleon Bonaparte crowned himself emperor of which country?|France
+2|Which U.S. President was assassinated in Dallas in 1963?|John F. Kennedy
+2|Who wrote the Declaration of Independence’s first draft?|Thomas Jefferson
+2|Which empire was ruled by tsars?|The Russian Empire
+2|Which Chinese philosopher’s sayings are collected in the “Analects”?|Confucius
+2|What was the name of Nazi Germany’s air force?|The Luftwaffe
+2|Who was the leader of the Soviet Union during the Cuban Missile Crisis?|Nikita Khrushchev
+3|What was the name of the ship on which Charles Darwin sailed around the world?|HMS Beagle
+3|Which U.S. general led Allied forces in Europe during World War II and later became President?|Dwight D. Eisenhower
+3|What were the names of the two brothers credited with the first powered airplane flight in 1903?|Orville and Wilbur Wright
+3|What city was the capital of the Byzantine Empire?|Constantinople
+3|Which Italian dictator founded fascism and allied with Hitler?|Benito Mussolini
+3|What was the name of the lady with the lamp, a nurse in the Crimean War?|Florence Nightingale
+3|Who was the first Roman emperor to convert to Christianity?|Constantine the Great
+3|Which American abolitionist led many enslaved people to freedom on the Underground Railroad?|Harriet Tubman
+3|What famous speech did Lincoln give in November 1863?|The Gettysburg Address
+3|Which emperor was the last to rule China, abdicating in 1912?|Puyi
+4|What year did Martin Luther post his Ninety-five Theses?|1517
+4|Which city was divided into four occupation zones after World War II?|Berlin
+4|Who was the first emperor of the Mongol-ruled Yuan dynasty in China?|Kublai Khan
+4|What name is given to October 29, 1929, when the U.S. stock market crashed?|Black Tuesday
+4|Which Greek king led the Spartans at the Battle of Thermopylae in 480 BC?|Leonidas I
+4|Which ancient wonder stood in the harbor of Rhodes?|The Colossus of Rhodes
+4|Which U.S. President decided to use atomic bombs against Japan?|Harry S. Truman
+4|What was the name of the period of European cultural rebirth that began in Italy in the 14th century?|The Renaissance
+4|Which country did Germany invade on September 1, 1939, starting World War II in Europe?|Poland
+4|Which U.S. state was the first to secede from the Union in 1860?|South Carolina
+5|Which Egyptian queen built a famous temple at Deir el-Bahari and ruled as pharaoh?|Hatshepsut
+5|What was the name of the ship that brought the first enslaved Africans to English Virginia in 1619?|The White Lion
+5|What is the name of the 1066 embroidered cloth showing the Norman Conquest?|The Bayeux Tapestry
+5|Who was the first European to see the Pacific Ocean from the Americas, in 1513?|Vasco Núñez de Balboa
+5|Which empire did Suleiman the Magnificent rule?|The Ottoman Empire
+5|What 1905 conflict saw Japan defeat a European great power?|The Russo-Japanese War
+5|What was the name of the secret U.S. effort that built the first atomic bombs?|The Manhattan Project
+5|Who was the English queen known as “Bloody Mary”?|Mary I
+5|In what year was the liner Lusitania sunk by a German U-boat?|1915
+5|Which African American educator founded the Tuskegee Institute in 1881?|Booker T. Washington
+6|What was the name of the Japanese attack on a U.S. naval base on December 7, 1941?|The attack on Pearl Harbor
+6|Who was the Zulu king who built a powerful kingdom in southern Africa in the early 1800s?|Shaka
+6|Which treaty created the European Union in 1992?|The Maastricht Treaty
+6|Which pharaoh is credited with building the largest pyramid at Giza?|Khufu
+6|What was the name of the English king beheaded in 1649?|Charles I
+6|Who was the first woman to win a Nobel Prize?|Marie Curie
+6|What was the name of the 1854 charge immortalized in a Tennyson poem?|The Charge of the Light Brigade
+6|Which Spanish conquistador conquered the Inca Empire?|Francisco Pizarro
+6|What was the name of the first permanent English settlement in America, founded in 1607?|Jamestown
+6|Which ancient city was home to the Hanging Gardens, one of the Seven Wonders?|Babylon
+7|Who was the Roman emperor during the Great Fire of Rome in AD 64?|Nero
+7|What was the name of the alliance formed by Britain, France and Russia before World War I?|The Triple Entente
+7|Which 1918–1920 pandemic killed tens of millions worldwide?|The Spanish flu
+7|Who led the Mexican Revolution’s peasant army in the south, demanding land reform?|Emiliano Zapata
+7|What was the name of the 1921 tragedy in which a white mob destroyed Tulsa’s Greenwood district?|The Tulsa Race Massacre
+7|Which English king founded the Church of England after breaking with Rome?|Henry VIII
+7|What was the name of the nuclear accident in Soviet Ukraine in 1986?|Chernobyl
+7|Which Persian king freed the Jews from Babylonian captivity?|Cyrus the Great
+7|What was the name of the Greek city-state alliance led by Athens after the Persian Wars?|The Delian League
+7|Who was the first President of independent Ghana?|Kwame Nkrumah
+8|Who ruled England as Lord Protector after the execution of Charles I?|Oliver Cromwell
+8|What was the name of the Chinese rebellion of 1899–1901 against foreign influence?|The Boxer Rebellion
+8|Which battle in 1863 was the turning point of the American Civil War in the East?|The Battle of Gettysburg
+8|Who was the Frankish leader who stopped a Muslim army at the Battle of Tours in 732?|Charles Martel
+8|What was the name of the Spanish king and queen who funded Columbus?|Ferdinand II and Isabella I
+8|What was the name of the Viking explorer who reached North America around the year 1000?|Leif Erikson
+8|Which treaty in 1713 ended the War of the Spanish Succession?|The Treaty of Utrecht
+8|Who was the last Inca emperor, captured by Spanish conquistadors in 1532?|Atahualpa
+8|What were Europe’s 1848 uprisings collectively called?|The Revolutions of 1848 (Springtime of Nations)
+8|What was the Roman name for the region that is now mostly France?|Gaul
+9|What 240-mile protest march did Gandhi lead in 1930 against a British tax?|The Salt March
+9|Which Macedonian general founded the dynasty that ruled Egypt after Alexander the Great?|Ptolemy I Soter
+9|What was the name of the 1838–39 forced removal of the Cherokee from the southeastern U.S.?|The Trail of Tears
+9|Who was the last king of France before the French Revolution?|Louis XVI
+9|What was the name of the medieval trading alliance of northern German cities?|The Hanseatic League
+9|Which naval battle in 31 BC made Octavian master of the Roman world?|The Battle of Actium
+9|Who founded the Safavid dynasty in Persia in 1501?|Ismail I
+9|What was the name of the 1918 armistice location, a railway carriage in a French forest?|Compiègne
+9|Which Swedish king was killed at the Battle of Lützen in 1632?|Gustavus Adolphus
+9|Who was the Maratha king who founded a kingdom in western India in the 1600s?|Shivaji
+10|What was the name of the Byzantine empress, a former actress, who was married to Justinian?|Theodora
+10|Which 1525 battle saw Francis I of France captured?|The Battle of Pavia
+10|What was the name of the Mesopotamian king famous for his law code around 1754 BC?|Hammurabi
+10|Which Mongol leader founded the Timurid Empire?|Timur (Tamerlane)
+10|What 1215 church council also defined doctrine and was called by Pope Innocent III?|The Fourth Lateran Council
+10|Who was the Kushan emperor famous as a patron of Buddhism in the 2nd century?|Kanishka
+10|Which West African city was a famous center of Islamic learning in the 1300s and 1400s?|Timbuktu
+10|Which 1494 French invasion of Italy was led by King Charles VIII?|The Italian War of 1494–1498
+10|What was the name of the Norman adventurer who conquered southern Italy and Sicily with his brother Roger?|Robert Guiscard
+10|Which ancient Indian emperor converted to Buddhism after the bloody Kalinga War?|Ashoka

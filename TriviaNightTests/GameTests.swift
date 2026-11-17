@@ -8,11 +8,21 @@ final class GameTests: XCTestCase {
         bank = QuestionBank.loadBundled(Bundle(for: AppModel.self))
     }
 
-    func testBankHas15CategoriesOf20() {
+    /// The bundled bank trimmed to `n` questions per category, for tests that need to exhaust a category.
+    private func smallBank(_ n: Int = 20) -> QuestionBank {
+        QuestionBank(categories: bank.categories.map {
+            Category(name: $0.name, icon: $0.icon, questions: Array($0.questions.prefix(n)))
+        })
+    }
+
+    func testBankHas15BalancedCategories() {
         XCTAssertEqual(bank.categories.count, 15)
+        let size = bank.categories.first?.questions.count ?? 0
+        XCTAssertGreaterThanOrEqual(size, 100)
         for cat in bank.categories {
-            XCTAssertEqual(cat.questions.count, 20, cat.name)
-            XCTAssertTrue(cat.questions.allSatisfy { (1...10).contains($0.difficulty) }, cat.name)
+            XCTAssertEqual(cat.questions.count, size, cat.name)
+            XCTAssertEqual(Set(cat.questions.map(\.difficulty)), Set(1...10), "\(cat.name) covers every difficulty")
+            XCTAssertTrue(cat.questions.allSatisfy { !$0.text.isEmpty && !$0.answer.isEmpty }, cat.name)
         }
     }
 
@@ -35,7 +45,7 @@ final class GameTests: XCTestCase {
     }
 
     func testShownQuestionsAreNeverRepeatedUntilTheBankRunsOut() {
-        let model = AppModel(bank: bank, history: PlayHistory(url: nil))
+        let model = AppModel(bank: smallBank(20), history: PlayHistory(url: nil))
         model.settings.selected = ["History", "Music"]   // 40 questions
         model.settings.questionCount = 10
         var seen = Set<String>()
@@ -75,9 +85,10 @@ final class GameTests: XCTestCase {
     func testCountIsCappedByAvailableQuestions() {
         var s = GameSettings()
         s.selected = ["History"]
-        s.questionCount = 500
+        s.questionCount = 5000
         var rng = SeededRNG(seed: 1)
-        XCTAssertEqual(GameBuilder.build(bank: bank, settings: s, rng: &rng).count, 20)
+        let available = bank.category(named: "History")!.questions.count
+        XCTAssertEqual(GameBuilder.build(bank: bank, settings: s, rng: &rng).count, available)
     }
 
     func testDifficultyTargetsClosestQuestions() {
@@ -154,7 +165,7 @@ final class GameTests: XCTestCase {
     }
 
     func testCountClampsWhenCategoriesChange() {
-        let model = AppModel(bank: bank, history: PlayHistory(url: nil))
+        let model = AppModel(bank: smallBank(20), history: PlayHistory(url: nil))
         model.selectAll()
         model.setQuestionCount(200)
         XCTAssertEqual(model.settings.questionCount, 200)

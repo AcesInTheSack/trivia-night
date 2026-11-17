@@ -1,0 +1,100 @@
+1|What is the name of the bear in “The Jungle Book” who sings “The Bare Necessities”?|Baloo
+1|Which animated film follows a boy named Miguel into the Land of the Dead?|Coco
+1|Which animated film features a rabbit police officer named Judy Hopps?|Zootopia
+1|What is the name of the deer in the Disney film whose mother is killed by a hunter?|Bambi
+1|Which superhero is billionaire Tony Stark?|Iron Man
+1|In “Kung Fu Panda,” what is the panda’s name?|Po
+1|In “The Wizard of Oz,” what does the Tin Man want?|A heart
+1|What is the name of the cowgirl in “Toy Story 2”?|Jessie
+1|In “Dumbo,” what kind of animal is Dumbo’s friend Timothy?|A mouse
+1|Which animated film features a girl named Rapunzel with very long hair?|Tangled
+2|What is the name of Harry Potter’s snowy owl?|Hedwig
+2|Which superhero team includes Iron Man, Thor and the Hulk?|The Avengers
+2|Which actress played Wonder Woman in the 2017 film?|Gal Gadot
+2|Which actor voiced Woody in “Toy Story”?|Tom Hanks
+2|What is the name of the blue alien in “Lilo & Stitch”?|Stitch
+2|Which actor played Ferris Bueller?|Matthew Broderick
+2|Which film features a family of superheroes called the Parrs?|The Incredibles
+2|What is the name of the boy who befriends a dragon named Toothless?|Hiccup
+2|Which film follows Elle Woods to Harvard Law School?|Legally Blonde
+2|Which actor plays Captain Jack Sparrow’s rival Hector Barbossa?|Geoffrey Rush
+3|Which actor played Neo’s mentor Morpheus in “The Matrix”?|Laurence Fishburne
+3|In “Star Wars,” who is Luke Skywalker’s father?|Darth Vader (Anakin Skywalker)
+3|Which 1997 film features Will Smith and Tommy Lee Jones fighting aliens?|Men in Black
+3|What is the name of the dog in “The Grinch” animated film?|Max
+3|Which actress played Katniss Everdeen in “The Hunger Games” films?|Jennifer Lawrence
+3|Which actor played Batman in “The Dark Knight”?|Christian Bale
+3|Which actor played Edward Scissorhands?|Johnny Depp
+3|Which 1985 film features five teenagers in Saturday detention?|The Breakfast Club
+3|Which Pixar movie is set inside a girl’s mind with characters like Joy and Sadness?|Inside Out
+4|Who directed “The Dark Knight” and “Inception”?|Christopher Nolan
+4|Which actor played Jack Torrance in “The Shining”?|Jack Nicholson
+4|Which actress starred in “Pretty Woman” (1990)?|Julia Roberts
+4|Which film features the quote “You can’t handle the truth!”?|A Few Good Men
+4|Who played Wolverine in the “X-Men” films?|Hugh Jackman
+4|Which film features a volleyball named Wilson?|Cast Away
+4|Which movie features Danny Zuko and Sandy Olsson?|Grease
+4|Who played Willy Wonka in the 1971 film?|Gene Wilder
+4|Which actor played the title role in “Joker” (2019)?|Joaquin Phoenix
+5|Which film won the Academy Award for Best Picture in 2009, set in Mumbai?|Slumdog Millionaire
+5|Who directed “Goodfellas”?|Martin Scorsese
+5|Which 1999 film features the line “I see dead people”?|The Sixth Sense
+5|Which actor plays Ethan Hunt in the “Mission: Impossible” films?|Tom Cruise
+5|In “Pulp Fiction,” what is the name of Samuel L. Jackson’s character?|Jules Winnfield
+5|Which actress played Clarice Starling in “The Silence of the Lambs”?|Jodie Foster
+5|Which film features the line “Houston, we have a problem”?|Apollo 13
+5|What is the name of the toy dinosaur in “Toy Story”?|Rex
+5|Who directed “Alien” and “Gladiator”?|Ridley Scott
+5|Which film features the line “Say hello to my little friend!”?|Scarface
+6|What is the name of the fictional nightclub-casino in “Casablanca”?|Rick’s Café Américain
+6|Which actor played Atticus Finch in “To Kill a Mockingbird” (1962)?|Gregory Peck
+6|Which 1975 film is set in an Oregon psychiatric hospital?|One Flew Over the Cuckoo’s Nest
+6|Which actor played Indiana Jones’s father?|Sean Connery
+6|What is the name of the fictional African country in “Coming to America”?|Zamunda
+6|Which 1980 comedy features the line “Surely you can’t be serious”?|Airplane!
+6|Who directed “The Godfather”?|Francis Ford Coppola
+6|In “The Princess Bride,” what is the name of the giant played by André the Giant?|Fezzik
+6|Which 1991 film follows two women fleeing the law in a 1966 Thunderbird?|Thelma & Louise
+6|What is the name of the Ewoks’ home moon in “Return of the Jedi”?|Endor
+7|Which film was the first animated feature nominated for Best Picture?|Beauty and the Beast (1991)
+7|Who directed “Some Like It Hot”?|Billy Wilder
+7|What is the name of the fictional newspaper in “Spider-Man”?|The Daily Bugle
+7|Which actor played the title role in “Gandhi” (1982)?|Ben Kingsley
+7|Which film features a character named Keyser Söze?|The Usual Suspects
+7|Who played Maria in “The Sound of Music”?|Julie Andrews
+7|Which musical film features rival gangs called the Sharks and the Jets?|West Side Story
+7|Which director made “Do the Right Thing”?|Spike Lee
+7|Which 1949 British film features Harry Lime and a famous zither score?|The Third Man
+8|Which actress won Best Actress for both “Klute” and “Coming Home”?|Jane Fonda
+8|What is Mad Max’s surname?|Rockatansky
+8|Who directed “Annie Hall”?|Woody Allen
+8|What is the name of the fictional AI in “Her” (2013)?|Samantha
+8|Which 1976 film features the line “I’m as mad as hell, and I’m not going to take this anymore!”?|Network
+8|What 1969 road film starred Peter Fonda and Dennis Hopper?|Easy Rider
+8|Who directed “Amélie”?|Jean-Pierre Jeunet
+8|Which actor played the Man with No Name in Sergio Leone’s westerns?|Clint Eastwood
+8|Which film won Best Picture in 2017 after “La La Land” was announced by mistake?|Moonlight
+8|What is the name of the robot in “Forbidden Planet” (1956)?|Robby the Robot
+9|Who composed the score for “Psycho”?|Bernard Herrmann
+9|Who directed “Chungking Express”?|Wong Kar-wai
+9|Who directed “The Wages of Fear” (1953)?|Henri-Georges Clouzot
+9|Which actress was nicknamed “The Swedish Sphinx” and starred in “Ninotchka”?|Greta Garbo
+9|Which 1957 Best Picture winner follows British prisoners of war building a bridge?|The Bridge on the River Kwai
+9|Who directed “L’Avventura” (1960)?|Michelangelo Antonioni
+9|What was the name of the first feature-length animated film by Hayao Miyazaki’s Studio Ghibli?|Castle in the Sky (1986)
+9|Who directed “Bicycle Thieves” (1948)?|Vittorio De Sica
+9|Which actor played Terry Malloy in “On the Waterfront”?|Marlon Brando
+9|What 1927 film won the only Oscar ever given for “Unique and Artistic Production”?|Sunrise
+10|Who directed “Ugetsu” (1953)?|Kenji Mizoguchi
+10|What was the name of Charlie Chaplin’s famous screen character?|The Tramp
+10|Who directed the 1922 documentary “Nanook of the North”?|Robert J. Flaherty
+10|Who directed “The Cabinet of Dr. Caligari” (1920)?|Robert Wiene
+10|Which 1959 film by Alain Resnais is set in a Japanese city after the atomic bomb?|Hiroshima mon amour
+10|Who was the first woman to win the Academy Award for Best Director?|Kathryn Bigelow
+10|Which Soviet director made “Stalker” (1979)?|Andrei Tarkovsky
+10|Who won the first Academy Award for Best Actress?|Janet Gaynor
+10|Who directed “Breathless” (1960)?|Jean-Luc Godard
+10|Which actress starred in “The Passion of Joan of Arc” (1928)?|Renée Falconetti
+3|Which actor played Han Solo in the original “Star Wars” films?|Harrison Ford
+4|Who directed “The Grand Budapest Hotel”?|Wes Anderson
+7|Which actress starred in “Gentlemen Prefer Blondes” (1953)?|Marilyn Monroe

@@ -1,0 +1,100 @@
+1|What color do you get by mixing red and blue paint?|Purple
+1|What do you call a picture of the countryside or scenery?|A landscape
+1|What do you call a work of art made of clay that is baked in a kiln?|Ceramics (pottery)
+1|What do you call a painting done on a wall?|A mural
+1|What is the name of the large stone statue with a lion’s body and human head near the pyramids?|The Great Sphinx of Giza
+1|What do you call a drawing made quickly to plan a painting?|A sketch
+1|What do you call an artist who makes statues?|A sculptor
+1|What do you call a picture an artist draws of themselves?|A self-portrait
+1|What colors are made by mixing a primary color with white?|Tints (pastel colors)
+2|What is the name of the huge statue of Christ overlooking Rio de Janeiro?|Christ the Redeemer
+2|Which famous building in Washington, D.C., is the home of the U.S. President?|The White House
+2|In which city is the Brandenburg Gate?|Berlin
+2|What is the name of the huge Buddhist temple in Indonesia, the world’s largest?|Borobudur
+2|Which city is home to the Uffizi Gallery?|Florence
+2|What is the name of the ancient Greek temple ruins on a hill above Athens?|The Acropolis
+2|What do you call a painting made with tiny pieces of colored glass or stone?|A mosaic
+3|What is the name of the colorful onion-domed cathedral in Moscow’s Red Square?|St. Basil’s Cathedral
+3|Which Dutch artist painted many self-portraits and “The Anatomy Lesson of Dr. Nicolaes Tulp”?|Rembrandt
+3|What is the name of the famous skyscraper in Chicago once called the Sears Tower?|Willis Tower
+3|What is the name of the palace of French kings outside Paris, famous for its Hall of Mirrors?|The Palace of Versailles
+3|What do you call art that doesn’t try to show real objects, using shapes and colors instead?|Abstract art
+3|Which ancient wonder was a lighthouse in Egypt?|The Lighthouse of Alexandria
+3|What is the name of the famous palace in Granada, Spain, built by the Moors?|The Alhambra
+3|What is the name of the large public square in front of St. Peter’s Basilica?|St. Peter’s Square
+4|Which American painter is known for his realistic magazine covers of small-town life for the Saturday Evening Post?|Norman Rockwell
+4|What is the name of the blue-tiled mosque in Istanbul with six minarets?|The Sultan Ahmed Mosque (Blue Mosque)
+4|Which British sculptor is known for large reclining figures with holes?|Henry Moore
+4|Who painted “Impression, Sunrise,” which gave Impressionism its name?|Claude Monet
+4|What is the name of the tallest building in the U.S., in New York City?|One World Trade Center
+4|What is the name of the art museum in New York known as “the Met”?|The Metropolitan Museum of Art
+4|What is the name of the Renaissance sculptor who made the bronze “David” in Florence, earlier than Michelangelo’s?|Donatello
+4|What is the name of the castle in Bavaria that inspired Disney’s Sleeping Beauty castle?|Neuschwanstein Castle
+5|Which French artist painted “The Card Players”?|Paul Cézanne
+5|What is the name of the famous Gothic cathedral in Germany whose twin spires dominate Cologne?|Cologne Cathedral
+5|Which artist is known for painting soft, dreamy pictures of mothers and children, an American Impressionist in Paris?|Mary Cassatt
+5|Who painted “The Gleaners” (1857)?|Jean-François Millet
+5|Which museum in Paris is housed in a former railway station?|The Musée d’Orsay
+5|Who painted “The Swing” (1767), a famous Rococo work?|Jean-Honoré Fragonard
+5|What is the name of the tallest building in the world before the Burj Khalifa, in Taipei?|Taipei 101
+5|Which British artist painted the “Ophelia” lying in a stream (1852)?|John Everett Millais
+6|Which Italian artist painted metaphysical city squares like “The Song of Love”?|Giorgio de Chirico
+6|What is the name of the Gothic cathedral in France famous for its blue stained glass, southwest of Paris?|Chartres Cathedral
+6|Which Italian Renaissance artist painted “The Tempest” (c. 1508)?|Giorgione
+6|What is the name of the architect of the original World Trade Center towers?|Minoru Yamasaki
+6|Which American painter is famous for portraits like “Madame X”?|John Singer Sargent
+6|Who painted “The Blue Boy”?|Thomas Gainsborough
+6|What is the name of the Indian temple complex famous for erotic sculptures in Madhya Pradesh?|Khajuraho
+6|Which artist created the “Spiral Jetty” in Utah’s Great Salt Lake?|Robert Smithson
+7|Who painted “The Fighting Temeraire”?|J.M.W. Turner
+7|Which Brazilian architect designed the National Congress building in Brazil’s capital?|Oscar Niemeyer
+7|Who painted “The Gross Clinic” (1875)?|Thomas Eakins
+7|Which German Expressionist group was founded in Dresden in 1905?|Die Brücke
+7|Who painted “Flaming June” (1895)?|Frederic Leighton
+7|What is the name of the art style of Paris’s metro entrances by Hector Guimard?|Art Nouveau
+7|Which American painter created huge color-field canvases like “Orange and Yellow”?|Mark Rothko
+7|Which architect designed the National Assembly building in Dhaka?|Louis Kahn
+8|Who painted “The Hunters in the Snow”?|Pieter Bruegel the Elder
+8|Who painted “The Lady of Shalott” (1888)?|John William Waterhouse
+8|Which American architect designed the Wainwright Building and said “form follows function”?|Louis Sullivan
+8|Who painted “Judith Slaying Holofernes” (c. 1620)?|Artemisia Gentileschi
+8|Which Russian-French artist painted “I and the Village”?|Marc Chagall
+8|What is the name of the Italian architect who designed Villa Rotonda and inspired many Western buildings?|Andrea Palladio
+8|Who painted “The Sleeping Gypsy”?|Henri Rousseau
+8|Which artist made the “Merzbau” and collages from trash?|Kurt Schwitters
+8|Which Austrian artist painted “Death and the Maiden” (1915)?|Egon Schiele
+9|Who sculpted “Perseus with the Head of Medusa” in Florence?|Benvenuto Cellini
+9|Which Japanese printmaker created “Thirty-six Views of Mount Fuji”?|Katsushika Hokusai
+9|Who designed the Glasgow School of Art building?|Charles Rennie Mackintosh
+9|Who painted “The Large Bathers” (1906)?|Paul Cézanne
+9|Who painted “Lady Lilith” and was a founder of the Pre-Raphaelite Brotherhood?|Dante Gabriel Rossetti
+9|Which architect designed the Einstein Tower in Potsdam?|Erich Mendelsohn
+9|Who painted “The Isenheim Altarpiece”?|Matthias Grünewald
+10|Who painted “The Battle of San Romano”?|Paolo Uccello
+10|Who designed the Hôtel Tassel in Brussels, an early Art Nouveau house?|Victor Horta
+10|Who painted “The Wedding at Cana” (1563), the largest painting in the Louvre?|Paolo Veronese
+10|Which Russian architect designed the Melnikov House in Moscow?|Konstantin Melnikov
+10|Who painted “The Third-Class Carriage”?|Honoré Daumier
+10|Which Swiss artist painted “The Nightmare” (1781)?|Henry Fuseli
+10|Who painted “The Laughing Cavalier”?|Frans Hals
+10|Which Mexican muralist painted “Man at the Crossroads,” destroyed at Rockefeller Center?|Diego Rivera
+10|Who painted “The Garden of Love” and lush Baroque nudes, a Flemish master?|Peter Paul Rubens
+1|What is the art of decorative handwriting called?|Calligraphy
+2|What is the name of the London bridge with two towers that opens to let ships through?|Tower Bridge
+2|In which tiny country is the Sistine Chapel?|Vatican City
+2|What is the Japanese art of folding paper called?|Origami
+3|What do you call the main church of a bishop’s district?|A cathedral
+3|Which ancient Greek column style is topped with scroll-shaped decorations?|Ionic
+4|What is a print made by carving a design into a block of wood called?|A woodcut
+4|Which is the plainest of the classical Greek column styles?|Doric
+5|What is the name of the art museum in St. Petersburg housed partly in the Winter Palace?|The Hermitage
+5|Which American folk artist began painting seriously in her late 70s?|Grandma Moses
+6|Which Spanish artist painted “The Harlequin’s Carnival”?|Joan Miró
+6|What name, meaning “wild beasts,” was given to early-1900s painters who used bold, unnatural color?|Fauvism
+7|Who sculpted “Bird in Space”?|Constantin Brâncuși
+7|Which German-American artist painted “Washington Crossing the Delaware”?|Emanuel Leutze
+8|Who painted “Ivan the Terrible and His Son Ivan”?|Ilya Repin
+9|Who painted “The Hireling Shepherd”?|William Holman Hunt
+9|Which Japanese architect designed the Church of the Light in Osaka?|Tadao Ando
+9|Who painted “The Embarkation for Cythera”?|Antoine Watteau
+10|Who painted “The Battle of Alexander at Issus” (1529)?|Albrecht Altdorfer

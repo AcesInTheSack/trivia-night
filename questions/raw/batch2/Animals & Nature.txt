@@ -1,0 +1,100 @@
+1|What is a baby cow called?|A calf
+1|What sound does a cow make?|Moo
+1|What animal is known for carrying its house on its back?|The snail
+1|What do bees live in?|A hive
+1|Which farm animal says “oink”?|The pig
+1|What is a baby sheep called?|A lamb
+1|What is a baby chicken called?|A chick
+1|What do you call a baby bear?|A cub
+1|Which farm animal gives us wool?|The sheep
+1|What color are most leaves in summer?|Green
+2|What is a baby goose called?|A gosling
+2|Which animal is known as man’s best friend?|The dog
+2|What is the name for a group of cows?|A herd
+2|Which insect makes silk?|The silkworm
+2|Which masked animal is famous for raiding trash cans?|The raccoon
+2|What is a baby duck called?|A duckling
+2|What is a group of birds called?|A flock
+2|What do you call an animal that eats insects?|An insectivore
+2|What is the name for a male chicken?|A rooster
+3|What is a group of ants called?|A colony
+3|Which sea animal has a hard shell and claws, and turns red when cooked?|The lobster
+3|What is the name for the season when leaves fall from trees?|Autumn (fall)
+3|Which reptile can live over 100 years and carries a shell?|The tortoise
+3|What is a baby whale called?|A calf
+3|Which big cat has spots and is known for climbing trees with its prey?|The leopard
+3|What part of a plant grows underground and soaks up water?|The roots
+3|Which bird is the national bird of the United States?|The bald eagle
+3|What do you call a scientist who studies plants?|A botanist
+3|Which large flightless Australian bird can run about 30 miles per hour?|The emu
+4|What is a group of whales called?|A pod
+4|What is the name of the dog breed known for herding sheep in Scotland, famous from “Lassie”?|The collie (Rough Collie)
+4|What is the name of the process by which a tadpole becomes a frog?|Metamorphosis
+4|Which animal is the largest rodent in the world?|The capybara
+4|What is a baby hare called?|A leveret
+4|What is the name of the flower that follows the sun across the sky?|The sunflower
+4|Which bird is famous for being unable to fly and native to New Zealand?|The kiwi
+4|What is the name for an animal’s winter sleep?|Hibernation
+4|Which animal can regrow its tail after losing it?|The lizard (gecko)
+5|What is a flock of geese in flight called?|A skein
+5|What is a group of hyenas called?|A cackle
+5|What is the name for a female horse?|A mare
+5|What are a walrus’s tusks made of?|Ivory
+5|Which spider is known for its red hourglass marking?|The black widow
+5|Which tree is known for its white bark and grows in northern forests?|The birch
+5|What is the name of a baby seal?|A pup
+5|What is a baby rabbit called?|A kit (or kitten)
+5|What is the name for the season when animals often give birth?|Spring
+5|Which bird is known for laying its eggs in other birds’ nests?|The cuckoo
+6|What is a group of zebras called?|A dazzle
+6|Which bird can turn its head about 270 degrees?|The owl
+6|What is the name of the deadliest animal to humans?|The mosquito
+6|What is the name of the largest cat native to the Americas?|The jaguar
+6|Which conifer loses its needles every autumn?|The larch
+6|What is the name of the plant that closes its leaves when touched?|Mimosa pudica (sensitive plant)
+6|What is the name of the bird with the longest bill?|The Australian pelican
+6|What is a group of turkeys called?|A rafter
+6|What is the name for an animal that is active during the day?|Diurnal
+6|What is the largest species of fox?|The red fox
+7|What is the name of the world’s smallest mammal by mass?|The Etruscan shrew
+7|What is a group of hippos called?|A bloat
+7|Which animal has the largest brain of any animal?|The sperm whale
+7|What is the only marsupial native to North America?|The Virginia opossum
+7|What is the name of the tree that produces cork?|The cork oak
+7|What is the name for a group of kangaroos?|A mob
+7|Which insect can carry 50 times its body weight?|The ant
+7|What is the name of the fish that can inflate itself?|The pufferfish
+7|Which mammal can rest half of its brain at a time while swimming?|The dolphin
+7|What color is a hippo’s “sweat”?|Reddish (pink-red)
+8|What is a group of parrots called?|A pandemonium
+8|What is the name of the largest bird of prey in North America?|The California condor
+8|What is the name of the fish that can walk on land and breathe air, found in Asia?|The mudskipper
+8|Which bottle-shaped tree is famous in Madagascar and mainland Africa?|The baobab
+8|What is the name of the animal whose name means “earth pig” in Afrikaans?|The aardvark
+8|What is the term for animals that are cold-blooded?|Ectotherms
+8|What is the name of the bird famous for mimicking chainsaws and camera shutters?|The lyrebird
+8|What is the name of the largest jellyfish species?|The lion’s mane jellyfish
+8|What is the name of the plant that produces vanilla?|The vanilla orchid
+8|Which animal has square-shaped droppings?|The wombat
+9|Which large, slow plant-eating marine mammal of Florida is nicknamed the “sea cow”?|The manatee
+9|What is a group of badgers called?|A cete
+9|What is the name of the world’s rarest big cat, found in Russia’s Far East?|The Amur leopard
+9|What is the name of the fish that can produce electric shocks of up to 860 volts?|The electric eel
+9|Which brightly colored frog has toxic skin once used on hunting darts?|The poison dart frog
+9|What is the name of the tree whose seeds are used to make chocolate?|The cacao tree
+9|What is the name of the mammal with the longest migration on land?|The caribou
+9|What is the name for a female ferret?|A jill
+9|What is the name of the antelope that can leap up to 10 feet high, “pronking”?|The springbok
+9|What is the name of the octopus that mimics other sea animals?|The mimic octopus
+10|What is the name of the plant with the world’s largest single leaf, found in the Amazon?|The giant water lily (Victoria amazonica)
+10|What fungus takes over ants’ bodies, earning the nickname “zombie-ant fungus”?|Ophiocordyceps
+10|What is the name of the African bird that leads humans to beehives?|The honeyguide
+10|What is the name of the shark that can live in fresh water and travel up rivers?|The bull shark
+10|What is the name of the animal that has the highest blood pressure?|The giraffe
+10|What is the name of the tiny animal that can survive in space?|The tardigrade
+10|Which fish starts life as male and can become female?|The clownfish
+10|What is the name of the bird whose males perform a “moonwalk” dance?|The red-capped manakin
+10|What is the name of the largest species of salamander?|The South China giant salamander
+10|What is the name of the plant known as the corpse flower for its smell?|Titan arum
+2|Which legless reptile sheds its skin?|The snake
+4|What is the only mammal covered in scales?|The pangolin

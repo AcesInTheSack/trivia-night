@@ -1,0 +1,100 @@
+1|In which sport would you use a bat and a wicket?|Cricket
+1|What shape is a rugby ball?|Oval
+1|Which winter sport involves riding down a mountain on a single board?|Snowboarding
+1|How many points is a free throw worth in basketball?|One
+1|In which sport do you ride waves on a board?|Surfing
+1|What color is the center of an archery target, worth the most points?|Gold (yellow)
+1|In which sport do athletes compete on a balance beam?|Gymnastics
+1|What do you call the person who officiates a baseball game?|An umpire
+1|In which sport would you perform a “cannonball” into a pool for fun, or a “pike” in competition?|Diving
+1|What is the name of the area where a boxing match takes place?|The ring
+2|In golf, what club is used to roll the ball into the hole on the green?|The putter
+2|Which country invented the sport of baseball, according to popular history?|The United States
+2|In soccer, which player is allowed to use their hands inside the penalty area?|The goalkeeper
+2|What water sport has two teams trying to throw a ball into a goal while swimming?|Water polo
+2|In tennis, what is it called when a server wins a point without the receiver touching the ball?|An ace
+2|How many players are on a hockey team on the ice, including the goalie?|Six
+2|What sport is played at Fenway Park?|Baseball
+2|In which sport do teams compete for the Webb Ellis Cup?|Rugby union
+2|What is the name of the famous annual car race held in Indianapolis?|The Indianapolis 500
+3|Which country hosted the 2018 Winter Olympics in PyeongChang?|South Korea
+3|In which sport are the Harlem Globetrotters famous?|Basketball
+3|How many minutes are in a regulation NBA game?|48
+3|Which tennis star won 23 Grand Slam singles titles and four Olympic golds?|Serena Williams
+3|In soccer, what is it called when a player kicks the ball into their own net?|An own goal
+3|Which NFL team plays its home games at Lumen Field?|The Seattle Seahawks
+3|What is the maximum number of clubs a golfer can carry in a bag during a round?|14
+3|Which American sprinter won four gold medals at the 1984 Olympics?|Carl Lewis
+3|In which sport would you perform a “triple axel”?|Figure skating
+3|What city hosts the Wimbledon Championships?|London
+4|Which sport’s championship is called the World Series?|Baseball
+4|Which tennis player has the nickname “Rafa”?|Rafael Nadal
+4|In which city were the 1984 Summer Olympics held?|Los Angeles
+4|Which NBA player was nicknamed “Magic”?|Earvin Johnson
+4|What is the name of the sport played on horseback with mallets?|Polo
+4|Which country won the 2014 FIFA World Cup?|Germany
+4|How many points is a try worth in rugby union?|Five
+4|Which NBA star was nicknamed “The Black Mamba”?|Kobe Bryant
+4|What is the length of a marathon’s shorter cousin, the half marathon, in miles?|13.1 miles
+4|Which NFL quarterback won seven Super Bowls?|Tom Brady
+5|Which country won the most gold medals at the 2008 Beijing Olympics?|China
+5|Which baseball player is known as “Mr. October”?|Reggie Jackson
+5|In which city is the Maracanã Stadium?|Rio de Janeiro
+5|Who was the first woman to compete in the Indianapolis 500?|Janet Guthrie
+5|Which tennis tournament is played at Flushing Meadows?|The U.S. Open
+5|Which NHL team has won the most Stanley Cups?|The Montreal Canadiens
+5|In cricket, what is it called when a batter is out for zero runs?|A duck
+5|Which country did the martial art taekwondo come from?|South Korea
+5|Which baseball player was known as “The Say Hey Kid”?|Willie Mays
+5|In which sport do players use a “cue”?|Billiards (pool or snooker)
+6|Which golfer won 11 PGA Tour events in a row in 1945?|Byron Nelson
+6|Which city hosted the 2000 Summer Olympics?|Sydney
+6|Which NBA center was nicknamed “Shaq”?|Shaquille O’Neal
+6|Which American swimmer won seven gold medals at the 1972 Munich Olympics?|Mark Spitz
+6|Which country has won the most Olympic gold medals in ice hockey?|Canada
+6|Which famous British horse race is run at Epsom Downs?|The Epsom Derby
+6|Which Czech-born tennis player won nine Wimbledon singles titles?|Martina Navratilova
+6|Which racing circuit hosts the British Grand Prix?|Silverstone
+6|Which Irish sport uses a stick called a hurley?|Hurling
+6|Which NFL team won four Super Bowls in the 1970s?|The Pittsburgh Steelers
+7|Which baseball team ended an 86-year championship drought in 2004?|The Boston Red Sox
+7|Which American figure skater won Olympic gold in 1968?|Peggy Fleming
+7|Which country won the first Davis Cup in 1900?|The United States
+7|Which jockey rode Seattle Slew to the 1977 Triple Crown?|Jean Cruguet
+7|Which boxer lost the heavyweight title in the 1974 “Rumble in the Jungle”?|George Foreman
+7|In which city were the 1964 Summer Olympics held?|Tokyo
+7|Which tennis player won Wimbledon five times in a row from 1976 to 1980?|Björn Borg
+7|Which basketball team did Larry Bird play for?|The Boston Celtics
+7|What color jersey does the overall leader of the Tour de France wear?|Yellow
+7|Which country won the first FIFA World Cup held in Europe, in 1934?|Italy
+8|Which baseball player hit 61 home runs in 1961?|Roger Maris
+8|Which Ethiopian runner won the Olympic marathon barefoot in 1960?|Abebe Bikila
+8|Which coach won the most games in NFL history?|Don Shula
+8|Which country won the first Olympic men’s basketball tournament in 1936?|The United States
+8|Which NBA player won the most championships as a player, 11?|Bill Russell
+8|Which golfer was nicknamed “The King”?|Arnold Palmer
+8|What is the name of the trophy awarded in the Ryder Cup's women's equivalent?|The Solheim Cup
+8|Which female athlete won gold in track and field at the 1932 Olympics and later became a golf champion?|Babe Didrikson Zaharias
+8|Which race car driver won seven Formula One world championships first, matched later by Lewis Hamilton?|Michael Schumacher
+8|Which hockey player was nicknamed “Mr. Hockey”?|Gordie Howe
+9|Which golfer won the first Masters Tournament in 1934?|Horton Smith
+9|Which country hosted the 1966 FIFA World Cup and won it?|England
+9|Which boxer was known as “The Brown Bomber”?|Joe Louis
+9|Who was the first woman to win an Olympic gold medal in the modern Games, in tennis in 1900?|Charlotte Cooper
+9|Which baseball pitcher won 511 games, the career record?|Cy Young
+9|Which NFL running back was known as “Sweetness”?|Walter Payton
+9|Which city hosted the 1936 Winter Olympics in Germany?|Garmisch-Partenkirchen
+9|Which Australian woman won the tennis calendar Grand Slam in 1970?|Margaret Court
+9|Which country won the first ever Winter Olympics gold medal, in speed skating, in 1924?|The United States (Charles Jewtraw)
+10|Who won the first NBA Finals MVP award, in 1969, on the losing team?|Jerry West
+10|Which country won the first Olympic gold in men’s field hockey, in 1908?|England
+10|Which athlete won the 1912 Olympic pentathlon and decathlon?|Jim Thorpe
+10|Which baseball team won the first World Series in 1903?|The Boston Americans
+10|Who was the first Black heavyweight boxing champion?|Jack Johnson
+10|Which country won the first Ice Hockey World Championship held separately from the Olympics, in 1930?|Canada
+10|Which golfer won the first U.S. Open in 1895?|Horace Rawlins
+10|Which tennis player won the first Wimbledon men’s title in 1877?|Spencer Gore
+10|Which horse won the first Triple Crown in 1919?|Sir Barton
+10|Which country hosted the first Asian Games in 1951?|India
+2|Which sport features events called slalom and downhill?|Alpine skiing
+9|Which boxer was the first to win world titles in eight weight divisions?|Manny Pacquiao

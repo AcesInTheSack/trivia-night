@@ -1,0 +1,100 @@
+1|Who wrote “Where the Sidewalk Ends”?|Shel Silverstein
+1|In “Goldilocks and the Three Bears,” whose porridge is “just right”?|Baby Bear’s
+1|In Aesop’s fable, which animal wins the race against the hare?|The tortoise
+1|In the nursery rhyme, who sat on a wall and had a great fall?|Humpty Dumpty
+1|In “The Wizard of Oz” books, what color is the brick road?|Yellow
+1|Who wrote “Goodnight Moon”?|Margaret Wise Brown
+1|What kind of animal is Paddington?|A bear
+1|Which fairy-tale character spins straw into gold?|Rumpelstiltskin
+1|In the fairy tale, who climbs a beanstalk to a giant’s castle?|Jack
+1|What is the name of the curious monkey in a series of children’s books?|Curious George
+2|Who wrote “The Wonderful Wizard of Oz”?|L. Frank Baum
+2|Who wrote “Anne of Green Gables”?|L.M. Montgomery
+2|Who wrote the “Diary of a Wimpy Kid” books?|Jeff Kinney
+2|Who wrote “The Secret Garden”?|Frances Hodgson Burnett
+2|In “The Jungle Book,” what is the name of the boy raised by wolves?|Mowgli
+2|Who wrote “Treasure Island”?|Robert Louis Stevenson
+2|Who wrote “Twilight”?|Stephenie Meyer
+2|What pen name appears as the author of the Nancy Drew books?|Carolyn Keene
+2|What is the name of Tom Sawyer’s friend who sails down the Mississippi on a raft?|Huckleberry Finn
+2|Who wrote “Percy Jackson and the Olympians”?|Rick Riordan
+3|Who wrote “The Raven”?|Edgar Allan Poe
+3|Who wrote “The Phantom Tollbooth”?|Norton Juster
+3|Who wrote “The Hobbit”?|J.R.R. Tolkien
+3|Who wrote “Little House on the Prairie”?|Laura Ingalls Wilder
+3|Who wrote “The Call of the Wild”?|Jack London
+3|Who wrote “The Outsiders”?|S.E. Hinton
+3|Who wrote “A Wrinkle in Time”?|Madeleine L’Engle
+3|Who wrote “Sense and Sensibility”?|Jane Austen
+3|Who wrote “The Picture of Dorian Gray”?|Oscar Wilde
+3|Who wrote “The Hound of the Baskervilles”?|Arthur Conan Doyle
+4|Who wrote “Lord of the Flies”?|William Golding
+4|Who wrote “The Color Purple”?|Alice Walker
+4|Who wrote “Robinson Crusoe”?|Daniel Defoe
+4|Who wrote “The Time Machine”?|H.G. Wells
+4|Who wrote “Gulliver’s Travels”?|Jonathan Swift
+4|Who wrote “Watership Down”?|Richard Adams
+4|Who wrote the poem “Because I could not stop for Death”?|Emily Dickinson
+4|Who wrote “The Shining” novel?|Stephen King
+4|Who wrote “East of Eden”?|John Steinbeck
+4|Who wrote “The Jungle” (1906)?|Upton Sinclair
+5|Who wrote “Twenty Thousand Leagues Under the Seas”?|Jules Verne
+5|Who wrote “The Road” (2006)?|Cormac McCarthy
+5|Who wrote “Moby-Dick”?|Herman Melville
+5|Who wrote “Siddhartha”?|Hermann Hesse
+5|Who wrote “The Bell Jar”?|Sylvia Plath
+5|Who wrote “The Turn of the Screw”?|Henry James
+5|Who wrote “The Kite Runner”?|Khaled Hosseini
+5|Who wrote “The Hitchhiker’s Guide to the Galaxy”?|Douglas Adams
+5|Who wrote “Atlas Shrugged”?|Ayn Rand
+5|Who wrote the poem “Do not go gentle into that good night”?|Dylan Thomas
+6|Who wrote “Vanity Fair” (1848)?|William Makepeace Thackeray
+6|Who wrote “The Prince” (1532)?|Niccolò Machiavelli
+6|Who wrote “Native Son”?|Richard Wright
+6|Who wrote “A Clockwork Orange”?|Anthony Burgess
+6|Who wrote “Rebecca” (1938)?|Daphne du Maurier
+6|Who wrote “The Name of the Rose”?|Umberto Eco
+6|Who wrote “Infinite Jest”?|David Foster Wallace
+6|Who wrote “The Bonfire of the Vanities”?|Tom Wolfe
+6|Who wrote “Midnight’s Children”?|Salman Rushdie
+6|Who wrote “The Good Earth”?|Pearl S. Buck
+7|Who wrote “Candide”?|Voltaire
+7|Who wrote “Faust”?|Johann Wolfgang von Goethe
+7|Who wrote “Les Fleurs du mal”?|Charles Baudelaire
+7|Who wrote “The Charterhouse of Parma”?|Stendhal
+7|Who wrote the play “Six Characters in Search of an Author”?|Luigi Pirandello
+7|Who wrote “Fathers and Sons” (1862)?|Ivan Turgenev
+7|Who wrote “Gilead,” winner of the 2005 Pulitzer Prize?|Marilynne Robinson
+7|Who wrote “The Wind-Up Bird Chronicle”?|Haruki Murakami
+7|Who wrote “Howards End”?|E.M. Forster
+7|Who wrote “The Sound of Waves”?|Yukio Mishima
+8|Who wrote “Germinal”?|Émile Zola
+8|Who wrote “Season of Migration to the North”?|Tayeb Salih
+8|Who wrote “Under the Volcano”?|Malcolm Lowry
+8|Who wrote “The Good Soldier” (1915)?|Ford Madox Ford
+8|Who wrote “Wide Sargasso Sea”?|Jean Rhys
+8|Who wrote “Nausea” (“La Nausée”)?|Jean-Paul Sartre
+8|Who wrote “The Heart Is a Lonely Hunter”?|Carson McCullers
+8|Who wrote “Snow Country”?|Yasunari Kawabata
+8|Who wrote “The Poisonwood Bible”?|Barbara Kingsolver
+8|Who wrote the play “Long Day’s Journey into Night”?|Eugene O’Neill
+9|Who wrote “Dangerous Liaisons” (1782)?|Pierre Choderlos de Laclos
+9|Who wrote “Hopscotch” (“Rayuela”)?|Julio Cortázar
+9|Who wrote “The Book of Laughter and Forgetting”?|Milan Kundera
+9|Who wrote “Berlin Alexanderplatz”?|Alfred Döblin
+9|Who wrote “The Makioka Sisters”?|Jun’ichirō Tanizaki
+9|Who wrote “Effi Briest”?|Theodor Fontane
+9|Who wrote “The Radetzky March”?|Joseph Roth
+9|Who wrote “A House for Mr Biswas”?|V.S. Naipaul
+9|Who wrote “The Story of the Stone” (“Dream of the Red Chamber”)?|Cao Xueqin
+9|Who wrote “Kristin Lavransdatter”?|Sigrid Undset
+10|Who wrote “Mahabharata,” according to tradition?|Vyasa
+10|Who wrote “Orlando Furioso”?|Ludovico Ariosto
+10|Who wrote “The Rubáiyát” as translated by Edward FitzGerald?|Omar Khayyam
+10|Who wrote “The Conference of the Birds”?|Farid ud-Din Attar
+10|Who wrote “Rasselas” (1759)?|Samuel Johnson
+10|Who wrote “Pan Tadeusz”?|Adam Mickiewicz
+10|Who wrote “The Good Soldier Švejk”?|Jaroslav Hašek
+10|Who wrote “Zazie in the Metro”?|Raymond Queneau
+10|Who wrote “The Tale of Kieu”?|Nguyễn Du
+10|Who wrote the “Canzoniere,” a sonnet sequence addressed to Laura?|Petrarch

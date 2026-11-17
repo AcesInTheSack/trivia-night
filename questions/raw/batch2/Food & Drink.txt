@@ -1,0 +1,100 @@
+1|What is the main ingredient in ketchup?|Tomatoes
+1|What fruit is famous for keeping the doctor away?|An apple
+1|What yellow fruit do monkeys famously love?|Bananas
+1|What do you call a frozen dessert made from cream and sugar, served in a cone?|Ice cream
+1|What breakfast food is made from batter cooked on a griddle and served with syrup?|Pancakes
+1|Which drink is made from roasted beans and contains caffeine?|Coffee
+1|What is the main ingredient in popcorn?|Corn
+1|What color is a ripe lime?|Green
+1|What food do you make by churning cream?|Butter
+1|What do you call bread that has been browned with heat?|Toast
+2|What country does the dish tacos come from?|Mexico
+2|What kind of food is a baguette?|Bread
+2|Which nut has a hard shell and is often eaten at Christmas, cracked with a nutcracker?|Walnuts
+2|What type of food is cheddar?|A cheese
+2|What is the Italian dish of layered pasta sheets, meat sauce and cheese?|Lasagna
+2|What is the main ingredient in coleslaw?|Cabbage
+2|What citrus fruit is used to make marmalade most often?|Oranges (Seville oranges)
+2|What drink is made by fermenting grapes?|Wine
+2|What is the name of the Japanese noodle soup with broth, often pork-based?|Ramen
+2|What is the name of the Indian bread baked in a tandoor oven?|Naan
+3|What is the main ingredient in a traditional French onion soup?|Onions
+3|Which country is dim sum from?|China
+3|What is the main ingredient in a classic Bloody Mary besides vodka?|Tomato juice
+3|What is the name of the Greek dish of meat on a skewer, often with pita?|Souvlaki
+3|What fruit is dried to make prunes?|Plums
+3|What is the name of the Spanish fried dough sticks often dipped in chocolate?|Churros
+3|What is the name of the Italian ice cream that is denser than American ice cream?|Gelato
+3|What herb is used in a mojito?|Mint
+4|What is the name of hand-pressed vinegared rice topped with a slice of fish?|Nigiri
+4|What is the name of the Chinese dish of crispy roast duck served with pancakes?|Peking duck
+4|What gives traditional pumpernickel bread its dark color?|Rye (and long baking)
+4|Which spirit is made from fermented sugarcane or molasses?|Rum
+4|What is the name of the Mexican dish of rolled tortillas covered in chili sauce?|Enchiladas
+4|Which fruit is used to make kirsch?|Cherries
+4|What is the name of the Italian dish of thin raw beef slices?|Carpaccio
+4|What is the name of the Indian rice dish layered with meat and spices?|Biryani
+4|What is the name of the Belgian dish of mussels served with fries?|Moules-frites
+5|What is the name of the Vietnamese sandwich served on a baguette?|Bánh mì
+5|What cut of beef is used for a traditional filet mignon?|The tenderloin
+5|What is the name of the sweet Italian wine-and-egg custard?|Zabaglione
+5|What is the name of the Moroccan grain dish made from tiny balls of semolina?|Couscous
+5|Which spice comes from the inner bark of a tree?|Cinnamon
+5|What liqueur gives a Grasshopper cocktail its green color?|Crème de menthe
+5|What is the name of the Spanish spicy cured pork sausage?|Chorizo
+5|What is the name of the Indian dish of chicken in a creamy, spiced tomato sauce, often said to be invented in Britain?|Chicken tikka masala
+5|What is the main ingredient in a Spanish tortilla?|Eggs and potatoes
+5|What is the name of the Jewish braided bread eaten on the Sabbath?|Challah
+6|What is the name of the Japanese rice wine?|Sake
+6|What is the main ingredient in the Middle Eastern dish shakshuka?|Eggs (poached in tomato sauce)
+6|What is the name of the French cooking term for food cut into thin matchsticks?|Julienne
+6|What is the name of the Indonesian fried rice dish?|Nasi goreng
+6|Which country does the cheese Gouda come from?|The Netherlands
+6|What is the name of the Italian cheese with blue veins?|Gorgonzola
+6|What is the name of the bitter orange Italian aperitif used in a spritz?|Aperol
+6|What is the name of the Hawaiian feast featuring a whole pig cooked in an underground oven?|A luau (kalua pig)
+6|Which grape is used to make Champagne along with Chardonnay and Pinot Meunier?|Pinot Noir
+6|What is the name of the Korean dish of marinated grilled beef?|Bulgogi
+7|What is the name of the Swiss cheese with large holes?|Emmental
+7|What is the name of the French technique of setting alcohol aflame in a pan?|Flambé
+7|Which Spanish region is famous for sherry?|Andalusia (Jerez)
+7|What is the name of the Japanese sweet rice cake?|Mochi
+7|What is the name of the Mexican spirit made from agave, often smoky?|Mezcal
+7|What is the main ingredient of the Indian dish palak paneer’s green sauce?|Spinach
+7|What is the name of the British dessert of sponge, custard, fruit and cream in layers?|Trifle
+7|What is the name of the French dish of slow-cooked beans with duck and sausage?|Cassoulet
+7|What is the name of the Italian sparkling wine from the Veneto region?|Prosecco
+8|What is the name of the Japanese grilled skewers of chicken?|Yakitori
+8|What is the name of the anise-flavored Greek spirit?|Ouzo
+8|What is the name of the Polish dumplings often filled with potato and cheese?|Pierogi
+8|What is the name of the Peruvian purple corn drink?|Chicha morada
+8|What is the name of the French term for a cooked mixture of flour and fat used to thicken sauces?|Roux
+8|What is the name of the Brazilian black bean and pork stew?|Feijoada
+8|What is the name of the Scottish dish of smoked haddock soup?|Cullen skink
+8|What is the name of the Caribbean spice mix and grilling style from Jamaica?|Jerk
+8|What is the name of the Italian sauce made from anchovies and garlic, served warm with vegetables?|Bagna càuda
+8|What is the name of the Turkish dumplings served with yogurt and garlic?|Mantı
+9|What is the name of the Japanese fermented rice-bran pickles?|Nukazuke
+9|What is the name of the Roman sheep’s-milk cheese often grated on pasta?|Pecorino Romano
+9|Which country is famous for Malbec wine from the Mendoza region?|Argentina
+9|What is the name of the Indian spice blend whose name means “warm spice mix”?|Garam masala
+9|What is the name of the Lebanese spice blend of thyme, sumac and sesame?|Za’atar
+9|What is the name of the West African dish of rice cooked in tomato sauce?|Jollof rice
+9|What is the name of the Basque small snacks on bread, held with a skewer?|Pintxos
+9|Which Viennese chocolate cake with apricot jam was created at a famous hotel?|Sachertorte
+9|What is the name of the Russian cold soup made with kvass?|Okroshka
+9|What grain is used to make the Japanese spirit shōchū most commonly?|Barley, sweet potato or rice
+10|What is the name of the Italian dessert wine made from dried grapes in Tuscany?|Vin Santo
+10|What is the name of the Danish open-faced sandwiches?|Smørrebrød
+10|What is the name of the Sichuan spice that makes your mouth tingle?|Sichuan peppercorn
+10|What is the name of the Mexican corn fungus considered a delicacy?|Huitlacoche
+10|What is the name of the French liqueur made from blackcurrants, used in a Kir?|Crème de cassis
+10|What is the name of the Japanese dish of thin slices of raw horse meat?|Basashi
+10|What is the name of the Sicilian sweet-and-sour eggplant dish?|Caponata
+10|What is the name of the Scotch whisky region on an island famous for peaty whiskies?|Islay
+10|What is the name of the Filipino dessert of shaved ice with mixed sweets?|Halo-halo
+10|What is the name of the Indian sweet of fried milk balls in syrup?|Gulab jamun
+3|What is the name of the warm Mexican dip made from melted cheese?|Queso (chile con queso)
+3|What are Italian potato dumplings called?|Gnocchi
+4|Which Swiss chocolate bar is shaped like a row of mountain peaks?|Toblerone
+7|What is the name of the Portuguese custard tart?|Pastel de nata

@@ -1,0 +1,100 @@
+1|Which instrument has 47 strings and is played by plucking, often in orchestras?|The harp
+1|Which singer is known for “Firework” and “Roar”?|Katy Perry
+1|What do you call a group of three musicians?|A trio
+1|Which instrument do you blow into and press valves on, often heard in jazz?|The trumpet
+1|Which pop star sang “Halo” and “Single Ladies”?|Beyoncé
+1|What is the name for the words of a song?|Lyrics
+1|Which instrument is a large brass horn that plays the lowest notes in a band?|The tuba
+1|Which singer is famous for “Happy” from “Despicable Me 2”?|Pharrell Williams
+1|What is the name of the stick a conductor waves?|A baton
+1|Which family group sang “ABC” and “I Want You Back”?|The Jackson 5
+2|Who sang “Shape of You”?|Ed Sheeran
+2|Who sang “Rocket Man”?|Elton John
+2|Which band sang “Livin’ on a Prayer”?|Bon Jovi
+2|Which singer is known as the “Piano Man”?|Billy Joel
+2|Which boy band sang “Bye Bye Bye”?|NSYNC
+2|Which country singer sang “Before He Cheats”?|Carrie Underwood
+2|Which band sang “Song 2”?|Blur
+2|Who sang “Bad Guy” in 2019?|Billie Eilish
+2|Which singer recorded “I Will Always Love You” for “The Bodyguard”?|Whitney Houston
+2|Which Canadian singer recorded “My Heart Will Go On”?|Céline Dion
+3|Which band sang “Africa” in 1982?|Toto
+3|Which band released “Stairway to Heaven”?|Led Zeppelin
+3|What is the interval from one note to the next note with the same name, such as C to C?|An octave
+3|Which rapper had a hit with “Gin and Juice”?|Snoop Dogg
+3|Which band sang “Smoke on the Water”?|Deep Purple
+3|Who had a 1983 hit with “Girls Just Want to Have Fun”?|Cyndi Lauper
+3|Which country star sang “Friends in Low Places”?|Garth Brooks
+3|Which band, fronted by Gwen Stefani, sang “Don’t Speak”?|No Doubt
+3|Which girl group sang “Say My Name”?|Destiny’s Child
+3|Which rapper and producer founded Death Row Records with Suge Knight?|Dr. Dre
+4|Which crooner sang “White Christmas” in 1942?|Bing Crosby
+4|Who composed the opera “Carmen”?|Georges Bizet
+4|Which band released “London Calling”?|The Clash
+4|Who composed the “Water Music” suites?|George Frideric Handel
+4|Which guitarist was known as “Slowhand”?|Eric Clapton
+4|What does “a cappella” mean?|Singing without instruments
+4|Who had a hit with “Superstition” in 1972?|Stevie Wonder
+4|Who wrote and recorded “Fast Car” in 1988?|Tracy Chapman
+4|Which rapper, known as Biggie, released “Juicy”?|The Notorious B.I.G.
+5|Which singer was known as “The Queen of Disco”?|Donna Summer
+5|Which Beatles member wrote “Imagine” as a solo artist?|John Lennon
+5|Who composed the “Peer Gynt” suites?|Edvard Grieg
+5|What is the term for the speed marking meaning “walking pace”?|Andante
+5|Which punk band released “Blitzkrieg Bop”?|The Ramones
+5|Which rapper’s debut album was “Illmatic”?|Nas
+5|Who recorded “Gangsta’s Paradise”?|Coolio
+5|Which band recorded “Free Bird”?|Lynyrd Skynyrd
+5|Which Jamaican music style came before reggae, with a fast upbeat rhythm?|Ska
+5|Which singer was the lead vocalist of The Police?|Sting
+6|Who composed “The Marriage of Figaro”?|Wolfgang Amadeus Mozart
+6|Which jazz trumpeter was known for his puffed-out cheeks and bent horn?|Dizzy Gillespie
+6|Which band was formed by Roger Waters, David Gilmour, Nick Mason and Richard Wright?|Pink Floyd
+6|Which singer was known as the “High Priestess of Soul”?|Nina Simone
+6|What is the name for a piece of music for full orchestra in four movements?|A symphony
+6|Who composed “Danse macabre”?|Camille Saint-Saëns
+6|Which country singer sang “Coal Miner’s Daughter”?|Loretta Lynn
+6|Which band released “Paranoid” in 1970?|Black Sabbath
+6|Which singer was born Declan MacManus?|Elvis Costello
+6|Which electronic duo wore robot helmets and released “Get Lucky”?|Daft Punk
+7|Who composed the opera “Lohengrin”?|Richard Wagner
+7|Which jazz bandleader composed “Mood Indigo” and “Sophisticated Lady”?|Duke Ellington
+7|Which singer-songwriter wrote “Hallelujah”?|Leonard Cohen
+7|What is the term for a composition in which a melody is repeated by voices entering one after another, like “Row, Row, Row Your Boat”?|A round (canon)
+7|Which band released the album “Disintegration” in 1989?|The Cure
+7|Which singer is known as the “Empress of the Blues”?|Bessie Smith
+7|Which Austrian composer wrote 104 symphonies and is called the “Father of the Symphony”?|Joseph Haydn
+7|Which band released “Blue Monday” in 1983?|New Order
+7|Which singer recorded the album “Tapestry” in 1971?|Carole King
+7|Who composed “Appalachian Spring”?|Aaron Copland
+8|Which composer wrote “Also sprach Zarathustra”?|Richard Strauss
+8|Which jazz saxophonist recorded “A Love Supreme”?|John Coltrane
+8|What is the term for a male singer with an unusually high voice range, above tenor?|Countertenor
+8|Which band released “Remain in Light” in 1980?|Talking Heads
+8|Which composer wrote “The Lark Ascending”?|Ralph Vaughan Williams
+8|Which singer was known as “The Godmother of Punk”?|Patti Smith
+8|Who composed “The Girl from Ipanema”?|Antônio Carlos Jobim
+8|Which Polish composer wrote many nocturnes and mazurkas for piano?|Frédéric Chopin
+8|Which hip-hop group released “It Takes a Nation of Millions to Hold Us Back”?|Public Enemy
+8|What is the term for an opera’s instrumental introduction?|An overture
+9|Which composer wrote the “Enigma Variations”?|Edward Elgar
+9|Which jazz drummer led the Jazz Messengers?|Art Blakey
+9|Which composer wrote the ballet “Romeo and Juliet” (1935)?|Sergei Prokofiev
+9|Which singer was known as “The Divine One”?|Sarah Vaughan
+9|Who composed “The Sorcerer’s Apprentice” (1897)?|Paul Dukas
+9|What is the name of the Portuguese music style of mournful songs?|Fado
+9|Which composer wrote “Finlandia”?|Jean Sibelius
+9|Which band’s 1967 debut album, produced by a famous pop artist, had a banana on the cover?|The Velvet Underground
+9|Who composed “The Moldau” (“Vltava”)?|Bedřich Smetana
+9|Which country singer recorded “Crazy,” written by Willie Nelson?|Patsy Cline
+10|Who composed the opera “Pelléas et Mélisande”?|Claude Debussy
+10|Which minimalist composer wrote “Music for 18 Musicians”?|Steve Reich
+10|What is the name of the Japanese bamboo flute?|The shakuhachi
+10|Which composer wrote the song cycle “Winterreise”?|Franz Schubert
+10|Which composer wrote “The Cunning Little Vixen”?|Leoš Janáček
+10|Which jazz pianist recorded “The Köln Concert” in 1975?|Keith Jarrett
+10|Which medieval abbess composed chants and wrote on science and theology?|Hildegard of Bingen
+10|Which composer wrote “Spiegel im Spiegel”?|Arvo Pärt
+10|What is the name of the West African griot harp-lute with 21 strings?|The kora
+10|Which composer wrote “Einstein on the Beach”?|Philip Glass
+4|Which reggae singer starred in and recorded “The Harder They Come”?|Jimmy Cliff

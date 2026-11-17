@@ -1,0 +1,100 @@
+1|What is the capital of Belgium?|Brussels
+1|Which U.S. state is known as the Lone Star State?|Texas
+1|What is the smallest ocean?|The Arctic Ocean
+1|Which country is home to kangaroos and koalas?|Australia
+1|Which U.S. state is shaped like a mitten?|Michigan
+1|What is the capital of Scotland?|Edinburgh
+1|Which U.S. city is known as the Big Apple?|New York City
+1|What is the name of the large waterfall on the U.S.–Canada border?|Niagara Falls
+1|How many continents are there?|Seven
+2|What is the capital of the Netherlands?|Amsterdam
+2|Which U.S. state is famous for potatoes?|Idaho
+2|What is the capital of Sweden?|Stockholm
+2|What is the capital of Austria?|Vienna
+2|Which U.S. state is called the Golden State?|California
+2|What is the capital of Poland?|Warsaw
+2|Which country’s flag is a red circle on a white background?|Japan
+2|What is the capital of Denmark?|Copenhagen
+2|Which mountain range runs through Nepal and Tibet?|The Himalayas
+3|What is the capital of India?|New Delhi
+3|What is the capital of Thailand?|Bangkok
+3|Which U.S. state is home to Mount Rushmore?|South Dakota
+3|What is the capital of Saudi Arabia?|Riyadh
+3|Which country has the city of Marrakech?|Morocco
+3|What is the capital of Chile?|Santiago
+3|What is the name of the mountain range that runs down western North America through Colorado?|The Rocky Mountains
+3|What is the capital of Hungary?|Budapest
+3|Which body of water lies between Great Britain and France?|The English Channel
+3|What is the capital of Cuba?|Havana
+4|What is the capital of Indonesia?|Jakarta
+4|What is the capital of Venezuela?|Caracas
+4|What is the capital of Washington State?|Olympia
+4|What is the capital of Iran?|Tehran
+4|Which river is the longest in the United States?|The Missouri River
+4|What is the capital of Ukraine?|Kyiv
+4|Which European city is famous for its canals and gondolas?|Venice
+4|What is the capital of Czechia?|Prague
+4|What is the capital of Bulgaria?|Sofia
+4|What is the capital of Romania?|Bucharest
+5|What is the capital of Malaysia?|Kuala Lumpur
+5|What is the capital of Ethiopia?|Addis Ababa
+5|Which country is the island of Bali part of?|Indonesia
+5|What is the capital of Qatar?|Doha
+5|What is the highest mountain in North America?|Denali
+5|What is the capital of Jamaica?|Kingston
+5|Which Great Lake lies entirely within the United States?|Lake Michigan
+5|What is the capital of Syria?|Damascus
+5|What is the name of the strait between Spain and Morocco?|The Strait of Gibraltar
+5|What is Bolivia’s constitutional capital?|Sucre
+6|What is the capital of Afghanistan?|Kabul
+6|What is the capital of Ghana?|Accra
+6|Which is the largest island in the Mediterranean Sea?|Sicily
+6|What is the capital of Croatia?|Zagreb
+6|What is the name of the desert that covers much of Botswana?|The Kalahari Desert
+6|What is the capital of Serbia?|Belgrade
+6|Which canal connects the Mediterranean and the Red Sea?|The Suez Canal
+6|What is the capital of Senegal?|Dakar
+6|What is the capital of Tunisia?|Tunis
+6|What is the capital of Bangladesh?|Dhaka
+7|What is the capital of Nepal?|Kathmandu
+7|What is the capital of Cambodia?|Phnom Penh
+7|Which river flows through Cologne and Düsseldorf?|The Rhine
+7|What is the capital of Paraguay?|Asunción
+7|What is the largest country in Africa by area?|Algeria
+7|What is the capital of Lithuania?|Vilnius
+7|What is the capital of Jordan?|Amman
+7|What is the capital of Estonia?|Tallinn
+7|What is the capital of Sudan?|Khartoum
+7|What is the name of the narrow strip of land connecting North and South America?|The Isthmus of Panama
+8|What is the capital of Laos?|Vientiane
+8|What is the capital of Armenia?|Yerevan
+8|What is the capital of Mozambique?|Maputo
+8|What is the name of the lake shared by Peru and Bolivia, one of the highest navigable lakes in the world?|Lake Titicaca
+8|What is the capital of Latvia?|Riga
+8|What is the capital of Cameroon?|Yaoundé
+8|What is the capital of Uzbekistan?|Tashkent
+8|What is the capital of Namibia?|Windhoek
+8|What is the capital of Georgia (the country)?|Tbilisi
+8|What is the capital of Zimbabwe?|Harare
+9|What is the capital of Mauritania?|Nouakchott
+9|What is the capital of Brunei?|Bandar Seri Begawan
+9|What is the capital of Albania?|Tirana
+9|What is the capital of Belarus?|Minsk
+9|What is the capital of Moldova?|Chișinău
+9|What is the capital of Guyana?|Georgetown
+9|What is the capital of Malawi?|Lilongwe
+9|What is the name of the world’s largest salt flat, in Bolivia?|Salar de Uyuni
+9|What is the capital of Gabon?|Libreville
+9|What is the capital of North Macedonia?|Skopje
+10|What is the capital of Tuvalu?|Funafuti
+10|What is the capital of São Tomé and Príncipe?|São Tomé
+10|What is the de facto capital of Nauru?|Yaren
+10|What is the capital of Burundi?|Gitega
+10|What is the capital of Saint Lucia?|Castries
+10|What is the capital of the Marshall Islands?|Majuro
+10|What is the capital of Samoa?|Apia
+10|What is the capital of Andorra?|Andorra la Vella
+10|What is the capital of the Solomon Islands?|Honiara
+1|What is the capital of Hawaii?|Honolulu
+2|What is the capital of Wales?|Cardiff
+10|What is the administrative capital of Eswatini?|Mbabane

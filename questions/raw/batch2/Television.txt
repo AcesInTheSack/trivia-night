@@ -1,0 +1,100 @@
+1|Which animated show features a boy named Ash who wants to be a Pokémon Master?|Pokémon
+1|On “Sesame Street,” what is the name of the big yellow bird?|Big Bird
+1|Which cartoon features a cat named Tom chasing a mouse?|Tom and Jerry
+1|What is the name of the Simpsons’ baby who always has a pacifier?|Maggie
+1|Which kids’ show features a friendly red Muppet who refers to himself in the third person?|Elmo (“Sesame Street”)
+1|Which animated show features a dog named Bluey?|Bluey
+1|Which kids’ show features a big red dog named Clifford?|Clifford the Big Red Dog
+1|Which cartoon follows a boy named Timmy who has fairy godparents?|The Fairly OddParents
+1|What is the name of Charlie Brown’s dog?|Snoopy
+2|Which sitcom featured the line “How you doin’?” from Joey Tribbiani?|Friends
+2|Which singing competition uses spinning chairs for blind auditions?|The Voice
+2|Which show features Meredith Grey and her fellow surgeons?|Grey’s Anatomy
+2|Which reality competition has the catchphrase “You’re fired!”?|The Apprentice
+2|In “The Office,” what is Dwight Schrute’s farm famous for growing?|Beets
+2|Which talk show host hosted “The Tonight Show” from 1992 to 2009 and again from 2010 to 2014?|Jay Leno
+2|Which British baking competition is known in the U.S. as “The Great British Baking Show”?|The Great British Bake Off
+2|In “SpongeBob SquarePants,” what is the name of SpongeBob’s pet snail?|Gary
+3|In “Stranger Things,” what is the name of the girl with psychic powers?|Eleven
+3|Which show follows the Dunphy, Pritchett and Tucker-Pritchett families?|Modern Family
+3|In “Seinfeld,” what is Kramer’s first name?|Cosmo
+3|Which comedy follows a group of community college students in Greendale?|Community
+3|Which network’s Saturday sketch show has run since 1975?|NBC (“Saturday Night Live”)
+3|In “The Big Bang Theory,” what is Sheldon’s catchphrase?|“Bazinga!”
+3|Who hosted “The Price Is Right” from 1972 to 2007?|Bob Barker
+3|Which show features the Belcher family running a burger restaurant?|Bob’s Burgers
+3|In “Friends,” what is the name of Phoebe’s famous song about a cat?|“Smelly Cat”
+4|Which HBO comedy starred Larry David as himself?|Curb Your Enthusiasm
+4|What is the name of the coffee chain-style diner Luke runs in “Gilmore Girls”?|Luke’s Diner
+4|Which actor plays Ron Swanson in “Parks and Recreation”?|Nick Offerman
+4|In “The Golden Girls,” which city do the women live in?|Miami
+4|Which crime drama features the Byrde family laundering money in the Missouri Ozarks?|Ozark
+4|What is the name of the Upside Down monster in the first season of “Stranger Things”?|The Demogorgon
+4|Which show follows Olivia Pope, a Washington crisis manager?|Scandal
+4|In “The Mandalorian,” what is the nickname fans gave the green alien child before his name was revealed?|Baby Yoda (Grogu)
+4|Which British show features the Shelby family gang in Birmingham?|Peaky Blinders
+4|Who plays Leslie Knope in “Parks and Recreation”?|Amy Poehler
+5|In “Breaking Bad,” what is the name of Walter White’s partner?|Jesse Pinkman
+5|Which show features the fictional company Pied Piper?|Silicon Valley
+5|Which sitcom starred Ray Romano as a sportswriter?|Everybody Loves Raymond
+5|In “The Crown,” whose reign is the series about?|Queen Elizabeth II
+5|Which comedy featured a fictional TV show called “TGS with Tracy Jordan”?|30 Rock
+5|Who played Tony Soprano?|James Gandolfini
+5|In “Succession,” what is the name of the family’s media company?|Waystar Royco
+5|Which sci-fi anthology series explores dark sides of technology, created by Charlie Brooker?|Black Mirror
+5|What was the name of the doctor played by Hugh Laurie in “House”?|Dr. Gregory House
+5|Which sitcom family lived at 1313 Mockingbird Lane?|The Munsters
+6|In “Lost,” what is the name of the mysterious organization behind the island stations?|The Dharma Initiative
+6|Which cable series starred Elisabeth Moss as a woman in Gilead?|The Handmaid’s Tale
+6|Who played the original Captain Kirk in “Star Trek”?|William Shatner
+6|What is the name of the fictional town in “Schitt’s Creek”?|Schitt’s Creek
+6|Which show starred Jerry Mathers as Theodore “Beaver” Cleaver?|Leave It to Beaver
+6|In “The Sopranos,” what is the name of Tony’s psychiatrist?|Dr. Jennifer Melfi
+6|Which 1990s show featured Mulder and Scully?|The X-Files
+6|In “Downton Abbey,” what is the name of the head butler?|Mr. Carson
+6|Which actor played Jack Bauer in “24”?|Kiefer Sutherland
+7|In “The Wire,” what is the name of the drug kingpin played by Idris Elba?|Stringer Bell
+7|Which show features the fictional Los Angeles law firm McKenzie, Brackman?|L.A. Law
+7|Which 1970s show featured a musical family touring in a painted bus?|The Partridge Family
+7|In “Mad Men,” what is the name of Don Draper’s real identity?|Dick Whitman
+7|Which sitcom featured the Huxtable family?|The Cosby Show
+7|In “Six Feet Under,” what business does the Fisher family run?|A funeral home
+7|What was the name of the fictional company in “WKRP in Cincinnati”?|WKRP (a radio station)
+7|Which show featured Detective Andy Sipowicz?|NYPD Blue
+7|Which 1970s sitcom followed a Black family that “moved on up” to Manhattan’s East Side?|The Jeffersons
+7|Which British comedy featured the Trotter brothers in Peckham?|Only Fools and Horses
+8|Which 1960s show featured Barnabas Collins, a vampire?|Dark Shadows
+8|In “Seinfeld,” what is the name of the restaurant where the friends often eat?|Monk’s Café
+8|Which show featured a fictional supercomputer called “The Machine”?|Person of Interest
+8|What was the name of the starship in “Star Trek: Voyager”?|USS Voyager
+8|Which 1960s show featured Mister Ed, a talking horse?|Mister Ed
+8|In “The West Wing,” who plays Press Secretary C.J. Cregg?|Allison Janney
+8|In “The Office” (UK), who plays David Brent?|Ricky Gervais
+8|What is the name of Archie Bunker’s son-in-law, nicknamed “Meathead”?|Michael Stivic
+8|What was the name of the family in “Family Matters” whose neighbor was Steve Urkel?|The Winslows
+8|What is the name of the fictional town in “Everwood”?|Everwood, Colorado
+9|In “Hill Street Blues,” who played Captain Frank Furillo?|Daniel J. Travanti
+9|Which 1951 sitcom was the first to be filmed before a live studio audience with multiple cameras?|I Love Lucy
+9|What was the name of Lucy and Ricky’s son on “I Love Lucy”?|Little Ricky
+9|Which 1960s show featured a family of witches, with Samantha twitching her nose?|Bewitched
+9|Who voiced the Enterprise computer in many “Star Trek” series?|Majel Barrett
+9|In “Cheers,” what is the name of Norm’s never-seen wife?|Vera
+9|What was the name of the 1960s spy show starring Robert Vaughn as Napoleon Solo?|The Man from U.N.C.L.E.
+9|In “Dallas,” who shot J.R.?|Kristin Shepard
+9|Which show featured lawyer Ally McBeal?|Ally McBeal
+9|What was the name of the dog on “Frasier”?|Eddie
+10|What was the original title of “The Tonight Show” when it began in 1954 with Steve Allen?|Tonight!
+10|Who played the father, Howard Cunningham, on “Happy Days”?|Tom Bosley
+10|What was the name of the 1950s children’s show hosted by Buffalo Bob Smith?|Howdy Doody
+10|In “Get Smart,” what was Agent 86’s name?|Maxwell Smart
+10|What was the name of Mister Rogers’ puppet king?|King Friday XIII
+10|In “The Twilight Zone” episode “Time Enough at Last,” what breaks at the end?|His glasses
+10|Who played Latka Gravas in “Taxi”?|Andy Kaufman
+10|Which 1960s show featured the Clampetts moving to Beverly Hills?|The Beverly Hillbillies
+10|What was the name of the fictional town in “Petticoat Junction”?|Hooterville
+10|Who created “Star Trek”?|Gene Roddenberry
+1|What is the name of the pig in “Peppa Pig”?|Peppa
+2|Which show features the Fresh Prince and his cousin Carlton?|The Fresh Prince of Bel-Air
+6|Which show starred Ted Danson as an architect of the afterlife named Michael?|The Good Place
+2|What is the name of SpongeBob’s best friend, a starfish?|Patrick Star
+3|In “Friends,” what is the name of Ross’s pet monkey?|Marcel

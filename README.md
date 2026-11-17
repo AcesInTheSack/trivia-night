@@ -20,7 +20,7 @@ fastlane/Fastfile           the TestFlight lane
 
 ## Questions
 
-`TriviaNight/Resources/questions.json` holds the question bank. Every question has a permanent ID, `q` plus 12 hex characters taken from a hash of the question's text. The app saves the ID of every question it shows on screen (on the device, across games and relaunches) and won't pick that question again until the unplayed ones in the chosen categories run out. Setup shows how many unplayed questions are left and has a button to reset the history.
+`TriviaNight/Resources/questions.json` holds the question bank (3,300 questions, 220 per category, built from `questions/original-300.csv` and `questions/raw/<batch>/<Category>.txt` by `scripts/build_pool_csv.py`). Every question has a permanent ID, `q` plus 12 hex characters taken from a hash of the question's text. The app saves the ID of every question it shows on screen (on the device, across games and relaunches) and won't pick that question again until the unplayed ones in the chosen categories run out. Setup shows how many unplayed questions are left and has a button to reset the history.
 
 To load a new pool, put it in a CSV with columns `category, difficulty, question, answer` (difficulty 1-10) and run:
 

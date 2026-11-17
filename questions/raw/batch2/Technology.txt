@@ -1,0 +1,100 @@
+1|What do you plug into a wall outlet to charge a phone?|A charger
+1|What do you call the saved list of websites you want to visit again?|Bookmarks (favorites)
+1|What is the name of the button that turns a device on and off?|The power button
+1|What do you call a portable computer that folds open?|A laptop
+1|What do you call a phone screen you control by tapping and swiping?|A touchscreen
+1|What device shows video on a wall from a beam of light?|A projector
+1|What device puts documents from a computer onto paper?|A printer
+1|What do you call the small speaker you wear in your ear for music?|Earbuds (earphones)
+1|Which key deletes the character before the cursor?|Backspace
+2|What does “TV” stand for?|Television
+2|What is the name of the live-streaming site, popular with gamers, owned by Amazon?|Twitch
+2|What is the name of the online video-calling app that became famous during 2020 lockdowns?|Zoom
+2|What does “Wi-Fi” use to send data instead of cables?|Radio waves
+2|What kind of device is a Fitbit?|A fitness tracker
+2|What is the name for a picture taken of what’s on your screen?|A screenshot
+2|What does “DVD” commonly stand for?|Digital versatile disc
+2|What does a webcam record?|Video
+2|What is the name of the online store for Android apps?|Google Play
+3|What does “HD” stand for in HD TV?|High definition
+3|What does “CD” stand for?|Compact disc
+3|What are the tiny dots that make up a digital image called?|Pixels
+3|Which company makes the GeForce graphics cards?|Nvidia
+3|What does “4G” or “5G” refer to?|Generations of mobile network technology
+3|What does a “router” do in a home network?|Directs internet traffic between devices
+3|What does “IT” stand for in an office’s IT department?|Information technology
+3|What is the name for a computer program that seems to talk like a person?|A chatbot
+3|What does “PIN” stand for?|Personal identification number
+3|What kind of device is the Nintendo Switch?|A video game console
+4|What does “OS” stand for?|Operating system
+4|What does “AR” stand for?|Augmented reality
+4|What does “RGB” stand for?|Red, green, blue
+4|Which company makes the Steam Deck handheld?|Valve
+4|What does “HDD” stand for?|Hard disk drive
+4|What does “email” stand for?|Electronic mail
+4|What is the name of the cryptocurrency created by Satoshi Nakamoto?|Bitcoin
+4|What does “DM” mean on social media?|Direct message
+4|What does “CSS” stand for?|Cascading Style Sheets
+4|In computing, how many bytes are in a kilobyte, in the traditional binary sense?|1,024
+5|Who founded SpaceX?|Elon Musk
+5|What does “LCD” stand for?|Liquid-crystal display
+5|What does “API” stand for?|Application programming interface
+5|What was the name of Microsoft’s web browser before Edge?|Internet Explorer
+5|What does “DSLR” stand for?|Digital single-lens reflex
+5|Who invented the phonograph in 1877?|Thomas Edison
+5|What does “VR” stand for?|Virtual reality
+5|What does “OCR” stand for?|Optical character recognition
+5|What does “SaaS” stand for?|Software as a service
+6|What does “BCC” stand for in email?|Blind carbon copy
+6|What does “P2P” stand for?|Peer-to-peer
+6|What does “FTP” stand for?|File Transfer Protocol
+6|Who co-founded Yahoo! with David Filo?|Jerry Yang
+6|What was the name of the 2003 social network for professionals?|LinkedIn
+6|What does “QWERTY” refer to?|The keyboard layout named after its first six letters
+6|What does “MIDI” stand for?|Musical Instrument Digital Interface
+6|What does “GPS” use to find your location?|Signals from satellites
+6|What is often called the best-selling single computer model of all time, launched in 1982?|The Commodore 64
+6|What does “PNG” stand for?|Portable Network Graphics
+7|Which inventor developed the alternating-current induction motor?|Nikola Tesla
+7|What does “HTTPS” add to HTTP?|Encryption (security)
+7|What is the name of the computer language of zeros and ones the CPU executes?|Machine code
+7|Who founded Dell Computer in 1984?|Michael Dell
+7|What does “SSL” stand for?|Secure Sockets Layer
+7|Which company made the TI-83 calculator?|Texas Instruments
+7|What is the name of the open-source web browser from Mozilla?|Firefox
+7|What does “CMOS” stand for?|Complementary metal-oxide-semiconductor
+7|What was the name of Apple’s handheld PDA released in 1993?|The Newton
+7|What is the name of the programming language created by Apple in 2014?|Swift
+8|Who is the creator of the Ruby programming language?|Yukihiro Matsumoto
+8|What does “ENIAC” stand for?|Electronic Numerical Integrator and Computer
+8|Which company created the Oracle Database?|Oracle (originally Software Development Laboratories)
+8|What does “LIDAR” measure distance with?|Laser light
+8|Who founded the Free Software Foundation in 1985?|Richard Stallman
+8|What is the name of the first commercially successful personal computer kit, sold in 1975?|The Altair 8800
+8|What does “GNU” stand for?|GNU’s Not Unix
+8|Which company made the Palm Pilot?|Palm, Inc.
+8|What was the name of the code-breaking machine Alan Turing helped design?|The Bombe
+8|What does “XML” stand for?|Extensible Markup Language
+9|Who built the first integrated circuit in 1958?|Jack Kilby
+9|What was the name of the first commercial transistor radio, released in 1954?|The Regency TR-1
+9|Who published the paper defining the “bit” and information theory in 1948?|Claude Shannon
+9|What was the name of the first home video game console, released in 1972?|The Magnavox Odyssey
+9|What was the name of the first popular web search engine to index full pages, launched in 1994?|WebCrawler
+9|Who invented the hyperlink concept and coined “hypertext”?|Ted Nelson
+9|Who led the original Macintosh project before Steve Jobs took over?|Jef Raskin
+9|What does “WYSIWYG” stand for?|What You See Is What You Get
+9|What was the name of the first commercial cellphone, released by Motorola in 1983?|The DynaTAC 8000X
+9|What was the name of the first U.S. satellite, launched in 1958?|Explorer 1
+10|Who designed the first stored-program computer architecture described in a 1945 report?|John von Neumann
+10|What was the name of the first stored-program electronic computer to run a program, in 1948 in Manchester?|The Manchester Baby (SSEM)
+10|Who built the Pascaline, an early mechanical calculator, in 1642?|Blaise Pascal
+10|What was the name of the first computer game, a tennis simulation on an oscilloscope in 1958?|Tennis for Two
+10|What was the name of the 1962 game, one of the first digital video games, made at MIT?|Spacewar!
+10|Who invented the first practical telegraph code in the 1830s with Alfred Vail?|Samuel Morse
+10|What was the name of the IBM computer that won “Jeopardy!” in 2011?|Watson
+10|Who built the Z3, an early programmable computer, in Germany in 1941?|Konrad Zuse
+10|Who co-founded Android Inc.?|Andy Rubin
+10|What was the name of the experimental self-replicating program on ARPANET in 1971?|Creeper
+1|What do you call the main page of a website?|The homepage
+2|What do you call a message or photo you share on social media?|A post
+5|What does “NAS” stand for in data storage?|Network-attached storage

@@ -1,0 +1,100 @@
+1|What is the hottest planet in our solar system?|Venus
+1|What part of the body do you use to smell?|The nose
+1|What do plants need from the Sun to make food?|Light (sunlight)
+1|What is the name for the colorful arc that appears when sunlight shines through rain?|A rainbow
+1|Which organ do humans use to think?|The brain
+1|Which organs do you use to breathe?|The lungs
+1|What is the third planet from the Sun?|Earth
+1|What do you call a baby plant growing from a seed?|A seedling (sprout)
+1|What is the imaginary line around the middle of the Earth called?|The equator
+1|What is the name of the hard white material covering your teeth?|Enamel
+2|What is the largest organ inside the human body?|The liver
+2|What do caterpillars eat most of the time?|Leaves
+2|What powdery substance do bees carry from flower to flower, helping plants make seeds?|Pollen
+2|What is the name of the air tubes that carry air into your lungs?|The bronchi
+2|What gas do fizzy drinks contain to make bubbles?|Carbon dioxide
+2|What is the name for animals that only eat meat?|Carnivores
+2|How many hours does it take Earth to rotate once on its axis, roughly?|24
+2|What is the name of the long bone in your lower leg, at the front?|The tibia (shinbone)
+2|What is the freezing point of water in Fahrenheit?|32°F
+2|What kind of energy does a moving object have?|Kinetic energy
+3|What is the name of the force that pushes up on objects in water?|Buoyancy
+3|Which planet has a day longer than its year?|Venus
+3|What blood vessels carry blood away from the heart?|Arteries
+3|What is the chemical symbol for silver?|Ag
+3|What is the name for a scientist who studies the weather?|A meteorologist
+3|How long does it take light from the Sun to reach Earth, roughly?|About 8 minutes
+3|What is the name of the jelly-like substance inside a cell?|Cytoplasm
+3|Which part of the flower makes pollen?|The stamen (anther)
+3|What is the most common gas in the air we breathe out?|Nitrogen
+3|What is the band of colors called when white light passes through a prism?|A spectrum
+4|What is the chemical symbol for copper?|Cu
+4|What is the name of the process by which plants lose water through their leaves?|Transpiration
+4|What is the largest moon in the solar system?|Ganymede
+4|What is the name for an animal without a backbone?|An invertebrate
+4|Which type of electromagnetic radiation causes sunburn?|Ultraviolet (UV) light
+4|What is the name of the tiny air sacs in the lungs?|Alveoli
+4|What is the minimum speed needed to break free of a planet’s gravity called?|Escape velocity
+4|Who proposed the theory of general relativity in 1915?|Albert Einstein
+4|What is the unit of electrical resistance?|The ohm
+4|What is the name of the outermost layer of Earth?|The crust
+5|What is the chemical symbol for mercury?|Hg
+5|What is the name of the instrument used to measure air pressure?|A barometer
+5|What is the name of the molecule that carries genetic instructions in living things?|DNA
+5|Which scientist is famous for experiments with pea plants that founded genetics?|Gregor Mendel
+5|What is the name of the bone that protects the brain?|The skull (cranium)
+5|What type of galaxy is the Milky Way?|A barred spiral galaxy
+5|What is the name of the boundary where two tectonic plates move apart?|A divergent boundary
+5|What is the SI unit of energy?|The joule
+5|What is the name of the hormone that regulates blood sugar?|Insulin
+5|What is the term for a substance with a pH below 7?|An acid
+6|What is the chemical symbol for platinum?|Pt
+6|What is the name of the effect that makes a passing siren change pitch?|The Doppler effect
+6|What is the name for a star that suddenly increases greatly in brightness and then fades, ending its life explosively?|A supernova
+6|Which element has the atomic number 8?|Oxygen
+6|What is the name of the scientist who first observed cells, in cork, in 1665?|Robert Hooke
+6|What is the name of the largest artery in the human body?|The aorta
+6|What scale from 0 to 14 measures how acidic or basic a substance is?|The pH scale
+6|What is the term for the amount of matter in an object?|Mass
+6|Which planet has the strongest winds in the solar system?|Neptune
+6|What is the name of the process in which a nucleus splits into smaller nuclei, releasing energy?|Nuclear fission
+7|What is the chemical symbol for sulfur?|S
+7|What is the name for the point in an orbit when a planet is closest to the Sun?|Perihelion
+7|Who discovered the electron in 1897?|J.J. Thomson
+7|What is the name of the gland known as the “master gland”?|The pituitary gland
+7|What is the name of the small group of galaxies the Milky Way belongs to?|The Local Group
+7|Which scientist proposed the planetary model of the atom with a dense nucleus in 1911?|Ernest Rutherford
+7|What is the name of the bones in the spine?|Vertebrae
+7|What is the name of the boundary layer between the troposphere and stratosphere?|The tropopause
+7|What is the name for an atom of an element with a different number of neutrons?|An isotope
+7|What is the name of the substance that gives plants their green color?|Chlorophyll
+8|What is the chemical symbol for arsenic?|As
+8|What is the name of the largest asteroid in the asteroid belt, now classed as a dwarf planet?|Ceres
+8|What is the name for the ability of some organisms to produce light?|Bioluminescence
+8|Which physicist developed the equation describing how quantum states evolve over time?|Erwin Schrödinger
+8|What is the name of the smallest bone in the human body, in the middle ear?|The stapes (stirrup)
+8|What is the name of the region of space around a planet dominated by its magnetic field?|The magnetosphere
+8|What is the term for a reaction that releases heat?|Exothermic
+8|What is the process called when cells make energy without oxygen, producing lactic acid in muscles?|Anaerobic respiration
+8|What is the name of the scientist who discovered X-rays in 1895?|Wilhelm Röntgen
+8|Which planet has the shortest day in the solar system?|Jupiter
+9|What is the chemical symbol for thallium?|Tl
+9|What is the name of the particle that holds quarks together?|The gluon
+9|What is the name of the layer of the Sun we see as its surface?|The photosphere
+9|Which scientist first measured the charge of the electron with an oil-drop experiment?|Robert Millikan
+9|What is the name of the enzyme in saliva that starts breaking down starch?|Amylase
+9|What is the name for the theoretical boundary where the solar wind meets interstellar space?|The heliopause
+9|What is the name of the scale of temperature that starts at absolute zero and uses Celsius-sized degrees?|The Kelvin scale
+9|What is the name of the period when dinosaurs went extinct, about 66 million years ago?|The end of the Cretaceous (K–Pg boundary)
+9|What is the name of the four-letter code used for the bases in DNA?|A, T, G and C (adenine, thymine, guanine, cytosine)
+9|Which element is the most abundant metal in Earth’s crust?|Aluminum
+10|What is the name of the hypothetical particle proposed to carry gravity?|The graviton
+10|Which element has the symbol Rf, named after Ernest Rutherford?|Rutherfordium
+10|What is the name of the effect in which a magnetic field splits spectral lines?|The Zeeman effect
+10|What is the region around a black hole where light can travel in a circular orbit called?|The photon sphere
+10|What is the name of the protein that forms the main structure of hair and nails?|Keratin
+10|What is the name of the limit beyond which a moon is torn apart by a planet’s tides?|The Roche limit
+10|What is the name of the brightest star in the night sky?|Sirius
+10|Which physicist discovered the neutron in 1932?|James Chadwick
+10|What is the name of the subatomic particle with no charge and almost no mass that passes through matter easily?|The neutrino
+10|What is the name of the bacteria-killing enzyme found in tears and saliva, discovered by Fleming?|Lysozyme

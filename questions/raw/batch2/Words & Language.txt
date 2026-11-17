@@ -1,0 +1,100 @@
+1|What is the plural of “foot”?|Feet
+1|What is the opposite of “big”?|Small
+1|What is the past tense of “go”?|Went
+1|How many letters are in the word “cat”?|Three
+1|What is the plural of “man”?|Men
+1|What letter comes before “B” in the alphabet?|A
+1|What word means the opposite of “day”?|Night
+1|What is the plural of “woman”?|Women
+1|What is the past tense of “see”?|Saw
+1|What punctuation mark separates items in a list?|A comma
+2|What is the plural of “ox”?|Oxen
+2|What language is spoken in Mexico?|Spanish
+2|What does “hola” mean?|Hello
+2|What is the past tense of “swim”?|Swam
+2|What do you call a word that joins two others, like “and” or “but”?|A conjunction
+2|What language is mainly spoken in Quebec?|French
+2|What does “ciao” mean in Italian?|Hello or goodbye
+2|What is the plural of “leaf”?|Leaves
+2|What punctuation mark is a dot at the end of a sentence?|A period (full stop)
+2|What do you call a word that replaces a noun, like “he” or “it”?|A pronoun
+3|What is the plural of “fungus”?|Fungi
+3|What are the four national languages of Switzerland?|German, French, Italian and Romansh
+3|What does “danke” mean in English?|Thank you
+3|What does “AWOL” stand for?|Absent without leave
+3|What does “oui” mean in English?|Yes
+3|What is the plural of “crisis”?|Crises
+3|What does “P.S.” stand for at the end of a letter?|Postscript
+3|What alphabet is used to write English?|The Latin (Roman) alphabet
+3|What does “auf Wiedersehen” mean?|Goodbye
+4|What does “NATO” stand for?|North Atlantic Treaty Organization
+4|What is the plural of “phenomenon”?|Phenomena
+4|What does “a.m.” stand for?|Ante meridiem (before noon)
+4|What language is the word “karaoke” from?|Japanese
+4|What does the prefix “bi-” mean?|Two
+4|What is the term for words that are spelled the same but have different meanings, like “bat”?|Homonyms (homographs)
+4|What does “c’est la vie” mean?|“That’s life”
+4|What is the official language of Brazil’s neighbor Suriname?|Dutch
+4|What does “ASAP” stand for?|As soon as possible
+4|What does the suffix “-ology” mean?|The study of
+5|What does “carte blanche” mean?|Complete freedom to act
+5|What does “bon voyage” mean?|“Have a good trip”
+5|Which language does the word “ballet” come from?|French
+5|What does “status quo” mean?|The existing state of affairs
+5|What does “SCUBA” stand for?|Self-contained underwater breathing apparatus
+5|What do we call the ancient wedge-shaped writing of Mesopotamia?|Cuneiform
+5|What does “vice versa” mean?|The other way around
+5|What does “alma mater” mean literally?|“Nourishing mother”
+5|What language does the word “pajamas” come from?|Hindi-Urdu (from Persian)
+5|What does “rendezvous” mean?|A meeting at an agreed time and place
+6|What does “laser” stand for?|Light amplification by stimulated emission of radiation
+6|What does “wanderlust” mean?|A strong desire to travel
+6|What does “avant-garde” mean?|New and experimental
+6|What does “ad hoc” mean?|For a particular purpose, arranged as needed
+6|Which language is the word “cookie” from?|Dutch
+6|What does “prima donna” literally mean in Italian?|“First lady”
+6|What is the official language of Ethiopia?|Amharic
+6|What does “raison d’être” mean?|Reason for being
+6|What language does the word “juggernaut” come from?|Hindi (from Sanskrit)
+7|What does “hoi polloi” mean?|The common people
+7|What does “doppelgänger” mean?|A double of a living person
+7|What does “in situ” mean?|In its original place
+7|What does “kowtow” originally refer to?|Kneeling and touching the forehead to the ground in respect (Chinese)
+7|What is the name for the dash that’s longer than a hyphen, about the width of the letter M?|An em dash
+7|What does “bête noire” mean?|A thing someone especially dislikes
+7|Which language did the word “algebra” come from?|Arabic
+7|What does “kitsch” describe?|Art or objects in poor taste, often cheesy
+7|What is the term for the main word in a phrase that determines its type?|The head
+7|What does “angst” mean?|A feeling of deep anxiety
+8|What does “weltschmerz” mean?|World-weariness
+8|What does “hygge” mean in Danish?|Cozy contentment
+8|What is the name of the ¿ mark that begins Spanish questions?|An inverted question mark
+8|What does “ipso facto” mean?|By that very fact
+8|What does “cul-de-sac” literally mean in French?|“Bottom of the bag”
+8|What does “wabi-sabi” describe in Japanese aesthetics?|Beauty in imperfection and impermanence
+8|What does “quixotic” mean?|Idealistic and unrealistic
+8|Which language did the word “avatar” come from?|Sanskrit
+8|What does the German word “Gesamtkunstwerk” mean?|A total work of art combining many art forms
+8|What does “sangfroid” mean?|Composure under pressure
+9|What is the term for a word that is formed from a person’s name, like “sandwich”?|An eponym
+9|What does “Sturm und Drang” mean?|Storm and stress
+9|What is a “bildungsroman”?|A coming-of-age novel
+9|What does “apropos” mean?|With reference to; fitting
+9|What is the term for a figure of speech that addresses an absent person or thing, like “O Death”?|Apostrophe
+9|What does “sic” indicate in a quotation?|An error reproduced exactly as in the original
+9|What language does the word “ombudsman” come from?|Swedish
+9|What does “lingua franca” mean?|A common language between speakers of different languages
+9|What does “ultracrepidarian” describe?|Someone who gives opinions beyond their expertise
+9|What is the term for using a mild understatement by denying the opposite, like “not bad”?|Litotes
+10|What is the name for the mark ˘ over a vowel?|A breve
+10|What does “sesquicentennial” mark?|A 150th anniversary
+10|What is the term for words that look alike in two languages but mean different things?|False friends
+10|Which language did the word “hammock” come from?|Taíno (via Spanish)
+10|What is the term for the deliberate repetition of conjunctions, as in “and… and… and”?|Polysyndeton
+10|What is the name of the curly bracket { }?|A brace
+10|What does “floccinaucinihilipilification” mean?|The act of estimating something as worthless
+10|What is the term for a word’s original root from which others derive?|An etymon
+10|What is a word or design that reads the same when turned upside down called?|An ambigram
+10|What is the term for a word whose meaning has become narrower over time, like “meat” once meaning all food?|Narrowing (specialization)
+3|What does “FAQ” stand for?|Frequently asked questions
+6|What does “tête-à-tête” mean?|A private conversation between two people
