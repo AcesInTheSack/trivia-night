@@ -145,3 +145,68 @@ extension Binding where Value == Int {
         Binding<Double>(get: { Double(wrappedValue) }, set: { wrappedValue = Int($0.rounded()) })
     }
 }
+
+/// Custom line icon for a category, from the asset catalog (cat-<slug>), tinted by foregroundStyle.
+struct CategoryIcon: View {
+    let name: String
+    var size: CGFloat = 20
+
+    static func assetName(_ category: String) -> String {
+        let slug = category.lowercased()
+            .map { $0.isLetter || $0.isNumber ? String($0) : "-" }
+            .joined()
+            .split(separator: "-", omittingEmptySubsequences: true)
+            .joined(separator: "-")
+        return "cat-" + slug
+    }
+
+    var body: some View {
+        Image(Self.assetName(name))
+            .renderingMode(.template)
+            .resizable()
+            .scaledToFit()
+            .frame(width: size, height: size)
+            .accessibilityHidden(true)
+    }
+}
+
+/// “Trivia Night” plus the BIG SCREEN tag, as on the app icon.
+struct Wordmark: View {
+    var size: CGFloat = 44
+    var body: some View {
+        HStack(alignment: .center, spacing: size * 0.3) {
+            Text("Trivia Night")
+                .font(.system(size: size, weight: .bold))
+                .foregroundStyle(Theme.text)
+                .tracking(-size * 0.02)
+            Text("BIG SCREEN")
+                .font(.system(size: size * 0.3, weight: .bold))
+                .tracking(size * 0.03)
+                .foregroundStyle(Theme.bg)
+                .padding(.horizontal, size * 0.24)
+                .padding(.vertical, size * 0.12)
+                .background(RoundedRectangle(cornerRadius: size * 0.16).fill(Theme.amber))
+        }
+        .accessibilityElement(children: .combine)
+        .accessibilityLabel("Trivia Night: Big Screen")
+    }
+}
+
+/// “by The Oregon Critter & Travel Co.” with the company logo.
+struct CompanyCredit: View {
+    var size: CGFloat = 16
+    var body: some View {
+        HStack(spacing: size * 0.75) {
+            Image("critter-logo")
+                .resizable()
+                .scaledToFill()
+                .frame(width: size * 3.2, height: size * 3.2)
+                .clipShape(RoundedRectangle(cornerRadius: size * 0.7, style: .continuous))
+                .accessibilityHidden(true)
+            (Text("by ").foregroundStyle(Theme.muted)
+             + Text("The Oregon Critter & Travel Co.").foregroundStyle(Theme.text).fontWeight(.semibold))
+                .font(Theme.body(size))
+        }
+        .accessibilityElement(children: .combine)
+    }
+}

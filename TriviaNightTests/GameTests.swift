@@ -1,4 +1,5 @@
 import XCTest
+import UIKit
 @testable import TriviaNight
 
 final class GameTests: XCTestCase {
@@ -30,6 +31,14 @@ final class GameTests: XCTestCase {
         let ids = bank.categories.flatMap { $0.questions.map(\.id) }
         XCTAssertEqual(Set(ids).count, ids.count, "IDs must be unique")
         XCTAssertTrue(ids.allSatisfy { $0.hasPrefix("q") && $0.count == 13 }, "IDs come from questions.json, not array position")
+    }
+
+    func testEveryCategoryHasAnIconAndTheLogoIsBundled() {
+        let appBundle = Bundle(for: AppModel.self)
+        for cat in bank.categories {
+            XCTAssertNotNil(UIImage(named: CategoryIcon.assetName(cat.name), in: appBundle, with: nil), "icon for \(cat.name)")
+        }
+        XCTAssertNotNil(UIImage(named: "critter-logo", in: appBundle, with: nil))
     }
 
     func testHistoryPersistsAcrossLaunches() throws {

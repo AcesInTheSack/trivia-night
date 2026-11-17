@@ -38,6 +38,8 @@ struct SplashView: View {
                         .buttonStyle(PrimaryButtonStyle(size: 28 * s))
                         .keyboardShortcut(.return, modifiers: [])
                     Spacer()
+                    CompanyCredit(size: max(13, 18 * s))
+                        .padding(.bottom, 8 * s)
                 }
                 .padding(32)
                 .frame(maxWidth: .infinity)
@@ -115,8 +117,10 @@ struct GameView: View {
 
     @ViewBuilder
     private func chips(_ q: Question, s: CGFloat) -> some View {
-        let icon = model.bank.category(named: q.category)?.icon ?? ""
-        Text("\(icon) \(q.category)")
+        HStack(spacing: 6 * max(s, 0.7)) {
+            CategoryIcon(name: q.category, size: max(13, 18 * s))
+            Text(q.category)
+        }
             .font(Theme.body(max(12, 17 * s), .semibold))
             .foregroundStyle(Theme.amber)
             .padding(.horizontal, 14 * max(s, 0.7)).padding(.vertical, 6 * max(s, 0.7))

@@ -40,16 +40,7 @@ struct SetupView: View {
 
     private var header: some View {
         VStack(alignment: .leading, spacing: 6) {
-            HStack(alignment: .firstTextBaseline, spacing: 14) {
-                (Text("Trivia ").foregroundStyle(Theme.text) + Text("Night").foregroundStyle(Theme.amber))
-                    .font(Theme.display(48, .heavy))
-                Text("WORKING TITLE")
-                    .font(Theme.body(11, .semibold))
-                    .tracking(1.5)
-                    .foregroundStyle(Theme.dim)
-                    .padding(.horizontal, 10).padding(.vertical, 4)
-                    .overlay(Capsule().stroke(Theme.line))
-            }
+            Wordmark(size: 44)
             Text("Set up tonight’s game, then mirror this screen to the TV.")
                 .font(Theme.body(17))
                 .foregroundStyle(Theme.muted)
@@ -76,7 +67,8 @@ struct SetupView: View {
                     let on = model.settings.selected.contains(cat.name)
                     Button { model.toggle(cat.name) } label: {
                         HStack(spacing: 10) {
-                            Text(cat.icon).font(.system(size: 20))
+                            CategoryIcon(name: cat.name, size: 22)
+                                .foregroundStyle(Theme.amber)
                             Text(cat.name)
                                 .font(Theme.body(15.5, .semibold))
                                 .foregroundStyle(Theme.text)
@@ -224,13 +216,15 @@ struct SetupView: View {
                                              set: { model.setCategoryDifficulty(cat.name, $0) })
                         ViewThatFits(in: .horizontal) {
                             HStack(spacing: 16) {
-                                Text("\(cat.icon) \(cat.name)").font(Theme.body(15, .semibold)).frame(width: 210, alignment: .leading)
+                                Label { Text(cat.name) } icon: { CategoryIcon(name: cat.name, size: 18).foregroundStyle(Theme.amber) }
+                                    .font(Theme.body(15, .semibold)).frame(width: 210, alignment: .leading)
                                 Slider(value: b.asDouble, in: 1...10, step: 1).tint(Theme.amber)
                                 Text("\(b.wrappedValue)").font(Theme.display(20)).monospacedDigit().frame(width: 32, alignment: .trailing)
                             }
                             VStack(alignment: .leading, spacing: 4) {
                                 HStack {
-                                    Text("\(cat.icon) \(cat.name)").font(Theme.body(15, .semibold))
+                                    Label { Text(cat.name) } icon: { CategoryIcon(name: cat.name, size: 18).foregroundStyle(Theme.amber) }
+                                        .font(Theme.body(15, .semibold))
                                     Spacer()
                                     Text("\(b.wrappedValue)").font(Theme.display(20)).monospacedDigit()
                                 }

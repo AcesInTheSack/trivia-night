@@ -43,8 +43,14 @@ jobs:
           d = json.loads(subprocess.check_output(["xcrun","simctl","list","devices","available","-j"]))["devices"]
           ios = sorted([k for k in d if "iOS" in k], key=lambda k: [int(x) for x in k.split("iOS-")[-1].split("-")])
           devs = d[ios[-1]]
-          iphone = next(x for x in devs if x["name"].startswith("iPhone") and "Pro" in x["name"]) if any("Pro" in x["name"] for x in devs) else next(x for x in devs if x["name"].startswith("iPhone"))
-          ipad = next(x for x in devs if x["name"].startswith("iPad Pro")) if any(x["name"].startswith("iPad Pro") for x in devs) else next(x for x in devs if x["name"].startswith("iPad"))
+          def pick(prefs, base):
+              for pref in prefs:
+                  for x in devs:
+                      if x["name"].startswith(pref): return x
+              return next(x for x in devs if x["name"].startswith(base))
+          # App Store screenshot sizes: 6.9" iPhone (Pro Max) and 13" iPad Pro
+          iphone = pick(["iPhone 17 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro", "iPhone 16 Pro"], "iPhone")
+          ipad = pick(["iPad Pro 13", "iPad Pro (13", "iPad Air 13", "iPad Pro"], "iPad")
           print(f"iphone={iphone['udid']}")
           print(f"ipad={ipad['udid']}")
           EOF
@@ -76,6 +82,7 @@ jobs:
             t 30 xcrun simctl shutdown all || true
             t 120 xcrun simctl boot "$UDID" || true
             t 300 xcrun simctl bootstatus "$UDID" || echo "bootstatus timed out"
+            t 30 xcrun simctl status_bar "$UDID" override --time 9:41 --batteryState charged --batteryLevel 100 --wifiBars 3 || true
             t 120 xcrun simctl install "$UDID" "$APP" || { echo "install failed"; continue; }
             for screen in setup splash game answer end; do
               t 20 xcrun simctl terminate "$UDID" com.acesinthesack.trivianight 2>/dev/null || true
