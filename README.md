@@ -56,3 +56,18 @@ One-time setup in your Apple Developer account:
 Then: Actions → TestFlight → Run workflow. The build shows up in App Store Connect under TestFlight after Apple finishes processing it (usually 10–30 minutes). Install the TestFlight app on your iPad to try it.
 
 Submitting for review still happens in App Store Connect: screenshots, description, privacy answers (the app collects no data), and age rating.
+
+## Android
+
+`android/` holds a native Kotlin / Jetpack Compose version of the app with the same setup flow, game flow, question picker, and no-repeat history. It reads the same `TriviaNight/Resources/questions.json` (copied into the app's assets at build time), so the question bank and IDs stay shared. Package name `com.acesinthesack.trivianight`, min Android 8.0 (API 26), targets Android 16 (API 36).
+
+```
+cd android
+./gradlew testDebugUnitTest --tests '*GameTest*'   # same rules as TriviaNightTests
+./gradlew recordRoborazziDebug                     # Play-size screenshots + feature graphic in app/build/screenshots
+./gradlew bundleRelease                            # app/build/outputs/bundle/release/app-release.aab
+```
+
+`scripts/android_assets.py` regenerates the Android icons, category drawables, and logo from the iOS asset catalog. Store listing text, Play Console answers, and upload-ready images are in `android/play/`.
+
+Signing: the release bundle is signed with the upload key when `android/keystore.properties` exists (never committed) or when the GitHub secrets `ANDROID_KEYSTORE_BASE64`, `ANDROID_KEYSTORE_PASSWORD`, and `ANDROID_KEY_PASSWORD` are set. `.github/workflows/android.yml` runs the tests, renders screenshots, and builds the bundle on every change under `android/`.

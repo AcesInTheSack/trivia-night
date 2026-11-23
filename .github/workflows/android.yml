@@ -1,0 +1,74 @@
+name: Android
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "android/**"
+      - "TriviaNight/Resources/questions.json"
+      - ".github/workflows/android.yml"
+  pull_request:
+    paths:
+      - "android/**"
+      - "TriviaNight/Resources/questions.json"
+      - ".github/workflows/android.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: android-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    defaults:
+      run:
+        working-directory: android
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Unit tests
+        run: ./gradlew testDebugUnitTest --tests '*GameTest*'
+
+      - name: Screenshots and feature graphic
+        run: ./gradlew recordRoborazziDebug
+
+      - name: Upload screenshots
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-screenshots
+          path: android/app/build/screenshots
+
+      # Signs with the upload key when these repository secrets exist:
+      # ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_PASSWORD (alias "upload").
+      - name: Release bundle
+        env:
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+          ANDROID_VERSION_CODE: ${{ github.run_number }}
+        run: |
+          if [ -n "$ANDROID_KEYSTORE_BASE64" ]; then
+            echo "$ANDROID_KEYSTORE_BASE64" | base64 -d > "$RUNNER_TEMP/upload.jks"
+            export ANDROID_KEYSTORE_PATH="$RUNNER_TEMP/upload.jks"
+            export ANDROID_KEY_ALIAS=upload
+          else
+            echo "::notice::No signing secrets; building an unsigned bundle."
+          fi
+          # Play needs every upload to have a higher version code than the last; build 1 was uploaded by hand.
+          export ANDROID_VERSION_CODE=$((ANDROID_VERSION_CODE + 1))
+          ./gradlew bundleRelease
+
+      - name: Upload bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-release-aab
+          path: android/app/build/outputs/bundle/release/*.aab

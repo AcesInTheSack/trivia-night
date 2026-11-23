@@ -12,3 +12,15 @@ fastlane/README.md
 .DS_Store
 xcuserdata/
 screenshots/
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/keystore.properties
+*.jks
+*.keystore
+*.aab
+*.apk
+.kotlin/
